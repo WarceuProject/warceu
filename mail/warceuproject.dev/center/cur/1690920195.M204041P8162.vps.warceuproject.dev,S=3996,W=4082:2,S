@@ -1,0 +1,86 @@
+Return-Path: <case++aazqltoizmi4qm@support.facebook.com>
+Delivered-To: center@warceuproject.dev
+Received: from vps.warceuproject.dev
+	by vps.warceuproject.dev with LMTP
+	id vT+VCwNlyWTiHwAA0wEIKA
+	(envelope-from <case++aazqltoizmi4qm@support.facebook.com>)
+	for <center@warceuproject.dev>; Tue, 01 Aug 2023 13:03:15 -0700
+Return-path: <case++aazqltoizmi4qm@support.facebook.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Tue, 01 Aug 2023 13:03:15 -0700
+Received: from 69-171-232-141.mail-mail.facebook.com ([69.171.232.141]:51576)
+	by vps.warceuproject.dev with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <case++aazqltoizmi4qm@support.facebook.com>)
+	id 1qQvaN-00025Q-00
+	for center@warceuproject.dev;
+	Tue, 01 Aug 2023 13:03:15 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=support.facebook.com;
+	s=s1024-2013-q3; t=1690920140;
+	bh=E/1zGdxvuvCLvg8TO6c7dALIgNuTS/u9seZhiR5pjMQ=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=Nz6rAeP7T+TRmFq/eoFmTcAg2iGKYMstAjWP/zjmYWiQCFlrOCNuvv0RUnEdjN/pw
+	 Sog3zMV56vo0RkqID/S83iu7LgG8gYiJ7pY5ebHHsr9NTqJ/yjgG0u3xHL9Yy0n5rk
+	 NAbgWZTsdQZxInl0jzXLp7gEQ9eIc73n3F1tIths=
+X-Facebook: from 2401:db00:135c:3010:face:0:24d:0 ([MTI3LjAuMC4x]) 
+	by thrift.internalfb.com with HTTPS (ZuckMail);
+Date: Tue, 1 Aug 2023 13:02:20 -0700
+To: center@warceuproject.dev
+Subject: Kami tidak dapat memverifikasi Halaman atau profil Anda
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: Facebook <case++aazqltoizmi4qm@support.facebook.com>
+Reply-to: Facebook <case++aazqltoizmi4qm@support.facebook.com>
+X-CODE-REVISION: 1007943655
+X-ASYNC-CALLID: 54#asyncnxdb.atn.15760:13418648998
+Precedence: Bulk
+Auto-Submitted: auto-generated
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+Message-ID: <52f185f6-30a6-11ee-a10a-4f38c86fe79b@support.facebook.com>
+X-Spam-Status: No, score=2.6
+X-Spam-Score: 26
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "vps.warceuproject.dev",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Kira, Terima kasih atas permintaan untuk memverifikasi
+   Halaman atau profil Anda. Sayangnya, Halaman atau profil tersebut tidak memenuhi
+    persyaratan untuk verifikasi saat ini. Kami mendorong Anda untuk terus memenuhi
+    persyaratannya. Anda dapat mengirimkan permintaan kembali setelah 30 hari.
+    
+ Content analysis details:   (2.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 TVD_RCVD_IP            Message was received from an IP address
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                             [69.171.232.141 listed in psbl.surriel.com]
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+ -0.0 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+
+Hi Kira,
+
+Terima kasih atas permintaan untuk memverifikasi Halaman atau profil Anda. =
+Sayangnya, Halaman atau profil tersebut tidak memenuhi persyaratan untuk =
+verifikasi saat ini.
+
+Kami mendorong Anda untuk terus memenuhi persyaratannya. Anda dapat =
+mengirimkan permintaan kembali setelah 30 hari.
+   =20
+Anda dapat mempelajari selengkapnya tentang apa saja yang kami cari di =
+Pusat Bantuan:
+https://www.facebook.com/help/1288173394636262?ref=3Dcr
+=20
+Terima kasih
+

@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: warceu@154-53-61-106.cprapid.com
+Received: from 154-53-61-106.cprapid.com
+	by 154-53-61-106.cprapid.com with LMTP
+	id kBa8EM2WyGRqJwAANuvnvw
+	(envelope-from <>)
+	for <warceu@154-53-61-106.cprapid.com>; Mon, 31 Jul 2023 22:23:25 -0700
+Return-path: <>
+Envelope-to: warceu@warceuproject.dev
+Delivery-date: Mon, 31 Jul 2023 22:23:25 -0700
+Received: from mailnull by 154-53-61-106.cprapid.com with local (Exim 4.96)
+	id 1qQhqv-0002eq-0b
+	for warceu@warceuproject.dev;
+	Mon, 31 Jul 2023 22:23:25 -0700
+X-Failed-Recipients: lightid180@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@154-53-61-106.cprapid.com>
+To: warceu@warceuproject.dev
+References: <CAM0mTbT0W7-xjyt5OTc8emQyd+pbQVqEz0VMq9UvjEOD0RfdNA@mail.gmail.com> <0e00ca366a529c1e7fe14ae0d4d74726@warceuproject.dev>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1690867405-eximdsn-1692486353
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qQhqv-0002eq-0b@154-53-61-106.cprapid.com>
+Date: Mon, 31 Jul 2023 22:23:25 -0700
+
+--1690867405-eximdsn-1692486353
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  lightid180@gmail.com
+    host gmail-smtp-in.l.google.com [74.125.20.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 This mail is unauthenticated, which poses a security risk to the
+    550-5.7.26 sender and Gmail users, and has been blocked. The sender must
+    550-5.7.26 authenticate with at least one of SPF or DKIM. For this message,
+    550-5.7.26 DKIM checks did not pass and SPF check for [warceuproject.dev] did
+    550-5.7.26 not pass with ip: [154.53.61.106]. The sender should visit
+    550-5.7.26  https://support.google.com/mail/answer/81126#authentication for
+    550 5.7.26 instructions on setting up authentication. eb2-20020a056a004c8200b0068716b885c1si1504276pfb.217 - gsmtp
+
+--1690867405-eximdsn-1692486353
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; 154-53-61-106.cprapid.com
+
+Action: failed
+Final-Recipient: rfc822;lightid180@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 This mail is unauthenticated, which poses a security risk to the
+ 550-5.7.26 sender and Gmail users, and has been blocked. The sender must
+ 550-5.7.26 authenticate with at least one of SPF or DKIM. For this message,
+ 550-5.7.26 DKIM checks did not pass and SPF check for [warceuproject.dev] did
+ 550-5.7.26 not pass with ip: [154.53.61.106]. The sender should visit
+ 550-5.7.26  https://support.google.com/mail/answer/81126#authentication for
+ 550 5.7.26 instructions on setting up authentication. eb2-20020a056a004c8200b0068716b885c1si1504276pfb.217 - gsmtp
+
+--1690867405-eximdsn-1692486353
+Content-type: message/rfc822
+
+Return-path: <warceu@warceuproject.dev>
+Received: from localhost ([127.0.0.1]:56464 helo=154-53-61-106.cprapid.com)
+	by 154-53-61-106.cprapid.com with esmtpa (Exim 4.96)
+	(envelope-from <warceu@warceuproject.dev>)
+	id 1qQoPL-0002ej-32
+	for lightid180@gmail.com;
+	Mon, 31 Jul 2023 22:23:24 -0700
+MIME-Version: 1.0
+Date: Mon, 31 Jul 2023 22:23:24 -0700
+From: warceu <warceu@warceuproject.dev>
+To: Kira Sinigami <lightid180@gmail.com>
+Subject: Re: test ahy
+In-Reply-To: <CAM0mTbT0W7-xjyt5OTc8emQyd+pbQVqEz0VMq9UvjEOD0RfdNA@mail.gmail.com>
+References: <CAM0mTbT0W7-xjyt5OTc8emQyd+pbQVqEz0VMq9UvjEOD0RfdNA@mail.gmail.com>
+User-Agent: Roundcube Webmail/1.6.0
+Message-ID: <0e00ca366a529c1e7fe14ae0d4d74726@warceuproject.dev>
+X-Sender: warceu@warceuproject.dev
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+On 2023-07-31 22:21, Kira Sinigami wrote:
+> testing hay
+Siap ahy
+
+--1690867405-eximdsn-1692486353--

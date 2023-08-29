@@ -1,0 +1,112 @@
+Return-Path: <lightid180@gmail.com>
+Delivered-To: warceu@server.gruponani.net
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id 8+iMF9bky2S+DAAAz1WdsA
+	(envelope-from <lightid180@gmail.com>)
+	for <warceu@server.gruponani.net>; Thu, 03 Aug 2023 10:33:10 -0700
+Return-path: <lightid180@gmail.com>
+Envelope-to: warceu@warceuproject.dev
+Delivery-date: Thu, 03 Aug 2023 10:33:10 -0700
+Received: from mail-wr1-f42.google.com ([209.85.221.42]:56637)
+	by server.gruponani.net with esmtps  (TLS1.3) tls TLS_AES_128_GCM_SHA256
+	(Exim 4.96)
+	(envelope-from <lightid180@gmail.com>)
+	id 1qRcC9-0000pg-2U
+	for warceu@warceuproject.dev;
+	Thu, 03 Aug 2023 10:33:10 -0700
+Received: by mail-wr1-f42.google.com with SMTP id ffacd0b85a97d-31768ce2e81so1113246f8f.1
+        for <warceu@warceuproject.dev>; Thu, 03 Aug 2023 10:32:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20221208; t=1691083944; x=1691688744;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=TextaZfVOtohob2cfvn3F0KZ5Ru9eE++DtTa6FGbfTQ=;
+        b=SzGyUHqhaLqs1WXDRrQT6W8k7q2FeWP7ZMtvvVEF5S5Q6LUjTPzWlH/TSoPb+UkZQV
+         W9CY+XJFxRh9jpmaTf+pxw1zwp+koxg9BPYkFM+KxSqHxclbqgOA0uEU1mAag9GRuUSX
+         qcD6FtAX8vE6r9S0ZGmvIbnL9mMszhoIlW3Irm2nec70xjnerMelcZH+TRZiROns8cby
+         n+1/sPAO/effA+GWv1gkmI+x0Udf/3seTgnXMZz6AFhH8l7E7R+deOSsbB0tWiOdmjHz
+         RiVzxGRHEsdls0oYBMeY9e6KJTeTgYPkAedMrjpxi8rZh0BlEZFXTUyHUgAxjccEHE6G
+         2UnQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20221208; t=1691083944; x=1691688744;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=TextaZfVOtohob2cfvn3F0KZ5Ru9eE++DtTa6FGbfTQ=;
+        b=lYp936SvbivYEHeY3OUK629bSTol27yj6Y43l81r50o5dhy9K8S1l2xvXXTs1DNHyj
+         YTyrDRUoWDihqPYXPvsXbACmOgTCllNzDPSZXH07l96QwIUhQ6PC5dLYzjwe2ttMp/rt
+         HD1Y85cToqIgW0npC3Bzdjh0/i4H4bss55ArwYINPjeWD7OWM/1VvvIWAzzMwEgifdlM
+         PYDfPSt1E56VnZ9FLazuHKSnmv2vfu8N3ZVdTSOYEp9RT0j4FSwXxKEYykZzPzbf8cHA
+         pzUs5bQUy+cvPRfVURd2jxmwH6Vk/5lnwbic/4fRqPSk9AYyxnau/Fz31SODpdiZG47t
+         a5kw==
+X-Gm-Message-State: ABy/qLa+oJ6AaHxZ58Vo/XjSKQhkSh6EVhL+Sb1uya1fO5oy//VPGgYH
+	ksaSrHkuYq/86fu7VlxURQI9VJAhnkiRdnIYrjTKOnHQ1JM=
+X-Google-Smtp-Source: APBJJlEs7PIwrGuq6XTxy60y1druySF2vWrZgwcswhEISKceJIFAsT/8MvKMEUf3qqei3t+RUxCk7w2JZzz222hYmcY=
+X-Received: by 2002:adf:e3c9:0:b0:317:6175:95fd with SMTP id
+ k9-20020adfe3c9000000b00317617595fdmr7491660wrm.43.1691083943096; Thu, 03 Aug
+ 2023 10:32:23 -0700 (PDT)
+MIME-Version: 1.0
+References: <2a18f69ff849d9a43239ef862da3281d@warceuproject.dev>
+In-Reply-To: <2a18f69ff849d9a43239ef862da3281d@warceuproject.dev>
+From: Kira Sinigami <lightid180@gmail.com>
+Date: Fri, 4 Aug 2023 00:32:11 +0700
+Message-ID: <CAM0mTbQ4J0L_Z59LLS13Dww1kXS7uG+udbb_uuT=D+hsXZsspg@mail.gmail.com>
+Subject: Re: Serve
+To: warceu <warceu@warceuproject.dev>
+Content-Type: multipart/alternative; boundary="000000000000b6b80006020829f1"
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  mantap bre keerim langsung ke inbox Pada tanggal Jum, 4 Agu
+    2023 pukul 00.30 warceu menulis: > Halo ahy > 
+ Content analysis details:   (0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [lightid180[at]gmail.com]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [lightid180[at]gmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+X-Spam-Flag: NO
+
+--000000000000b6b80006020829f1
+Content-Type: text/plain; charset="UTF-8"
+
+mantap bre keerim langsung ke inbox
+
+
+Pada tanggal Jum, 4 Agu 2023 pukul 00.30 warceu <warceu@warceuproject.dev>
+menulis:
+
+> Halo ahy
+>
+
+--000000000000b6b80006020829f1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>mantap bre keerim langsung ke inbox</div><div><br></d=
+iv></div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_att=
+r">Pada tanggal Jum, 4 Agu 2023 pukul 00.30 warceu &lt;<a href=3D"mailto:wa=
+rceu@warceuproject.dev">warceu@warceuproject.dev</a>&gt; menulis:<br></div>=
+<blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-=
+left:1px solid rgb(204,204,204);padding-left:1ex">Halo ahy<br>
+</blockquote></div>
+
+--000000000000b6b80006020829f1--

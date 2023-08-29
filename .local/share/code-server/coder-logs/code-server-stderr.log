@@ -1,0 +1,118 @@
+[2023-08-15T18:10:43.037Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:10:44.285Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:10:45.496Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:10:46.466Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:10:47.579Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:12:12.060Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:12:13.227Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:12:14.203Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:12:15.261Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:12:16.266Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:13:31.151Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:13:32.279Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:13:33.476Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:13:34.509Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T18:13:35.573Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+[2023-08-15T19:04:35.357Z] error listen EADDRINUSE: address already in use 127.0.0.1:8080
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[02:07:21] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Cannot autolaunch D-Bus without X11 $DISPLAY
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 145
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 146
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 147
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 148
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 149
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 150
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 151
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 152
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 153
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 154
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 155
+[02:10:47] RequestStore#acceptReply was called without receiving a matching request 156
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 157
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 158
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 159
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 160
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 161
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 162
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 163
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 164
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 165
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 166
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 167
+[02:10:49] RequestStore#acceptReply was called without receiving a matching request 168
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 169
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 170
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 171
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 172
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 173
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 174
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 175
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 176
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 177
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 178
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 179
+[02:10:50] RequestStore#acceptReply was called without receiving a matching request 180
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 181
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 182
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 183
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 184
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 185
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 186
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 187
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 188
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 189
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 190
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 191
+[02:11:00] RequestStore#acceptReply was called without receiving a matching request 192
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[02:17:54] No ptyHost heartbeat after 6 seconds
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 241
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 242
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 243
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 244
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 245
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 246
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 247
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 248
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 249
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 250
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 251
+[02:19:17] RequestStore#acceptReply was called without receiving a matching request 252
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 253
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 254
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 255
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 256
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 257
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 258
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 259
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 260
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 261
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 262
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 263
+[02:20:02] RequestStore#acceptReply was called without receiving a matching request 264
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vscode-regexp-languagedetection/dist/index.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+[02:28:55] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/warceu/tes/.vscode'
+[02:28:55] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/warceu/tes/.vscode/settings.json'
+[02:28:55] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/warceu/tes/.vscode/tasks.json'
+[02:28:55] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/warceu/tes/.vscode/launch.json'
+[02:29:05] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20) {
+  errno: -104,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+[02:34:13] No ptyHost heartbeat after 6 seconds
+IPC "File Watcher" crashed with exit code null and signal SIGINT
+[02:36:49] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGINT

@@ -1,0 +1,65 @@
+Return-Path: <>
+Delivered-To: warceu@vps.warceuproject.dev
+Received: from vps.warceuproject.dev
+	by vps.warceuproject.dev with LMTP
+	id +fKDKeYWyWStJAAA0wEIKA
+	(envelope-from <>)
+	for <warceu@vps.warceuproject.dev>; Tue, 01 Aug 2023 07:29:58 -0700
+Return-path: <>
+Envelope-to: warceu@vps.warceuproject.dev
+Delivery-date: Tue, 01 Aug 2023 07:29:59 -0700
+Received: from mailnull by vps.warceuproject.dev with local (Exim 4.96)
+	id 1qQqNq-0002RK-0W
+	for warceu@vps.warceuproject.dev;
+	Tue, 01 Aug 2023 07:29:58 -0700
+X-Failed-Recipients: root@vps.warceuproject.dev
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@vps.warceuproject.dev>
+To: warceu@vps.warceuproject.dev
+References: <E1qQqNp-0002RE-1P@vps.warceuproject.dev>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1690900198-eximdsn-1840704461
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qQqNq-0002RK-0W@vps.warceuproject.dev>
+Date: Tue, 01 Aug 2023 07:29:58 -0700
+
+--1690900198-eximdsn-1840704461
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  root@vps.warceuproject.dev
+    root cannot accept local mail deliveries
+
+--1690900198-eximdsn-1840704461
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; vps.warceuproject.dev
+
+Action: failed
+Final-Recipient: rfc822;root@vps.warceuproject.dev
+Status: 5.0.0
+
+--1690900198-eximdsn-1840704461
+Content-type: message/rfc822
+
+Return-path: <warceu@vps.warceuproject.dev>
+Received: from warceu by vps.warceuproject.dev with local (Exim 4.96)
+	(envelope-from <warceu@vps.warceuproject.dev>)
+	id 1qQqNp-0002RE-1P
+	for root@vps.warceuproject.dev;
+	Tue, 01 Aug 2023 07:29:58 -0700
+To: root@vps.warceuproject.dev
+Auto-Submitted: auto-generated
+Subject: *** SECURITY information for vps.warceuproject.dev ***
+From:  <warceu@vps.warceuproject.dev>
+Message-Id: <E1qQqNp-0002RE-1P@vps.warceuproject.dev>
+Date: Tue, 01 Aug 2023 07:29:57 -0700
+
+vps.warceuproject.dev : Aug  1 07:29:57 : warceu : user NOT in sudoers ; TTY=pts/3 ; PWD=/home/warceu ; USER=root ; COMMAND=/bin/su
+
+
+--1690900198-eximdsn-1840704461--

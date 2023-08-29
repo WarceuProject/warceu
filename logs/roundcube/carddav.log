@@ -1,0 +1,2 @@
+[31-Jul-2023 22:16:53 -0700]: <7689e0ac> [5 ERR] Database::get (SELECT "filename" FROM carddav_migrations) ERROR: [1] no such table: carddav_migrations 
+[31-Jul-2023 22:56:19 -0700]: <03c6eff2> [5 ERR] Database::get (SELECT "filename" FROM carddav_migrations) ERROR: [1] no such table: carddav_migrations 

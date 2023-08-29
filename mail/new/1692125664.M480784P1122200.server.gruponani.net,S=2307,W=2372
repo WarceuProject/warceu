@@ -1,0 +1,65 @@
+Return-Path: <>
+Delivered-To: warceu@server.gruponani.net
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id IKZtHODJ22SYHxEAz1WdsA
+	(envelope-from <>)
+	for <warceu@server.gruponani.net>; Wed, 16 Aug 2023 01:54:24 +0700
+Return-path: <>
+Envelope-to: warceu@server.gruponani.net
+Delivery-date: Tue, 15 Aug 2023 11:54:24 -0700
+Received: from mailnull by server.gruponani.net with local (Exim 4.96)
+	id 1qVzBQ-004hyC-1N
+	for warceu@server.gruponani.net;
+	Tue, 15 Aug 2023 11:54:24 -0700
+X-Failed-Recipients: root@server.gruponani.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.gruponani.net>
+To: warceu@server.gruponani.net
+References: <E1qVzBQ-004hy6-14@server.gruponani.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1692125664-eximdsn-725103594
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qVzBQ-004hyC-1N@server.gruponani.net>
+Date: Tue, 15 Aug 2023 11:54:24 -0700
+
+--1692125664-eximdsn-725103594
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  root@server.gruponani.net
+    root cannot accept local mail deliveries
+
+--1692125664-eximdsn-725103594
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.gruponani.net
+
+Action: failed
+Final-Recipient: rfc822;root@server.gruponani.net
+Status: 5.0.0
+
+--1692125664-eximdsn-725103594
+Content-type: message/rfc822
+
+Return-path: <warceu@server.gruponani.net>
+Received: from warceu by server.gruponani.net with local (Exim 4.96)
+	(envelope-from <warceu@server.gruponani.net>)
+	id 1qVzBQ-004hy6-14
+	for root@server.gruponani.net;
+	Tue, 15 Aug 2023 11:54:24 -0700
+To: root@server.gruponani.net
+Auto-Submitted: auto-generated
+Subject: *** SECURITY information for server.gruponani.net ***
+From:  <warceu@server.gruponani.net>
+Message-Id: <E1qVzBQ-004hy6-14@server.gruponani.net>
+Date: Tue, 15 Aug 2023 11:54:24 -0700
+
+server.gruponani.net : Aug 16 01:54:24 : warceu : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/warceu ; USER=root ; COMMAND=/bin/systemctl stop code-server@warceu
+
+
+--1692125664-eximdsn-725103594--

@@ -1,0 +1,4 @@
+bind-addr: 154.53.61.106:9000
+auth: password
+password: warungceuri16
+cert: false

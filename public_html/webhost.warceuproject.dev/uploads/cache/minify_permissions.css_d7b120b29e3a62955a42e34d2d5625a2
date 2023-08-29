@@ -1,0 +1,7 @@
+.accordion-inner
+.table{margin-bottom:0}.accordion-heading{border-bottom:0;background-color:#E9E9E9}.accordion-heading
+a{color:#555;text-decoration:none}.accordion-toggle:hover{background-color:#F90;color:white}.has-switch
+label{z-index:0}.accordion-heading.active-header{background-color:#F90}.accordion-heading.active-header
+a{color:white}.accordion-heading.active-header a:hover{background-color:inherit}.table tbody tr.table-striped-visible td,
+.table tbody tr.table-striped-visible
+th{background-color:#f9f9f9 !important}.has-sub-permissions{font-size:10px;color:#F90;margin-left:5px}

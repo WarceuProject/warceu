@@ -1,0 +1,6 @@
+[02-Aug-2023 15:15:01 UTC] PHP Fatal error:  The file /home/warceu/public_html/webhost.warceuproject.dev/crons/cron.php encoded as type [1/71] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[02-Aug-2023 15:20:01 UTC] PHP Fatal error:  The file /home/warceu/public_html/webhost.warceuproject.dev/crons/cron.php encoded as type [1/71] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[02-Aug-2023 15:25:01 UTC] PHP Fatal error:  The file /home/warceu/public_html/webhost.warceuproject.dev/crons/cron.php encoded as type [1/71] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0

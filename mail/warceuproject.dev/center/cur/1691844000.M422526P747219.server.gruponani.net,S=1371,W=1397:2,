@@ -1,0 +1,26 @@
+Return-Path: <warceu@server.gruponani.net>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id gO+dFaB912TTZgsAz1WdsA
+	(envelope-from <warceu@server.gruponani.net>)
+	for <center@warceuproject.dev>; Sat, 12 Aug 2023 19:40:00 +0700
+Return-path: <warceu@server.gruponani.net>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Sat, 12 Aug 2023 05:40:00 -0700
+Received: from warceu by server.gruponani.net with local (Exim 4.96)
+	(envelope-from <warceu@server.gruponani.net>)
+	id 1qUnuS-0038Ox-0m
+	for center@warceuproject.dev;
+	Sat, 12 Aug 2023 05:40:00 -0700
+To: center@warceuproject.dev
+Subject: Hello, i wrote about your the prices
+X-PHP-Script: warceuproject.dev/forms/contact.php for 62.122.184.194, 162.158.102.12
+ X-PHP-Originating-Script: 0:contact.php
+MIME-Version: 1.0
+Content-type:text/html;charset=UTF-8
+From: alfredegov@gmail.com
+Message-Id: <E1qUnuS-0038Ox-0m@server.gruponani.net>
+Date: Sat, 12 Aug 2023 05:40:00 -0700
+
+<small>From: Robertlok &lt;alfredegov@gmail.com&gt;</small><br><small>To: center@warceuproject.dev</small><br><small>Subject: Hello, i wrote about your the prices</small><br><small>Time: 2023-08-12 07:40:00pm</small><br><small>IPAddres: 62.122.184.194</small><br><br><p>হাই, আমি আপনার মূল্য জানতে চেয়েছিলাম.</p>

@@ -1,0 +1,186 @@
+Return-Path: <bounces+3399158-43e4-center=warceuproject.dev@mail.getpostman.com>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id 4BUpJzq+3WQzfRUAz1WdsA
+	(envelope-from <bounces+3399158-43e4-center=warceuproject.dev@mail.getpostman.com>)
+	for <center@warceuproject.dev>; Thu, 17 Aug 2023 13:29:14 +0700
+Return-path: <bounces+3399158-43e4-center=warceuproject.dev@mail.getpostman.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Wed, 16 Aug 2023 23:29:14 -0700
+Received: from o1.mail.getpostman.com ([167.89.76.141]:18020)
+	by server.gruponani.net with esmtps  (TLS1.3) tls TLS_AES_128_GCM_SHA256
+	(Exim 4.96)
+	(envelope-from <bounces+3399158-43e4-center=warceuproject.dev@mail.getpostman.com>)
+	id 1qWWVO-005uLS-1M
+	for center@warceuproject.dev;
+	Wed, 16 Aug 2023 23:29:14 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=getpostman.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=rH+uXndx1E+aGPIjxUlFsWfGzhNr11vNFHH18dqOHSU=;
+	b=sMF09wd68io75ynfsd/sDJBtoJIyBQAK5Pt0YJ/4IZqaeMdfK4g5BJjJKy/hwsXy3xHp
+	IW8fbNX2QtS3zLzsKNHYkSYmjiVKf3AYIZg3lZEq8ug0+TX95xaw3jI4aI05zr2CLTs9zg
+	ydsC/eGsTdW2yAOn8O2dBrEy8p/IFlPsngdRkGH8FQfYacjhC/ySTSQPrVHK4/0wSPMOXu
+	TsCWg6xwtbDHlzLzRSpDiId/yIqEkzAMTDAq3PXgcZOCgQqkmDIzNuZfRcV8YIK1KvmLCz
+	SAmqPbnZir4bsl3kATH11uTfVEdcYR1rlKo4M0meCBkXq8aLOahL9QNMLYjX2NwQ==
+Received: by filterdrecv-7cbbbbcf9f-w5d9q with SMTP id filterdrecv-7cbbbbcf9f-w5d9q-1-64DDBE0E-B
+        2023-08-17 06:28:30.494760963 +0000 UTC m=+7460771.843323677
+Received: from MzM5OTE1OA (unknown)
+	by geopod-ismtpd-7 (SG) with HTTP
+	id TFjGab5WSGicjhl0Fp5WKw
+	Thu, 17 Aug 2023 06:28:30.354 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Thu, 17 Aug 2023 06:28:30 +0000 (UTC)
+From: Postman Team <noreply@notifications.getpostman.com>
+Mime-Version: 1.0
+Message-ID: <TFjGab5WSGicjhl0Fp5WKw@geopod-ismtpd-7>
+Subject: Activate Your Postman Account Now
+X-SG-EID: 
+ =?us-ascii?Q?Y6JVMOOYLk+MfI=2F6KNTYOe452Vheq8r=2FUHUMzy4kA0J61aAI6iJ+5P=2FxH2cngH?=
+ =?us-ascii?Q?Kf8U14i3cuu5F+HR+sR2zePdkl0dk5c1Yj+mKs7?=
+ =?us-ascii?Q?UQstxgXs3P0N10SyF5kx7o7TZcSh6KmpNzvPPsA?=
+ =?us-ascii?Q?7z8=2FSSA1NTDOcYloI6VYF4Q09wNkRGcaNhyc3VB?=
+ =?us-ascii?Q?S51iAjZ+GwEeWvFTSr5WsJSQd+LDpL7RM3LnirE?=
+ =?us-ascii?Q?bGNKaw=2FaajNCpPQxQ99cDPp3t1f3dRuaC1Roy2R?=
+ =?us-ascii?Q?cAR3Rkmqf2lBcSP+LAbEA=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb727oLjhgSYkWoPf4hkoMCPPiKs=2FPigJHLimXauy4g?=
+ =?us-ascii?Q?x4kk1cLh+NZdxJnu4zwVm0Fq2Cz394nXA+MDka8?=
+ =?us-ascii?Q?zciHAFzJ5qlFAy=2FK3Jy9Ac7CWvYU6bxJmNIsSi=2F?=
+ =?us-ascii?Q?BWrA=2FeKE10peQjO=2FLtVfKhuoyIADd28=3D?=
+To: center@warceuproject.dev
+X-Entity-ID: b3D1VYUeVOzS9sCOTdmLMw==
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Postman - The Complete API Development Environment Welcome
+    to Postman! You’re just one click away from getting started with Postman.
+    All you need to do is verify your email address to activate your Postman
+   account. 
+ Content analysis details:   (0.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: fonts.googleapis.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.5 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head><meta http-equiv=3D"content-type" content=3D"text/htm=
+l; charset=3DUTF-8"><title>Postman - The Complete API Development Environme=
+nt</title><link href=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans=
+:400,600,700" rel=3D"stylesheet"><style type=3D"text/css">.ReadMsgBody{widt=
+h:100%;background-color:#fff}.ExternalClass{width:100%;background-color:#ff=
+f}body{width:100%;background-color:#fff;margin:0;padding:0;-webkit-font-smo=
+othing:antialiased;font-family:Georgia,Times,serif}table{border-collapse:co=
+llapse}@media only screen and (max-width:640px){.deviceWidth{width:440px!im=
+portant;padding:0}}@media only screen and (max-width:640px){.ImageWidth{wid=
+th:50px!important;padding:0;margin:auto}}@media only screen and (max-width:=
+640px){.center{text-align:center!important;margin:auto}}@media only screen =
+and (max-width:479px){.deviceWidth{width:280px!important;padding:0}}@media =
+only screen and (max-width:479px){.ImageWidth{width:50px!important;padding:=
+0;margin:auto}}@media only screen and (max-width:479px){.center{text-align:=
+center!important;margin:auto}}.container{width:100%!important;min-width:100=
+%!important;height:auto!important}</style></head><body leftmargin=3D"0" top=
+margin=3D"0" marginwidth=3D"0" marginheight=3D"0" style=3D"width:100%;backg=
+round-color:#fff;margin:0;padding:0;-webkit-font-smoothing:antialiased;font=
+-family:'Open Sans',sans-serif"><table width=3D"100%" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" align=3D"center" class=3D"container" style=3D"b=
+order-collapse:collapse;width:100%;min-width:100%;height:auto"><tr><td widt=
+h=3D"100%" valign=3D"top" bgcolor=3D"#ffffff" style=3D"padding-top:20px"><t=
+able width=3D"580" class=3D"deviceWidth" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" align=3D"center" bgcolor=3D"#ffffff" style=3D"border-collaps=
+e:collapse;margin:0 auto"><tr><td valign=3D"top" align=3D"center" style=3D"=
+padding:0" bgcolor=3D"#ffffff"><a href=3D"https://links.getpostman.com/ls/c=
+lick?upn=3D3y7nOEZSJOF1v-2Fv7UyshsA0slPDVAWp38fB5IEChtheu3bOEbgreuzlgz5zViN=
+wH-5Iu_lo0KzcndCvF8z2ERM-2BLu20krWDRd8nWO5YEXGgyDSINhJ7KIxif-2BQkyzvN88Xkjc=
+-2B5Fw-2F1RwYLk4jZi9U55ltzL4Yp2VjlKRwqsWhWLtAZsAbVewGlWoHACaF0O9jBkhHsjYw-2=
+FDlfsIodkcfJIg4FMSySswHDQl1UGBA-2FpisaI6Cobkc1RdQ7egCyh4ucgJ5equ6o3vh8GJQNj=
+LbgXnA9dc5dcfWyZZHkiFQZmoBsxahc84pIZH3r-2FJ-2BEbREQSVrIahFfksCmWs51sJr2p6O5=
+rD-2FXUI9TZVwgEeD4SUooXs-2Fk0w2M3Dz6T6G8GwXoXhM-2FrbzpAo4CibfsauorqPnPDoR4q=
+p0Qmx1okJHaVYYACc-3D"><img class=3D"deviceWidth" src=3D"https://pages.getpo=
+stman.com/rs/067-UMD-991/images/pm-logo-horiz%402x.png" alt border=3D"0" wi=
+dth=3D"125" style=3D"display:block"></a></td></tr><tr><td valign=3D"top" al=
+ign=3D"center" style=3D"padding:0" bgcolor=3D"#ffffff"><a href=3D"https://l=
+inks.getpostman.com/ls/click?upn=3D3y7nOEZSJOF1v-2Fv7UyshsA0slPDVAWp38fB5IE=
+Chtheu3bOEbgreuzlgz5zViNwHox8d_lo0KzcndCvF8z2ERM-2BLu20krWDRd8nWO5YEXGgyDSI=
+NhJ7KIxif-2BQkyzvN88Xkjc-2B5Fw-2F1RwYLk4jZi9U55ltzL4Yp2VjlKRwqsWhWLtAZsAbVe=
+wGlWoHACaF0O9jBkhHsjYw-2FDlfsIodkcfJIg4FL41NN7PRqmgR-2B09Hkh975ILaRF2HJ8shb=
+M-2BAJYf9uvIktKJoRcLVM3w2it1so7QMeqkrlGlEDuptoeKxWKW9Kz3nExzjw-2Fc4fccdKK-2=
+F-2FR7azVj-2F3t1kSQ4zoJXs183xEjDrl8wLjdBFNJcwvHSczzEOTRY0v-2BM8ot1wmbbomUFD=
+ns9CKtRAyJFyZQw6ZVXMlyiKCyoaiZApdhoNJQsuj28-3D"><img class=3D"deviceWidth" =
+src=3D"https://pages.getpostman.com/rs/067-UMD-991/images/wave-hello%403x.p=
+ng" alt border=3D"0" width=3D"200" style=3D"display:block;margin-top:30px">=
+</a></td></tr><tr><td style=3D"font-size:13px;color:#282828;font-weight:400=
+;text-align:left;font-family:'Open Sans',sans-serif;line-height:24px;vertic=
+al-align:top;padding:15px 8px 10px 8px" bgcolor=3D"#ffffff"><h1 style=3D"fo=
+nt-weight:600;margin:30px 0 50px 0;text-align:center">Welcome to Postman!</=
+h1><p>You=E2=80=99re just one click away from getting started with Postman.=
+ All you need to do is verify your email address to activate your Postman a=
+ccount.</p><a href=3D"https://links.getpostman.com/ls/click?upn=3D3y7nOEZSJ=
+OF1v-2Fv7UyshsClw6pSPp9j71m85zYfrmPeMkrjqit7zxHzsvknXb2TWzmWlWntE7iB7C6LNm3=
+tRH5eoHsofPaKqy1r5on8ljq4vmfGkMdVeUGKxaIHV-2F3VThvPQ_lo0KzcndCvF8z2ERM-2BLu=
+20krWDRd8nWO5YEXGgyDSINhJ7KIxif-2BQkyzvN88Xkjc-2B5Fw-2F1RwYLk4jZi9U55ltzL4Y=
+p2VjlKRwqsWhWLtAZsAbVewGlWoHACaF0O9jBkhHsjYw-2FDlfsIodkcfJIg4FB2XeaQ8yc654q=
+uDE5JmONoQk3-2BEtd9IQZCHB8-2FiKqi5Uu4KTNGkDd8vuGtu3M0GG436Kdb6KZdJvtDjjOmbG=
+Vn3JEZiy4n6vKQBbUK46fbQydFFvsZ-2FWC1urVV64vPYsdLlVaPxiXQGzarY4IeR9O-2BHtUMk=
+azcwb7lKXbbJ9a3Ma6RX4N8xg9anF9g58hK1jnh2Qf-2F-2BLFDLo70wWhUCcuc-3D" style=
+=3D"padding:10px;width:300px;display:block;text-decoration:none;border:1px =
+solid #ff6c37;font-weight:700;font-size:14px;font-family:'Open Sans',sans-s=
+erif;color:#fff;background:#ff6c37;border-radius:5px;line-height:17px;margi=
+n:0 auto;text-align:center" class=3D"ctaButton">Confirm My Email</a><p>Once=
+ your account is activated, you can start using all of Postman=E2=80=99s fe=
+atures to organize, test, monitor, and share your API requests.</p><p>You=
+=E2=80=99re receiving this email because you recently created a new Postman=
+ account or added a new email address. If this wasn=E2=80=99t you, please i=
+gnore this email.</p></td></tr></table></td></tr></table><div style=3D"heig=
+ht:15px;margin:0 auto"></div><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" align=3D"center" style=3D"border-collapse:collapse=
+;margin:0 auto"><tbody><tr><td bgcolor=3D"#ffffff" style=3D"font-family:'Op=
+en Sans',sans-serif;line-height:150%;padding-top:10px;padding-left:10px;pad=
+ding-right:18px;padding-bottom:30px;text-align:left;border-bottom:0;font-si=
+ze:10px;border-top:0"><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" align=3D"left" style=3D"border-collapse:collapse"><tbod=
+y><tr><td valign=3D"top" style=3D"text-align:center;font-size:11px;color:#2=
+82828;font-family:'Open Sans',sans-serif;padding:20px 0;padding-left:0">Thi=
+s email was sent to <a style=3D"color:#FF6C37;text-decoration:none;font-wei=
+ght:600;" href-"mailto:center@warceuproject.dev">center@warceuproject.dev, =
+which is associated with a Postman account.<br><br>&copy; 2023 Postman Inc.=
+, All Rights Reserved<br>Postman Inc., 201 Mission Street, Suite 2375, San =
+Francisco, CA 94105<br>&nbsp;</td></tr></tbody></table></td></tr></tbody></=
+table><div style=3D"display:none;white-space:nowrap;font:15px courier;color=
+:#fff">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</d=
+iv><img src=3D"https://links.getpostman.com/wf/open?upn=3DMjyPOIlQah2TgTK25=
+Jk-2Bje8EBE8ypwzbVI5s7N50YDxUWTPMS3nT1bDTeWe68uOb8a6bfuCPw9Kdc1k6apzjJ3-2F2=
+34mPLy03xWjQQZ7iSBSPHjcVMCgEEFO0nJJaNO2RGHlO5fc35ngXUbE7UIbt-2FroL1n-2FBVcC=
+du-2B-2BnIZWey3GuiOQvznVw5aqvnN1mljnRTC9E4ffuf2BP0hSVrHCswT3i-2B2sL2FmWF5Fx=
+C6Q76fWmYGZL-2B-2FNn-2B5uckiTULjwUa6P-2Fl-2FHRZ03X8AmTioKVzBuhMQuanixTgQpY1=
+lUk6K0zVPybyveX7cRZuMzcdNgyvO0jy-2F006JCP1O6oJvEB6LEYtZshOXrBB52tY28Kti5mm4=
+vDV0helHXjoPvIBsW0" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D=
+"height:1px !important;width:1px !important;border-width:0 !important;margi=
+n-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;mar=
+gin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;=
+padding-right:0 !important;padding-left:0 !important;"/></body></html>

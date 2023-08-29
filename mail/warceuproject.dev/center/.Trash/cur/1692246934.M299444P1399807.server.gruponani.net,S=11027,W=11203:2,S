@@ -1,0 +1,176 @@
+Return-Path: <support@support.whatsapp.com>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id MHnDEJaj3WT/WxUAz1WdsA
+	(envelope-from <support@support.whatsapp.com>)
+	for <center@warceuproject.dev>; Thu, 17 Aug 2023 11:35:34 +0700
+Return-path: <support@support.whatsapp.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Wed, 16 Aug 2023 21:35:34 -0700
+Received: from 66-220-155-154.mail-mail.facebook.com ([66.220.155.154]:37006)
+	by server.gruponani.net with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <support@support.whatsapp.com>)
+	id 1qWUjN-005sAH-1x
+	for center@warceuproject.dev;
+	Wed, 16 Aug 2023 21:35:34 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=support.whatsapp.com;
+	s=s2048-2018-q2; t=1692246879;
+	bh=X+T77MsonMxez3gmEfVqeDSMLFwiCt4J4Nuy3/jD9Zs=;
+	h=Content-Type:MIME-Version:Subject:From:To:Date;
+	b=IegJIPigQ1AnzJnkyLvprDo6iqi4Fyfif1BfrH/VAIoWqOiaHFWO9D9dzbFv9zFqd
+	 kEqrw4UjqHyKXzRjglVt6DJwmAhuJdDevJB9AQMTU9QuwfmMBQ9pubLzN+z7kwSlJ9
+	 lccEk87NjDiGH4W+xN/9Jbim+Pkyy2vOyE9/Cly7FdlyXEetriQiR+E2InliR+qKLe
+	 NJukrcbMC/HYuLZydfN+rksLxkW+CQEz6/t6DAz7ed4I+Bdxg8zj+OeXQZDzn9W9xj
+	 XfjiR25hGDbaQW0T9paU4M1mSmAzs5viD4CbGI21mRGjMo0U7RAMr6OiqX/5PqqK3z
+	 Teja1V0VfO/VA==
+Content-Type: multipart/alternative; boundary="===============4156826928097632614=="
+MIME-Version: 1.0
+Subject: Dukungan WhatsApp Messenger
+From: support@support.whatsapp.com
+To: center@warceuproject.dev
+Reply-To: WhatsApp Support <1014984396184188@support.whatsapp.com>
+Date: Wed, 16 Aug 2023 21:34:39 -0700
+Message-ID: <607de274-3cb7-11ee-bbe3-5304543e3059@support.whatsapp.com>
+X-Spam-Status: No, score=2.6
+X-Spam-Score: 26
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Halo, Terima kasih telah menghubungi kami. Sayangnya jika
+   telepon Anda hilang atau dicuri, kami tidak dapat melakukan apa pun. Kami
+   tidak dapat menonaktifkan akun WhatsApp Anda karena kami tidak mungkin dapat
+    memverifikasi bahwa Anda adalah p [...] 
+ Content analysis details:   (2.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: whatsapp.com]
+  0.0 TVD_RCVD_IP            Message was received from an IP address
+  2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                             [66.220.155.154 listed in psbl.surriel.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 NO_FM_NAME_IP_HOSTN    No From name + hostname using IP address
+X-Spam-Flag: NO
+
+--===============4156826928097632614==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+SGFsbywgIAogIApUZXJpbWEga2FzaWggdGVsYWggbWVuZ2h1YnVuZ2kga2FtaS4gICAKICAKIFNh
+eWFuZ255YSBqaWthIHRlbGVwb24gQW5kYSBoaWxhbmcgYXRhdSBkaWN1cmksIGthbWkgdGlkYWsg
+ZGFwYXQgbWVsYWt1a2FuIGFwYSBwdW4uIEthbWkgdGlkYWsgZGFwYXQgbWVub25ha3RpZmthbiBh
+a3VuIFdoYXRzQXBwIEFuZGEga2FyZW5hIGthbWkgdGlkYWsgbXVuZ2tpbiBkYXBhdCBtZW12ZXJp
+ZmlrYXNpIGJhaHdhIEFuZGEgYWRhbGFoIHBlbWlsaWsgbm9tb3IgdGVsZXBvbiB5YW5nIHRlcmth
+aXQgZGVuZ2FuIGFrdW4gdGVyc2VidXQuICAgCiAgCioqWWFuZyBoYXJ1cyBkaWxha3VrYW4gamlr
+YSB0ZWxlcG9uIEFuZGEgaGlsYW5nL2RpY3VyaSoqOiAgCiAgCiogUGVyaWtzYSBbbGFuZ2thaC1s
+YW5na2FoIGluaV0oaHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2VyLzYx
+NjA0OTE/aGw9ZW4pIGppa2EgQW5kYSBtZW1pbGlraSBwZXJhbmdrYXQgQW5kcm9pZC4KKiBQZXJp
+a3NhIFtsYW5na2FoLWxhbmdrYWggaW5pXShodHRwczovL3N1cHBvcnQuYXBwbGUuY29tL2VuLXVz
+L0hUMjAxNDcyKSBqaWthIEFuZGEgbWVtaWxpa2kgcGVyYW5na2F0IEFwcGxlLgoKKipVbnR1ayBt
+ZWxpbmR1bmdpIGFrdW4gV2hhdHNBcHAgQW5kYSoqOiAgCiAgCjEuICBIdWJ1bmdpIG9wZXJhdG9y
+IHNlbHVsZXIgQW5kYSBkYW4gbWludGEgbWVyZWthICoqbWVtYmxva2lyIGthcnR1IFNJTSBBbmRh
+KiouIAoyLiBEYXBhdGthbiBrYXJ0dSBTSU0gYmFydSBkZW5nYW4gbm9tb3IgdGVsZXBvbiB5YW5n
+IHNhbWEgbGFsdSBbZGFmdGFya2FuIHVsYW5nIF0oaHR0cHM6Ly9mYXEud2hhdHNhcHAuY29tLzY4
+NDA1MTMxOTUyMTM0My8pIGtlIFdoYXRzQXBwIG1lbmdndW5ha2FuIHRlbGVwb24gbGFpbi4gS2Ft
+aSBha2FuIG1lbmdpcmltIGtvZGUgNiBkaWdpdCBtZWxhbHVpIFNNUyBhdGF1IHBhbmdnaWxhbiB0
+ZWxlcG9uLiBTZXRlbGFoIG1lbWFzdWtrYW4ga29kZSBpbmksIEFuZGEgYWthbiBzZWNhcmEgb3Rv
+bWF0aXMga2VsdWFyIGRhcmkgYWt1biBXaGF0c0FwcCBBbmRhIGRpIHRlbGVwb24gbGFtYS4KCkth
+bWkgdGlkYWsgZGFwYXQgbWVtYmFudHUgQW5kYSBtZW11bGloa2FuLCBtZW50cmFuc2ZlciwgYXRh
+dSBtZW5naGFwdXMgY2hhdCwgZG9rdW1lbiwgZmlsZSBtZWRpYSwgY2FkYW5nYW4sIGF0YXUgcml3
+YXlhdCBwYW5nZ2lsYW4uIEppa2EgbWVtYnVhdCBjYWRhbmdhbiBtZW5nZ3VuYWthbiBHb29nbGUg
+RHJpdmUgYXRhdSBpQ2xvdWQgc2ViZWx1bSB0ZWxlcG9uIGhpbGFuZywgQW5kYSBtdW5na2luIGRh
+cGF0IG1lbXVsaWhrYW4gcml3YXlhdCBjaGF0LiBTYXlhbmdueWEsIHRpZGFrIGFkYSBjYXJhIHVu
+dHVrIG1lbXVsaWhrYW4gY2FkYW5nYW4gZGFyaSBzYXR1IG5vbW9yIGtlIG5vbW9yIGxhaW5ueWEu
+ICAgCiAgClBlbGFqYXJpIGNhcmEgbWVtdWxpaGthbiBwZXNhbiBkaSBbYXJ0aWtlbCBpbmldKGh0
+dHBzOi8vZmFxLndoYXRzYXBwLmNvbS82MTg1NzU5NDY2MzU5MjAvKS4gIAogIApUZXJpbWEga2Fz
+aWggYXRhcyBwZW5nZXJ0aWFuIGRhbiBrZXJqYSBzYW1hIEFuZGEuICAKICAK
+
+--===============4156826928097632614==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGh0bWw+CiAgICA8aGVhZD4KICAgICAgICA8L2hlYWQ+CiAgICA8Ym9keT4KICAgICAgICAKICAg
+ICAgICAgIDxpbWcgc3JjPSJodHRwczovL3N0YXRpYy53aGF0c2FwcC5uZXQvbG9nL3dhcmNldXBy
+b2plY3QuZGV2LzEwMTQ5ODQzOTYxODQxODgvcGl4ZWwucG5nIj4KICAgICAgICAKICAgICAgICA8
+ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6I2U3ZTZl
+NjsgZm9udC1mYW1pbHk6R2VvcmdpYSwgVGltZXMsIFRpbWVzIE5ldyBSb21hbiwgc2VyaWYiPiMj
+LSBXaGF0c0FwcCBTdXBwb3J0IC0jIzwvcD4KICAgICAgICAgICAgPHAgc3R5bGU9ImNvbG9yOiM3
+MTcxNzE7IGZvbnQtZmFtaWx5Okdlb3JnaWEsIFRpbWVzLCBUaW1lcyBOZXcgUm9tYW4sIHNlcmlm
+Ij5IYWxvLCAgICA8L3A+CjxwIHN0eWxlPSJjb2xvcjojNzE3MTcxOyBmb250LWZhbWlseTpHZW9y
+Z2lhLCBUaW1lcywgVGltZXMgTmV3IFJvbWFuLCBzZXJpZiI+VGVyaW1hIGthc2loIHRlbGFoIG1l
+bmdodWJ1bmdpIGthbWkuICAgICA8L3A+CjxwIHN0eWxlPSJjb2xvcjojNzE3MTcxOyBmb250LWZh
+bWlseTpHZW9yZ2lhLCBUaW1lcywgVGltZXMgTmV3IFJvbWFuLCBzZXJpZiI+U2F5YW5nbnlhIGpp
+a2EgdGVsZXBvbiBBbmRhIGhpbGFuZyBhdGF1IGRpY3VyaSwga2FtaSB0aWRhayBkYXBhdCBtZWxh
+a3VrYW4gYXBhIHB1bi4gS2FtaSB0aWRhayBkYXBhdCBtZW5vbmFrdGlma2FuIGFrdW4gV2hhdHNB
+cHAgQW5kYSBrYXJlbmEga2FtaSB0aWRhayBtdW5na2luIGRhcGF0IG1lbXZlcmlmaWthc2kgYmFo
+d2EgQW5kYSBhZGFsYWggcGVtaWxpayBub21vciB0ZWxlcG9uIHlhbmcgdGVya2FpdCBkZW5nYW4g
+YWt1biB0ZXJzZWJ1dC4gICAgIDwvcD4KPHAgc3R5bGU9ImNvbG9yOiM3MTcxNzE7IGZvbnQtZmFt
+aWx5Okdlb3JnaWEsIFRpbWVzLCBUaW1lcyBOZXcgUm9tYW4sIHNlcmlmIj48c3Ryb25nPllhbmcg
+aGFydXMgZGlsYWt1a2FuIGppa2EgdGVsZXBvbiBBbmRhIGhpbGFuZy9kaWN1cmk8L3N0cm9uZz46
+ICAgIDwvcD4KPHVsPgo8bGkgc3R5bGU9ImNvbG9yOiM3MTcxNzE7IGZvbnQtZmFtaWx5Okdlb3Jn
+aWEsIFRpbWVzLCBUaW1lcyBOZXcgUm9tYW4sIHNlcmlmIj5QZXJpa3NhIDxhIGhyZWY9Imh0dHBz
+Oi8vc3VwcG9ydC5nb29nbGUuY29tL2FjY291bnRzL2Fuc3dlci82MTYwNDkxP2hsPWVuIj5sYW5n
+a2FoLWxhbmdrYWggaW5pPC9hPiBqaWthIEFuZGEgbWVtaWxpa2kgcGVyYW5na2F0IEFuZHJvaWQu
+ICA8L2xpPgo8bGkgc3R5bGU9ImNvbG9yOiM3MTcxNzE7IGZvbnQtZmFtaWx5Okdlb3JnaWEsIFRp
+bWVzLCBUaW1lcyBOZXcgUm9tYW4sIHNlcmlmIj5QZXJpa3NhIDxhIGhyZWY9Imh0dHBzOi8vc3Vw
+cG9ydC5hcHBsZS5jb20vZW4tdXMvSFQyMDE0NzIiPmxhbmdrYWgtbGFuZ2thaCBpbmk8L2E+IGpp
+a2EgQW5kYSBtZW1pbGlraSBwZXJhbmdrYXQgQXBwbGUuPC9saT4KPC91bD4KPHAgc3R5bGU9ImNv
+bG9yOiM3MTcxNzE7IGZvbnQtZmFtaWx5Okdlb3JnaWEsIFRpbWVzLCBUaW1lcyBOZXcgUm9tYW4s
+IHNlcmlmIj48c3Ryb25nPlVudHVrIG1lbGluZHVuZ2kgYWt1biBXaGF0c0FwcCBBbmRhPC9zdHJv
+bmc+OiAgICA8L3A+CjxvbD4KPGxpIHN0eWxlPSJjb2xvcjojNzE3MTcxOyBmb250LWZhbWlseTpH
+ZW9yZ2lhLCBUaW1lcywgVGltZXMgTmV3IFJvbWFuLCBzZXJpZiI+SHVidW5naSBvcGVyYXRvciBz
+ZWx1bGVyIEFuZGEgZGFuIG1pbnRhIG1lcmVrYSA8c3Ryb25nPm1lbWJsb2tpciBrYXJ0dSBTSU0g
+QW5kYTwvc3Ryb25nPi4gICA8L2xpPgo8bGkgc3R5bGU9ImNvbG9yOiM3MTcxNzE7IGZvbnQtZmFt
+aWx5Okdlb3JnaWEsIFRpbWVzLCBUaW1lcyBOZXcgUm9tYW4sIHNlcmlmIj5EYXBhdGthbiBrYXJ0
+dSBTSU0gYmFydSBkZW5nYW4gbm9tb3IgdGVsZXBvbiB5YW5nIHNhbWEgbGFsdSA8YSBocmVmPSJo
+dHRwczovL2ZhcS53aGF0c2FwcC5jb20vNjg0MDUxMzE5NTIxMzQzLyI+ZGFmdGFya2FuIHVsYW5n
+IDwvYT4ga2UgV2hhdHNBcHAgbWVuZ2d1bmFrYW4gdGVsZXBvbiBsYWluLiBLYW1pIGFrYW4gbWVu
+Z2lyaW0ga29kZSA2IGRpZ2l0IG1lbGFsdWkgU01TIGF0YXUgcGFuZ2dpbGFuIHRlbGVwb24uIFNl
+dGVsYWggbWVtYXN1a2thbiBrb2RlIGluaSwgQW5kYSBha2FuIHNlY2FyYSBvdG9tYXRpcyBrZWx1
+YXIgZGFyaSBha3VuIFdoYXRzQXBwIEFuZGEgZGkgdGVsZXBvbiBsYW1hLjwvbGk+Cjwvb2w+Cjxw
+IHN0eWxlPSJjb2xvcjojNzE3MTcxOyBmb250LWZhbWlseTpHZW9yZ2lhLCBUaW1lcywgVGltZXMg
+TmV3IFJvbWFuLCBzZXJpZiI+S2FtaSB0aWRhayBkYXBhdCBtZW1iYW50dSBBbmRhIG1lbXVsaWhr
+YW4sIG1lbnRyYW5zZmVyLCBhdGF1IG1lbmdoYXB1cyBjaGF0LCBkb2t1bWVuLCBmaWxlIG1lZGlh
+LCBjYWRhbmdhbiwgYXRhdSByaXdheWF0IHBhbmdnaWxhbi4gSmlrYSBtZW1idWF0IGNhZGFuZ2Fu
+IG1lbmdndW5ha2FuIEdvb2dsZSBEcml2ZSBhdGF1IGlDbG91ZCBzZWJlbHVtIHRlbGVwb24gaGls
+YW5nLCBBbmRhIG11bmdraW4gZGFwYXQgbWVtdWxpaGthbiByaXdheWF0IGNoYXQuIFNheWFuZ255
+YSwgdGlkYWsgYWRhIGNhcmEgdW50dWsgbWVtdWxpaGthbiBjYWRhbmdhbiBkYXJpIHNhdHUgbm9t
+b3Iga2Ugbm9tb3IgbGFpbm55YS4gICAgIDwvcD4KPHAgc3R5bGU9ImNvbG9yOiM3MTcxNzE7IGZv
+bnQtZmFtaWx5Okdlb3JnaWEsIFRpbWVzLCBUaW1lcyBOZXcgUm9tYW4sIHNlcmlmIj5QZWxhamFy
+aSBjYXJhIG1lbXVsaWhrYW4gcGVzYW4gZGkgPGEgaHJlZj0iaHR0cHM6Ly9mYXEud2hhdHNhcHAu
+Y29tLzYxODU3NTk0NjYzNTkyMC8iPmFydGlrZWwgaW5pPC9hPi4gICAgPC9wPgo8cCBzdHlsZT0i
+Y29sb3I6IzcxNzE3MTsgZm9udC1mYW1pbHk6R2VvcmdpYSwgVGltZXMsIFRpbWVzIE5ldyBSb21h
+biwgc2VyaWYiPlRlcmltYSBrYXNpaCBhdGFzIHBlbmdlcnRpYW4gZGFuIGtlcmphIHNhbWEgQW5k
+YS4gICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICAgIAogICAgICAgICAgICA8aHI+CiAgICAg
+ICAgICAgIDxkaXYgY2xhc3M9InF1b3RlZC10ZXh0IiBzdHlsZT0ibWFyZ2luLWxlZnQ6NDBweCI+
+CiAgICAgICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6IzcxNzE3MTsgZm9udC1mYW1pbHk6R2Vv
+cmdpYSwgVGltZXMsIFRpbWVzIE5ldyBSb21hbiwgc2VyaWYiPkhpbGFuZy9kaWN1cmk6IHBlcmFu
+Z2thdCBzYXlhIGhpbGFuZyBzYWF0IHNheWEgbWVuZ3VuanVuZ2kga2Fybml2YWwgcGVyYW5na2F0
+IGl0dSBkaXRhcyBkYW4gbXVuZ2tpbiBkaWN1cmkgb3Jhbmcgc2F5YSBiZXJoYXJhcCBhZ2FyIGFr
+dW4gc2F5YSB0ZXJzZWJ1dCBkaW5vbmFrdGlma2FuIGFnYXIgdGFrIGRpc2FsYWhndW5ha2FuIGth
+cmVuYSBqdWdhIHBlcmFuZ2thdCBzYXlhIHRhayBkaWFrdGlma2FuIGt1bmNpIGxheWFybnlhIHNl
+dGlkYWtueWEgc2FtcGFpIHBlcmFuZ2thdCBzYXlhIGRpdGVtdWthbiBkYW4gc2F5YSBha2FuIGtl
+bWJhbGkgbWVsYXBvciB1bnR1ayBrbGFyaWZpa2FzaTxicj48YnI+SG9ybWF0PGJyPll1dGFtYTsg
+KzYyODgxODIwOTc2OTwvcD4KICAgICAgICAgICAgICAgIDxwcmU+cmVxdWVzdCAjMTAxNDk4NDM5
+NjE4NDE4ODwvcHJlPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAKICAgIDwvYm9keT4KPC9o
+dG1sPgo=
+
+--===============4156826928097632614==--

@@ -1,0 +1,145 @@
+Return-Path: <noreply@github.com>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id g7eGB21p52TuzDcAz1WdsA
+	(envelope-from <noreply@github.com>)
+	for <center@warceuproject.dev>; Thu, 24 Aug 2023 21:30:05 +0700
+Return-path: <noreply@github.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Thu, 24 Aug 2023 07:30:05 -0700
+Received: from out-25.smtp.github.com ([192.30.252.208]:60333)
+	by server.gruponani.net with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <noreply@github.com>)
+	id 1qZBLZ-00FLJF-2d
+	for center@warceuproject.dev;
+	Thu, 24 Aug 2023 07:30:05 -0700
+Received: from github.com (hubbernetes-node-a53c227.ash1-iad.github.net [10.56.152.41])
+	by smtp.github.com (Postfix) with ESMTPA id BCE4F340C23;
+	Thu, 24 Aug 2023 07:29:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2023; t=1692887361;
+	bh=5RUmq+JJbrYUo79eCC80VFMErftIct6Hdo84zs3KgrA=;
+	h=Date:From:To:Subject:From;
+	b=Ransz1ro7m4xt4QwvE9o8qeei82SYyqWWXBSoVPPjbxpstfe2PJMQuiUcWyRHzgph
+	 hMnUQtmvfa7mVwLlTlphelGO4eyBWw/4564Cai+2uQ2vZAPyYvq4uimq6x7YBA00dE
+	 h+6hbNfrn0mF/k275ZzNndrsMeWJAN/Oumb8tV7E=
+Date: Thu, 24 Aug 2023 07:29:21 -0700
+From: GitHub Marketplace <marketplace@github.com>
+To: center@warceuproject.dev
+Message-ID: <64e76941bb174_10adb3871689@lowworker-858fcb7d-k6zxl.mail>
+Subject: Publisher Verification for GitHub Marketplace - WarceuProject
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  GitHub Marketplace Complete your GitHub Marketplace orders
+    Marketplace Thank you for your interest in GitHub Marketplace. As part of
+    publisher verification process for WarceuProject, we need to ensure that
+   the organization's display name is relevant and does not imply GitHub or Microsoft
+    endorsement. 
+ Content analysis details:   (-0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: githubassets.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+ -0.0 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>GitHub Marketplace</title>
+  </head>
+
+  <body
+    style="margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; color: #24292e; height: 100% !important; line-height: 1.5; font-size: 14px; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 100% !important; background-color: #fff;">
+
+    <table class="body" style="box-sizing: border-box; border-collapse: separate !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #fff;" width="100%" bgcolor="#fff">
+      <tr>
+        <td style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; vertical-align: top;" valign="top"></td>
+        <td
+          class="container"
+          style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; vertical-align: top; display: block; margin: 0 auto !important; max-width: 580px; padding: 24px; width: 580px;"
+          width="580"
+          valign="top">
+          <div class="content" style="box-sizing: border-box; display: block; margin: 0 auto; max-width: 580px;">
+
+            <span style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">Complete your GitHub Marketplace orders</span>
+            <img src="https://github.githubassets.com/images/email/marketplace/mp-icon.png" alt="Marketplace" class="mb-2" style="-ms-interpolation-mode: bicubic; max-width: 100%; margin-bottom: 8px !important; height: 48px; margin: 10px 0 5px;">
+            <h2 class="mb-0" style="color: #24292e !important; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-weight: 500; line-height: 1.25; margin: 0 0 10px; font-size: 24px; margin-bottom: 0 !important;"><img src="https://github.githubassets.com/images/email/explore/logo-wordmark.png" width="71" height="18" alt="GitHub" style="-ms-interpolation-mode: bicubic; max-width: 100%;"> Marketplace</h2>
+
+            Thank you for your interest in GitHub Marketplace.<br><br>
+  As part of <a href="https://docs.github.com/en/developers/github-marketplace/applying-for-publisher-verification-for-your-organization#requesting-publisher-verification">publisher verification process</a> for WarceuProject, we need to ensure that the organization's display name is relevant and does not imply GitHub or Microsoft endorsement.<br><br>
+  We are unable to complete your request at this time, as your organization needs to have two-factor authentication enabled. Kindly <a href="https://github.com/organizations/WarceuProject/settings/security">enable two-factor authentication for your organization</a> and apply again.<br><br>
+<br>
+Thanks,<br>
+GitHub Marketplace Team<br>
+
+
+            <p
+              class="mt-4"
+              style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: normal; line-height: 1.5; margin: 0; margin-bottom: 15px; margin-top: 24px !important;">Need help? Get in touch with us at
+              <a href="https://support.github.com" style="box-sizing: border-box; color: #0366d6; text-decoration: none;">https://support.github.com</a>
+            </p>
+
+            <div class="footer" style="box-sizing: border-box; clear: both; width: 100%;">
+              <hr style="height: 0; overflow: visible; margin-top: 24px; border: 0; border-top: 1px solid #e1e4e8; color: #959da5; font-size: 12px; line-height: 18px; margin-bottom: 30px;">
+              <div style="box-sizing: border-box; color: #959da5; font-size: 12px; line-height: 18px;">
+                <p
+                  style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-weight: normal; margin: 0; margin-bottom: 15px; color: #959da5; font-size: 12px; line-height: 18px;">
+                  <a href="https://github.com/email/unsubscribe" style="box-sizing: border-box; color: #959da5; font-size: 12px; line-height: 18px; text-decoration: none;">
+                    <unsubscribe style="color: #959da5; font-size: 12px; line-height: 18px;">Unsubscribe</unsubscribe>
+                  </a>
+                  &middot;
+                  <a href="https://github.com/settings/emails?utm_source=marketplace_preview_email&utm_medium=email" style="box-sizing: border-box; color: #959da5; font-size: 12px; line-height: 18px; text-decoration: none;">Email preferences</a>
+                  &middot;
+                  <a href="https://docs.github.com/articles/github-terms-of-service/?utm_source=marketplace_preview_email&utm_medium=email" style="box-sizing: border-box; color: #959da5; font-size: 12px; line-height: 18px; text-decoration: none;">Terms</a>
+                  &middot;
+                  <a href="https://docs.github.com/articles/github-privacy-policy/?utm_source=marketplace_preview_email&utm_medium=email" style="box-sizing: border-box; color: #959da5; font-size: 12px; line-height: 18px; text-decoration: none;">Privacy</a>
+                  &middot;
+                  <a href="https://github.com/login?utm_source=marketplace_preview_email&utm_medium=email" style="box-sizing: border-box; color: #959da5; font-size: 12px; line-height: 18px; text-decoration: none;">Sign into GitHub</a>
+                </p>
+              </div>
+              <p
+                style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-weight: normal; margin: 0; margin-bottom: 15px; color: #959da5; font-size: 12px; line-height: 18px;">GitHub, Inc.<br style="color: #959da5; font-size: 12px; line-height: 18px;">
+                88 Colin P Kelly Jr St.<br style="color: #959da5; font-size: 12px; line-height: 18px;">
+                San Francisco, CA 94107</p>
+            </div>
+          </div>
+
+        </td>
+        <td style="box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; vertical-align: top;" valign="top"></td>
+      </tr>
+    </table>
+
+  </body>
+</html>

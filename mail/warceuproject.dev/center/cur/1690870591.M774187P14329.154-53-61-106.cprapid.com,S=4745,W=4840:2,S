@@ -1,0 +1,95 @@
+Return-Path: <lightid180@gmail.com>
+Delivered-To: center@warceuproject.dev
+Received: from 154-53-61-106.cprapid.com
+	by 154-53-61-106.cprapid.com with LMTP
+	id RIf2LT+jyGT5NwAANuvnvw
+	(envelope-from <lightid180@gmail.com>)
+	for <center@warceuproject.dev>; Mon, 31 Jul 2023 23:16:31 -0700
+Return-path: <lightid180@gmail.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Mon, 31 Jul 2023 23:16:31 -0700
+Received: from mail-wr1-f41.google.com ([209.85.221.41]:60802)
+	by 154-53-61-106.cprapid.com with esmtps  (TLS1.3) tls TLS_AES_128_GCM_SHA256
+	(Exim 4.96)
+	(envelope-from <lightid180@gmail.com>)
+	id 1qQpEj-0003iK-0k
+	for center@warceuproject.dev;
+	Mon, 31 Jul 2023 23:16:31 -0700
+Received: by mail-wr1-f41.google.com with SMTP id ffacd0b85a97d-3179ed1dfbbso1920157f8f.1
+        for <center@warceuproject.dev>; Mon, 31 Jul 2023 23:16:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20221208; t=1690870548; x=1691475348;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=aL8a8yhfdER18k2UTexx6Q/qILyUSiPebqeFP+n2rN8=;
+        b=i9MrfjHO7tJOCiQ+Z9AZjkE470riUKcPVOWbXHKuU7GDg6LLe4bh6beyzsnYI1IMYH
+         QOKyJ02ey4+KfMoF9Tw9J8xnG7it0vY8dyA6Y1V0s3v43/YLv+Mw5e14rmUAHpmSWfBG
+         jiirqP7DeZee+oh8B3y9voiblCkM8BfF06Ttu2j7BHZbkmUj23TUh+XeVqk1JUkILHq6
+         Nxb0yzwC9HlqdhQG145gsTbV3wjXV/l2mh/McJMOIea+yL7Hk+FicVleb3Mf/+57pjf2
+         /qq9BPZZkBE/Vg93p3OnymNm1TvHQS5i5oZaGgNxl8cnSZ72eFMpII8+dl9EgfFRWmv+
+         Apkw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20221208; t=1690870548; x=1691475348;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=aL8a8yhfdER18k2UTexx6Q/qILyUSiPebqeFP+n2rN8=;
+        b=YXK6nPmlg160mq/PIaRQOlm3uqr7BOMSpVkqYNSj/io+lYW410JoxbodOAhxAWIO8y
+         h3JoLxYiYO+BgcWFzMNeknmEtz1ELS8khUzxLeH35s/XE97Dxf2wsOI55sAnfciZoYAY
+         h2Mn3Y4uK0khCn/M+6DFiDVZc33gyJCJwV/Etzp1hwCytGthwoUjGXt2UGT/XS2IE+BR
+         IoQoFfJY0hnk40PY4RGXozDAaO1nvA0UrtVKOCLUE7S61RijqdP2WiQNNCj6/OnlnXmK
+         5YddJry3iZ0wKIJZGOLkivSGejMMNCHEWDZOFSsKKeNoanu6R8FcLAtED2v/kHVni7NG
+         NvXg==
+X-Gm-Message-State: ABy/qLb0BTVGJHESLClJR9xy3jeUClRXtaYSTAsjql+FigMyQJwuAGdo
+	bBXSK5dS3LPDywYzdJCTxdcHn58WB5umAYZFGQgmiEDBWps=
+X-Google-Smtp-Source: APBJJlFVAFi9cVT5XiLha/OYs9ujDvBl6YAM0gc19JqvFAM+xaUI0o0Ert/kNz6ul2G/CIlsl1hm75BUaakb2uSEnu0=
+X-Received: by 2002:a5d:4ac6:0:b0:314:33a2:78fe with SMTP id
+ y6-20020a5d4ac6000000b0031433a278femr1652067wrs.29.1690870547403; Mon, 31 Jul
+ 2023 23:15:47 -0700 (PDT)
+MIME-Version: 1.0
+From: Kira Sinigami <lightid180@gmail.com>
+Date: Tue, 1 Aug 2023 13:15:35 +0700
+Message-ID: <CAM0mTbS2ynwQf9267roFembj+4RpD+3Su2o7PmecmhyrZdN7hw@mail.gmail.com>
+Subject: test kirim
+To: center@warceuproject.dev
+Content-Type: multipart/alternative; boundary="00000000000056d5a10601d67a49"
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "154-53-61-106.cprapid.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  test kirim test kirim 
+ Content analysis details:   (0.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [lightid180[at]gmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [lightid180[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+X-Spam-Flag: NO
+
+--00000000000056d5a10601d67a49
+Content-Type: text/plain; charset="UTF-8"
+
+test kirim
+
+--00000000000056d5a10601d67a49
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">test kirim<br></div>
+
+--00000000000056d5a10601d67a49--

@@ -1,0 +1,14 @@
+2023-08-16 02:19:32.865 [info] Extension host with pid 1131255 started
+2023-08-16 02:19:32.891 [info] Lock '/home/warceu/.local/share/code-server/User/workspaceStorage/-29dcbcec/vscode.lock': Lock acquired.
+2023-08-16 02:19:33.285 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-16 02:19:33.640 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-16 02:19:33.641 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-16 02:19:34.169 [info] Eager extensions activated
+2023-08-16 02:19:34.169 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 02:19:34.169 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-16 02:19:36.039 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-08-16 02:19:36.039 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-16 02:21:47.913 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-08-16 02:28:43.334 [info] Extension host terminating: received terminate message from renderer
+2023-08-16 02:28:43.334 [info] Lock '/home/warceu/.local/share/code-server/User/workspaceStorage/-29dcbcec/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-08-16 02:28:43.353 [info] Extension host with pid 1131255 exiting with code 0

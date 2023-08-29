@@ -1,0 +1,266 @@
+Return-Path: <security@facebookmail.com>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id gCHSJyAs0mTMDgUAz1WdsA
+	(envelope-from <security@facebookmail.com>)
+	for <center@warceuproject.dev>; Tue, 08 Aug 2023 18:50:56 +0700
+Return-path: <security@facebookmail.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Tue, 08 Aug 2023 04:50:56 -0700
+Received: from 69-171-232-140.mail-mail.facebook.com ([69.171.232.140]:37282)
+	by server.gruponani.net with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <security@facebookmail.com>)
+	id 1qTLEl-001ODi-2s
+	for center@warceuproject.dev;
+	Tue, 08 Aug 2023 04:50:56 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1691495402;
+	bh=rHFllgPkx2P4KLR08TUSGTd+4s7ZwjNSJ5c/Tf64yxE=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=Wn42WcpQzbyeHH1ZRRsLtMUT1LnWCuSFevB8tsCv3/80E5Xa9rghklu87jK13e/dF
+	 lJ8OF2xoy137/dfBXOGS6hpzRKTuqgPDUEUFjfqGo9jztjkFn5b5bg+8RHYQ6nYagA
+	 zJA3YxPptaLU/6sr1jPHhSOeZuSzTGMWAwACXemM=
+X-Facebook: from 2401:db00:126c:300f:face:0:6f:0 ([MTI3LjAuMC4x]) 
+	by thrift.internalfb.com with HTTPS (ZuckMail);
+Date: Tue, 8 Aug 2023 04:50:02 -0700
+To: Kira Sinigami <center@warceuproject.dev>
+Subject: Anda sekarang bisa kembali ke akun Anda
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Facebook" <security@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Errors-To: security@facebookmail.com
+X-Facebook-Notify: auth_platform_unlock_link; mailid=U1U60267acfd5a25G5b05a0d4423fG60267f6935cf7G264c
+Feedback-ID: 0:auth_platform_unlock_link:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+Require-Recipient-Valid-Since: center@warceuproject.dev; Saturday, 15 Jul 2023 23:18:11 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_60e786d69f8df7d7e27d3ee421e16bec"
+Message-ID: <b58e7530-35e1-11ee-bfaa-05304a052092@facebookmail.com>
+X-Spam-Status: No, score=-13.0
+X-Spam-Score: -129
+X-Spam-Bar: -------------
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Halo Kira, Hi Kira, Terima kasih telah mengirimkan Tanda Pengenal
+    Anda. Kami tidak bisa mengonfirmasi tanggal lahir Anda berdasarkan tanda
+   pengenal yang Anda berikan. Jadi, kami tidak bisa mengubah tanggal lahir di
+    akun [...] 
+ Content analysis details:   (-13.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: facebookmail.com]
+  0.0 TVD_RCVD_IP            Message was received from an IP address
+  2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                             [69.171.232.140 listed in psbl.surriel.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             welcome-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             welcome-list
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+ -0.0 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+
+
+--b1_60e786d69f8df7d7e27d3ee421e16bec
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Halo Kira,
+
+Hi Kira,
+
+Terima kasih telah mengirimkan Tanda Pengenal Anda. Kami tidak bisa =
+mengonfirmasi tanggal lahir Anda berdasarkan tanda pengenal yang Anda =
+berikan. Jadi, kami tidak bisa mengubah tanggal lahir di akun Anda.
+
+Untuk mempelajari cara memperbarui tanggal lahir di Facebook, buka Pusat =
+Bantuan:
+https://www.facebook.com/help/563229410363824?ref=3Dcr
+
+
+Jika Anda sudah menambahkan tanggal lahir dan perlu mengubahnya, Anda bisa =
+menggunakan formulir ini untuk mengirimkan permintaan perubahan tanggal =
+lahir:
+https://www.facebook.com/help/contact/233841356784195
+
+Terima kasih
+Facebook Security
+
+Terima kasih,
+Tim Facebook
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Pesan ini dikirim ke center@warceuproject.dev atas permintaan Anda.
+Meta Platforms, Inc., Attention: Community Support, 1 Facebook Way, Menlo =
+Park, CA 94025
+
+
+--b1_60e786d69f8df7d7e27d3ee421e16bec
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style =
+nonce=3D"cnorlLVT">body{background:#dadde1;font-family:Helvetica, Arial, =
+sans-serif;font-weight:300}a{color:#1d2129;text-decoration:none;white-spac=
+e:nowrap !important}#email_table{width:100% =
+!important}#email_content{padding:0 !important}#profile_pic =
+img{border:0}*[class].usercard{background:#fff}@media all and =
+(max-device-width: 720px){a{white-space:pre-wrap =
+!important}table[bgcolor=3D'#e9eaed']{background:transparent =
+!important}*[id]#body_container{border-bottom:1px solid #e5e5e5 =
+!important}table[width=3D'610'],*[id]#body_container,*[id]#cta_container{t=
+able-layout:fixed}*[id]#cta_outer{border:none !important}*[id]#header_prof=
+ile>table>tbody>tr>td:not(:nth-child(4)){display:none =
+!important}*[id]#profile_name{display:none}*[id]#profile_pic{-moz-border-r=
+adius:3px !important;-webkit-border-radius:3px =
+!important;border-radius:3px !important;border-width:0 =
+!important;overflow:hidden}*[id]#header_title{width:auto =
+!important}*[id]#header_profile{width:24px}*[class].bio{display:none =
+!important}*[id]#main_content{width:100%}*[class].content>div =
+a{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap =
+!important;width:160px}*[class].ext{padding-right:20px}*[class].image =
+a{display:block;margin-left:20px}*[class].cta_btn,*[class].scnd_btn{displa=
+y:block}*[id]#email_cta>tbody>tr>td[width=3D'100%']{display:none}}@media =
+all and (device-width: 720px){table[width=3D'610'],*[id]#body_container,*[=
+id]#footer_container{width:340px}*[id]#email_filler td{height:12px =
+!important}*[class].usercard{width:300px !important}}@media all and =
+(max-device-width: =
+480px){*[id]#cta_container>table>tbody>tr>td[height=3D'15']{display:none =
+!important}}@media all and (device-width: 320px){table[width=3D'610'],*[id=
+]#body_container,*[id]#cta_container{min-width:400px;width:auto}center{pad=
+ding:0 10px}*[class].content>div a{width:182px}}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98%;"><tr><td id=3D"email_content" =
+style=3D"font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-s=
+erif;font-size:12px;padding:0px;background:#e0e1e5;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0;border-left:none;border-right:none;border-top:none;border=
+-bottom:none;"><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"padding:0;width:100%;"><span style=3D"color:#FFFFFF;display:none =
+!important;font-size:1px;">Hi Kira, Terima kasih telah mengirimkan Tanda =
+Pengenal Anda. Kami tidak bisa mengonfirmasi tanggal lahir Anda =
+berdasarkan tanda pengenal yang Anda berikan. Jadi, kami tidak bisa =
+mengubah tanggal lahir di akun Anda. Untuk mempelajari cara memperbarui =
+tanggal lahir di Facebook, buka Pusat Bantuan: =
+https://www.facebook.com/help/563229410363824?ref=3Dcr Jika Anda sudah =
+menambahkan tanggal lahir dan perlu mengubahnya, Anda bisa menggunakan =
+formulir ini untuk mengirimkan permintaan perubahan tanggal lahir: =
+https://www.facebook.com/help/contact/233841356784195 Terima kasih =
+Facebook Security</span></td></tr><tr><td =
+style=3D"padding:0;width:100%;"><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#435E9C" =
+style=3D"border-collapse:collapse;width:100%;background:#435E9C;background=
+-image:-webkit-linear-gradient(top, #5c77b5, =
+#435e9c);border-color:#0A1F4F;border-style:solid;border-width:0px 0px 1px =
+0px;box-shadow:0 1px 1px rgba(0, 0, 0, 0.25);height:47px;" =
+id=3D"header"><tr><td style=3D""><center><table border=3D"0" width=3D"610" =
+cellspacing=3D"0" cellpadding=3D"0" height=3D"44" =
+style=3D"border-collapse:collapse;"><tr><td align=3D"left" =
+id=3D"header_title" style=3D"width:100%;line-height:47px;"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><td width=3D"19" style=3D""><a =
+href=3D"https://www.facebook.com/n/?aref=3D1691495402003703&amp;medium=3De=
+mail&amp;mid=3D60267acfd5a25G5b05a0d4423fG60267f6935cf7G264c&amp;n_m=3Dcen=
+ter%40warceuproject.dev&amp;rms=3Dv2&amp;irms=3Dtrue" =
+style=3D"color:#1b74e4;text-decoration:none;"><img =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/-7-ObTKMsja.png" =
+style=3D"border:0;display:block;margin:13px 0 14px 0;" /></a></td><td =
+width=3D"10" style=3D"width:10px;"></td><td style=3D""><font =
+color=3D"white" size=3D"3"><a =
+style=3D"color:#ffffff;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:16p=
+x;font-weight:bold;text-shadow:0 -1px rgba(34, 59, 115, =
+0.85);vertical-align:middle;" href=3D"https://www.facebook.com/n/?aref=3D1=
+691495402003703&amp;medium=3Demail&amp;mid=3D60267acfd5a25G5b05a0d4423fG60=
+267f6935cf7G264c&amp;n_m=3Dcenter%40warceuproject.dev&amp;rms=3Dv2&amp;irm=
+s=3Dtrue"></a></font></td></table></td></tr></table></center></td></tr></t=
+able></td></tr><tr><td style=3D"padding:0;width:100%;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#e0e1e5" =
+id=3D"table_color" style=3D"border-collapse:collapse;"><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" id=3D"email_filler" =
+style=3D"border-collapse:collapse;"><td height=3D"19" =
+style=3D"">&nbsp;</td></table><center><table border=3D"0" width=3D"610" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td align=3D"left" =
+id=3D"body_container" style=3D"background-color:#ffffff;border-color:#c1c2=
+c4;border-style:solid;display:block;border-width:1px;border-radius:5px;-we=
+bkit-border-radius:5px;-moz-border-radius:5px;box-shadow:0 1px 1px rgba(0, =
+0, 0, 0.10);overflow:hidden;"><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><td style=3D"padding:15px;"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;">Hi Kira,<br /> <br /> =
+Terima kasih telah mengirimkan Tanda Pengenal Anda. Kami tidak bisa =
+mengonfirmasi tanggal lahir Anda berdasarkan tanda pengenal yang Anda =
+berikan. Jadi, kami tidak bisa mengubah tanggal lahir di akun Anda.<br /> =
+<br /> Untuk mempelajari cara memperbarui tanggal lahir di Facebook, buka =
+Pusat Bantuan:<br /> =
+https://www.facebook.com/help/563229410363824?ref=3Dcr<br /> <br /> <br /> =
+Jika Anda sudah menambahkan tanggal lahir dan perlu mengubahnya, Anda bisa =
+menggunakan formulir ini untuk mengirimkan permintaan perubahan tanggal =
+lahir:<br /> https://www.facebook.com/help/contact/233841356784195<br /> =
+<br /> Terima kasih<br /> Facebook Security</td></tr></table></td></table>=
+</td></tr></table></center></td></table></td></tr><tr><td =
+style=3D"padding:0;width:100%;"><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse;" =
+id=3D"footer_table"><tr><td style=3D""><center><table border=3D"0" =
+width=3D"610" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><table border=3D"0" =
+width=3D"610" cellspacing=3D"0" cellpadding=3D"0" id=3D"footer" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:12px;font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;padding:18px 0;border-left:none;bor=
+der-right:none;border-top:none;border-bottom:none;color:#6a7180;font-weigh=
+t:300;line-height:16px;text-align:center;border:none;">Pesan ini dikirim =
+ke <a href=3D"mailto:center&#064;warceuproject.dev" =
+style=3D"color:#6a7180;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-weight:b=
+old;">center&#064;warceuproject.dev</a> atas permintaan Anda. Meta =
+Platforms, Inc., Attention: Community Support, 1 Facebook Way, Menlo Park, =
+CA 94025</td></tr></table></td></tr></table></center></td></tr></table></t=
+d></tr></table></td></tr></table><span style=3D"width:100%;"><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3D60267acfd5a25=
+G5b05a0d4423fG60267f6935cf7G264c" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_60e786d69f8df7d7e27d3ee421e16bec--
+

@@ -1,0 +1,136 @@
+# Webalizer V2.23-08 Incremental Data - 08/16/2023 12:49:37
+2023 8 16 12 49 37
+103 2 2 1 2 2 4407 76 2 0
+2 103 103 16 16
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+103 2 4407 2 76 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+103 2 4407 76
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+55
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+40
+0
+0
+0
+# -urls- 
+/
+0 2 93921917301616 1246 0 0
+# End Of Table - urls
+# -sites- (monthly)
+server.gruponani.net
+0 2 0 29 1 1692187877
+-
+36.72.213.120
+0 101 2 4378 1 1692190175
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+server.gruponani.net
+0 2 0 29 1 1692187877
+-
+36.72.213.120
+0 101 2 4378 1 1692190175
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 76
+https://code.warceuproject.dev/_static/out/browser/serviceWorker.js
+0 27
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 11; M2101K7BNY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36
+0 101
+curl/7.61.1
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

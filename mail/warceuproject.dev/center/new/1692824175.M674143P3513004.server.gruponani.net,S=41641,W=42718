@@ -1,0 +1,1077 @@
+Return-Path: <PaulPhillips-ehlljj1nxyuhiutd1r@cmail19.com>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id wh6fJm9y5mSsmjUAz1WdsA
+	(envelope-from <PaulPhillips-ehlljj1nxyuhiutd1r@cmail19.com>)
+	for <center@warceuproject.dev>; Thu, 24 Aug 2023 03:56:15 +0700
+Return-path: <PaulPhillips-ehlljj1nxyuhiutd1r@cmail19.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Wed, 23 Aug 2023 13:56:15 -0700
+Received: from mx199.a.outbound.createsend.com ([203.55.21.199]:36805)
+	by server.gruponani.net with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <PaulPhillips-ehlljj1nxyuhiutd1r@cmail19.com>)
+	id 1qYutj-00Ejrf-02
+	for center@warceuproject.dev;
+	Wed, 23 Aug 2023 13:56:15 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=cm; d=blesta.com;
+ h=Subject:From:To:Date:MIME-Version:Content-Type:List-Unsubscribe:Message-ID;
+ i=sales@blesta.com;
+ bh=Mb9QbUvQFQXmkJ9bNFHWufzVP/NVC4Q7q/nUt5sZ4Bk=;
+ b=Urb7Z0sCsldQbDYM7G6h0FdF6WGPdg+Abj6yPbFUTxrlGgChkCVRBQqRt7wtD1yzPHAsOD74SW6U
+   vYMAxgWY6P93NcgPYkRRZbD8eO88em5pgwf0zXa/TViiJiRMcMpVjwi/VCt2Rt55cn6j5irlPWAW
+   zrjiUnGA4tm7fnYKIfE=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=cs2013; d=cmail2.com;
+ h=Subject:From:To:Date:MIME-Version:Content-Type:List-Unsubscribe:Message-ID;
+ bh=Mb9QbUvQFQXmkJ9bNFHWufzVP/NVC4Q7q/nUt5sZ4Bk=;
+ b=Xc1ZUDbabIhK7kgkDMDX66iNQ72HXJFNZX6hzh22oagtHykY8vSyc765TgjU2AabMYH4dsT7uHq8
+   vs01lngXBxOrd/wE4rVxRLpiySHydv/I6vbluecCDvlEAobTCBW0XWzO+N0AA2kxT/s6+nmRytWH
+   AnH95m+BjpPbDcb8EpI=
+Subject: Blesta Trial - Upgrade Special
+From: "Paul Phillips" <sales@blesta.com> 
+To: "Kira Dev" <center@warceuproject.dev>
+Date: Thu, 24 Aug 2023 06:55:31 +1000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_993f245a-ae43-4393-a9b4-95f8aadd7616_"; charset=utf-8
+X-Mailer: Create Send
+X-Complaints-To: abuse@cmail19.com
+X-Feedback-ID: AR1-r-ehlljj:LI1-r-ojulyz:CL1-r-irjyt:createSEND
+List-Unsubscribe: <http://unsub.cmail19.com/t/r-u-ehlljj-nxyuhiutd/>,
+ <mailto:unsubscribe-ehlljj2nxyuhiutd2r-23BA918B@cmail19.com?subject=Unsubscribe>
+Message-ID: <cm.0655314542466.ehlljj.nxyuhiutd.r@cmail19.com>
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Checking in on your trial, and a coupon code. Let's be friends
+    :) Hey Kira, Touching base! Your trial trial-wcbcz8vzzatq5xab is good until
+    September 2, 2023, and we thought you might appreciate a discount. Stay up
+    and running uninterrupted. 
+ Content analysis details:   (0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: fonts.googleapis.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_QP_LONG_LINE      RAW: Quoted-printable line longer than 76
+                             chars
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+ -0.0 DKIMWL_WL_MED          DKIMwl.org - Medium trust sender
+X-Spam-Flag: NO
+
+--_993f245a-ae43-4393-a9b4-95f8aadd7616_
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Checking in on your trial, and a coupon code.                   Let's be =
+friends :)
+
+Hey =
+Kira=
+=
+,
+
+Touching base! Your trial =
+trial-wcbcz8vzzatq5xab=
+=
+ =
+is good until =
+September 2, 2023=
+=
+, and we thought you might appreciate a discount. Stay up and running uni=
+nterrupted.
+
+If there is anything holding you back from making a purchase, or you need=
+ any help or have any questions, we would love to chat.
+
+Use the following coupon code for 10% off monthly or owned license option=
+s:
+
+trialupgrade
+
+Use the coupon code above and click here to save 10%. [https://www.blest=
+a.com/pricing/]               Common Resources Available Documentation [=
+https://docs.blesta.com] Community Forums [https://www.blesta.com/forums=
+/] Discord Chat [https://discord.gg/XCq34pU]                    Blesta i=
+s a product of Phillips Data, Inc. =C2=A9 2019   You received this email =
+because you installed a free trial of Blesta.            Like   https://c=
+ampaign.phillipsdata.com/t/r-fb-ehlljj-nxyuhiutd-kd/       Tweet=
+   https://campaign.phillipsdata.com/t/r-tw-ehlljj-nxyuhiutd-kh/=
+       Share   [https://campaign.phillipsdata.com/t/r-li-ehlljj-=
+nxyuhiutd-kj/]             Preferences https://phillipsdatainc.updatemyp=
+rofile.com/r-ehlljj-23BA918B-nxyuhiutd-kk  |   Unsubs=
+cribe https://campaign.phillipsdata.com/t/r-u-ehlljj-nxyuhiutd-k=
+u/
+
+--_993f245a-ae43-4393-a9b4-95f8aadd7616_
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--[if IE]><html xmlns=
+=3D"http://www.w3.org/1999/xhtml" class=3D"ie"><![endif]--><!--[if !IE]=
+><!--><html style=3D"margin: 0;padding: 0;" xmlns=3D"http://www.w3.org/19=
+99/xhtml"><!--<![endif]--><head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+    <title></title>
+    <!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" content=3D"I=
+E=3Dedge"><!--<![endif]-->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width"><style type=3D=
+"text/css">
+@media only screen and (min-width: 620px){.wrapper{min-width:600px !impor=
+tant}.wrapper h1{}.wrapper h1{font-size:26px !important;line-height:34px =
+!important}.wrapper h2{}.wrapper h2{font-size:20px !important;line-height=
+:28px !important}.wrapper h3{}.column{}.wrapper .size-8{font-size:8px !im=
+portant;line-height:14px !important}.wrapper .size-9{font-size:9px !impor=
+tant;line-height:16px !important}.wrapper .size-10{font-size:10px !import=
+ant;line-height:18px !important}.wrapper .size-11{font-size:11px !importa=
+nt;line-height:19px !important}.wrapper .size-12{font-size:12px !importan=
+t;line-height:19px !important}.wrapper .size-13{font-size:13px !important=
+;line-height:21px !important}.wrapper .size-14{font-size:14px !important;=
+line-height:21px !important}.wrapper .size-15{font-size:15px !important;l=
+ine-height:23px !important}.wrapper .size-16{font-size:16px !important;li=
+ne-height:24px=20
+!important}.wrapper .size-17{font-size:17px !important;line-height:26px !=
+important}.wrapper .size-18{font-size:18px !important;line-height:26px !i=
+mportant}.wrapper .size-20{font-size:20px !important;line-height:28px !im=
+portant}.wrapper .size-22{font-size:22px !important;line-height:31px !imp=
+ortant}.wrapper .size-24{font-size:24px !important;line-height:32px !impo=
+rtant}.wrapper .size-26{font-size:26px !important;line-height:34px !impor=
+tant}.wrapper .size-28{font-size:28px !important;line-height:36px !import=
+ant}.wrapper .size-30{font-size:30px !important;line-height:38px !importa=
+nt}.wrapper .size-32{font-size:32px !important;line-height:40px !importan=
+t}.wrapper .size-34{font-size:34px !important;line-height:43px !important=
+}.wrapper .size-36{font-size:36px !important;line-height:43px !important}=
+=2Ewrapper .size-40{font-size:40px !important;line-height:47px !important}.=
+wrapper=20
+=2Esize-44{font-size:44px !important;line-height:50px !important}.wrapper .=
+size-48{font-size:48px !important;line-height:54px !important}.wrapper .s=
+ize-56{font-size:56px !important;line-height:60px !important}.wrapper .si=
+ze-64{font-size:64px !important;line-height:63px !important}}
+</style>
+    <style type=3D"text/css">
+body {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+* {
+  line-height: inherit;
+}
+[x-apple-data-detectors],
+[href^=3D"tel"],
+[href^=3D"sms"] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+=2Ewrapper .footer__share-button a:hover,
+=2Ewrapper .footer__share-button a:focus {
+  color: #ffffff !important;
+}
+=2Ebtn a:hover,
+=2Ebtn a:focus,
+=2Efooter__share-button a:hover,
+=2Efooter__share-button a:focus,
+=2Eemail-footer__links a:hover,
+=2Eemail-footer__links a:focus {
+  opacity: 0.8;
+}
+=2Epreheader,
+=2Eheader,
+=2Elayout,
+=2Ecolumn {
+  transition: width 0.25s ease-in-out, max-width 0.25s ease-in-out;
+}
+=2Epreheader td {
+  padding-bottom: 8px;
+}
+=2Elayout,
+div.header {
+  max-width: 400px !important;
+  -fallback-width: 95% !important;
+  width: calc(100% - 20px) !important;
+}
+div.preheader {
+  max-width: 360px !important;
+  -fallback-width: 90% !important;
+  width: calc(100% - 60px) !important;
+}
+=2Esnippet,
+=2Ewebversion {
+  Float: none !important;
+}
+=2Ecolumn {
+  max-width: 400px !important;
+  width: 100% !important;
+}
+=2Efixed-width.has-border {
+  max-width: 402px !important;
+}
+=2Efixed-width.has-border .layout__inner {
+  box-sizing: border-box;
+}
+=2Esnippet,
+=2Ewebversion {
+  width: 50% !important;
+}
+=2Eie .btn {
+  width: 100%;
+}
+[owa] .column div,
+[owa] .column button {
+  display: block !important;
+}
+[owa] .wrapper > tbody > tr > td {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+[owa] .wrapper > tbody > tr > td > div {
+  min-width: 600px;
+}
+=2Eie .column,
+[owa] .column,
+=2Eie .gutter,
+[owa] .gutter {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top;
+}
+=2Eie div.preheader,
+[owa] div.preheader,
+=2Eie .email-footer,
+[owa] .email-footer {
+  max-width: 560px !important;
+  width: 560px !important;
+}
+=2Eie .snippet,
+[owa] .snippet,
+=2Eie .webversion,
+[owa] .webversion {
+  width: 280px !important;
+}
+=2Eie div.header,
+[owa] div.header,
+=2Eie .layout,
+[owa] .layout,
+=2Eie .one-col .column,
+[owa] .one-col .column {
+  max-width: 600px !important;
+  width: 600px !important;
+}
+=2Eie .two-col .column,
+[owa] .two-col .column {
+  max-width: 300px !important;
+  width: 300px !important;
+}
+=2Eie .three-col .column,
+[owa] .three-col .column,
+=2Eie .narrow,
+[owa] .narrow {
+  max-width: 200px !important;
+  width: 200px !important;
+}
+=2Eie .wide,
+[owa] .wide {
+  width: 400px !important;
+}
+=2Eie .fixed-width.has-border,
+[owa] .fixed-width.x_has-border,
+=2Eie .has-gutter.has-border,
+[owa] .has-gutter.x_has-border {
+  max-width: 602px !important;
+  width: 602px !important;
+}
+=2Eie .two-col.has-gutter .column,
+[owa] .two-col.x_has-gutter .column {
+  max-width: 290px !important;
+  width: 290px !important;
+}
+=2Eie .three-col.has-gutter .column,
+[owa] .three-col.x_has-gutter .column,
+=2Eie .has-gutter .narrow,
+[owa] .has-gutter .narrow {
+  max-width: 188px !important;
+  width: 188px !important;
+}
+=2Eie .has-gutter .wide,
+[owa] .has-gutter .wide {
+  max-width: 394px !important;
+  width: 394px !important;
+}
+=2Eie .two-col.has-gutter.has-border .column,
+[owa] .two-col.x_has-gutter.x_has-border .column {
+  max-width: 292px !important;
+  width: 292px !important;
+}
+=2Eie .three-col.has-gutter.has-border .column,
+[owa] .three-col.x_has-gutter.x_has-border .column,
+=2Eie .has-gutter.has-border .narrow,
+[owa] .has-gutter.x_has-border .narrow {
+  max-width: 190px !important;
+  width: 190px !important;
+}
+=2Eie .has-gutter.has-border .wide,
+[owa] .has-gutter.x_has-border .wide {
+  max-width: 396px !important;
+  width: 396px !important;
+}
+=2Eie .fixed-width .layout__inner {
+  border-left: 0 none white !important;
+  border-right: 0 none white !important;
+}
+=2Eie .layout__edges {
+  display: none;
+}
+=2Emso .layout__edges {
+  font-size: 0;
+}
+=2Elayout-fixed-width,
+=2Emso .layout-full-width {
+  background-color: #ffffff;
+}
+@media only screen and (min-width: 620px) {
+  .column,
+  .gutter {
+    display: table-cell;
+    Float: none !important;
+    vertical-align: top;
+  }
+  div.preheader,
+  .email-footer {
+    max-width: 560px !important;
+    width: 560px !important;
+  }
+  .snippet,
+  .webversion {
+    width: 280px !important;
+  }
+  div.header,
+  .layout,
+  .one-col .column {
+    max-width: 600px !important;
+    width: 600px !important;
+  }
+  .fixed-width.has-border,
+  .fixed-width.ecxhas-border,
+  .has-gutter.has-border,
+  .has-gutter.ecxhas-border {
+    max-width: 602px !important;
+    width: 602px !important;
+  }
+  .two-col .column {
+    max-width: 300px !important;
+    width: 300px !important;
+  }
+  .three-col .column,
+  .column.narrow {
+    max-width: 200px !important;
+    width: 200px !important;
+  }
+  .column.wide {
+    width: 400px !important;
+  }
+  .two-col.has-gutter .column,
+  .two-col.ecxhas-gutter .column {
+    max-width: 290px !important;
+    width: 290px !important;
+  }
+  .three-col.has-gutter .column,
+  .three-col.ecxhas-gutter .column,
+  .has-gutter .narrow {
+    max-width: 188px !important;
+    width: 188px !important;
+  }
+  .has-gutter .wide {
+    max-width: 394px !important;
+    width: 394px !important;
+  }
+  .two-col.has-gutter.has-border .column,
+  .two-col.ecxhas-gutter.ecxhas-border .column {
+    max-width: 292px !important;
+    width: 292px !important;
+  }
+  .three-col.has-gutter.has-border .column,
+  .three-col.ecxhas-gutter.ecxhas-border .column,
+  .has-gutter.has-border .narrow,
+  .has-gutter.ecxhas-border .narrow {
+    max-width: 190px !important;
+    width: 190px !important;
+  }
+  .has-gutter.has-border .wide,
+  .has-gutter.ecxhas-border .wide {
+    max-width: 396px !important;
+    width: 396px !important;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen a=
+nd (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel=
+-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen an=
+d (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .fblike {
+    background-image: url(http://i7.cmail19.com/static/eb/master/13-the-b=
+lueprint-3/images/fblike@2x.png) !important;
+  }
+  .tweet {
+    background-image: url(http://i8.cmail19.com/static/eb/master/13-the-b=
+lueprint-3/images/tweet@2x.png) !important;
+  }
+  .linkedinshare {
+    background-image: url(http://i9.cmail19.com/static/eb/master/13-the-b=
+lueprint-3/images/lishare@2x.png) !important;
+  }
+  .forwardtoafriend {
+    background-image: url(http://i10.cmail19.com/static/eb/master/13-the-=
+blueprint-3/images/forward@2x.png) !important;
+  }
+}
+@media (max-width: 321px) {
+  .fixed-width.has-border .layout__inner {
+    border-width: 1px 0 !important;
+  }
+  .layout,
+  .column {
+    min-width: 320px !important;
+    width: 320px !important;
+  }
+  .border {
+    display: none;
+  }
+}
+=2Emso div {
+  border: 0 none white !important;
+}
+=2Emso .w560 .divider {
+  Margin-left: 260px !important;
+  Margin-right: 260px !important;
+}
+=2Emso .w360 .divider {
+  Margin-left: 160px !important;
+  Margin-right: 160px !important;
+}
+=2Emso .w260 .divider {
+  Margin-left: 110px !important;
+  Margin-right: 110px !important;
+}
+=2Emso .w160 .divider {
+  Margin-left: 60px !important;
+  Margin-right: 60px !important;
+}
+=2Emso .w354 .divider {
+  Margin-left: 157px !important;
+  Margin-right: 157px !important;
+}
+=2Emso .w250 .divider {
+  Margin-left: 105px !important;
+  Margin-right: 105px !important;
+}
+=2Emso .w148 .divider {
+  Margin-left: 54px !important;
+  Margin-right: 54px !important;
+}
+=2Emso .size-8,
+=2Eie .size-8 {
+  font-size: 8px !important;
+  line-height: 14px !important;
+}
+=2Emso .size-9,
+=2Eie .size-9 {
+  font-size: 9px !important;
+  line-height: 16px !important;
+}
+=2Emso .size-10,
+=2Eie .size-10 {
+  font-size: 10px !important;
+  line-height: 18px !important;
+}
+=2Emso .size-11,
+=2Eie .size-11 {
+  font-size: 11px !important;
+  line-height: 19px !important;
+}
+=2Emso .size-12,
+=2Eie .size-12 {
+  font-size: 12px !important;
+  line-height: 19px !important;
+}
+=2Emso .size-13,
+=2Eie .size-13 {
+  font-size: 13px !important;
+  line-height: 21px !important;
+}
+=2Emso .size-14,
+=2Eie .size-14 {
+  font-size: 14px !important;
+  line-height: 21px !important;
+}
+=2Emso .size-15,
+=2Eie .size-15 {
+  font-size: 15px !important;
+  line-height: 23px !important;
+}
+=2Emso .size-16,
+=2Eie .size-16 {
+  font-size: 16px !important;
+  line-height: 24px !important;
+}
+=2Emso .size-17,
+=2Eie .size-17 {
+  font-size: 17px !important;
+  line-height: 26px !important;
+}
+=2Emso .size-18,
+=2Eie .size-18 {
+  font-size: 18px !important;
+  line-height: 26px !important;
+}
+=2Emso .size-20,
+=2Eie .size-20 {
+  font-size: 20px !important;
+  line-height: 28px !important;
+}
+=2Emso .size-22,
+=2Eie .size-22 {
+  font-size: 22px !important;
+  line-height: 31px !important;
+}
+=2Emso .size-24,
+=2Eie .size-24 {
+  font-size: 24px !important;
+  line-height: 32px !important;
+}
+=2Emso .size-26,
+=2Eie .size-26 {
+  font-size: 26px !important;
+  line-height: 34px !important;
+}
+=2Emso .size-28,
+=2Eie .size-28 {
+  font-size: 28px !important;
+  line-height: 36px !important;
+}
+=2Emso .size-30,
+=2Eie .size-30 {
+  font-size: 30px !important;
+  line-height: 38px !important;
+}
+=2Emso .size-32,
+=2Eie .size-32 {
+  font-size: 32px !important;
+  line-height: 40px !important;
+}
+=2Emso .size-34,
+=2Eie .size-34 {
+  font-size: 34px !important;
+  line-height: 43px !important;
+}
+=2Emso .size-36,
+=2Eie .size-36 {
+  font-size: 36px !important;
+  line-height: 43px !important;
+}
+=2Emso .size-40,
+=2Eie .size-40 {
+  font-size: 40px !important;
+  line-height: 47px !important;
+}
+=2Emso .size-44,
+=2Eie .size-44 {
+  font-size: 44px !important;
+  line-height: 50px !important;
+}
+=2Emso .size-48,
+=2Eie .size-48 {
+  font-size: 48px !important;
+  line-height: 54px !important;
+}
+=2Emso .size-56,
+=2Eie .size-56 {
+  font-size: 56px !important;
+  line-height: 60px !important;
+}
+=2Emso .size-64,
+=2Eie .size-64 {
+  font-size: 64px !important;
+  line-height: 63px !important;
+}
+</style>
+   =20
+  <!--[if !mso]><!--><style type=3D"text/css">
+@import url(https://fonts.googleapis.com/css?family=3DOpen+Sans:400italic=
+,700italic,700,400|Roboto:400,700,400italic,700italic);
+</style><link href=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans=
+:400italic,700italic,700,400|Roboto:400,700,400italic,700italic" rel=3D"s=
+tylesheet" type=3D"text/css"><!--<![endif]--><style type=3D"text/css">
+body{background-color:#fff}.logo a:hover,.logo a:focus{color:#859bb1 !imp=
+ortant}.mso .layout-has-border{border-top:1px solid #ccc;border-bottom:1p=
+x solid #ccc}.mso .layout-has-bottom-border{border-bottom:1px solid #ccc}=
+=2Emso .border,.ie .border{background-color:#ccc}.mso h1,.ie h1{}.mso h1,.i=
+e h1{font-size:26px !important;line-height:34px !important}.mso h2,.ie h2=
+{}.mso h2,.ie h2{font-size:20px !important;line-height:28px !important}.m=
+so h3,.ie h3{}.mso .layout__inner,.ie .layout__inner{}.mso .footer__share=
+-button p{}.mso .footer__share-button p{font-family:Open Sans,sans-serif}=
+
+</style></head>
+<!--[if mso]>
+  <body class=3D"mso">
+<![endif]-->
+<!--[if !mso]><!-->
+  <body class=3D"full-padding" style=3D"margin: 0;padding: 0;-webkit-text=
+-size-adjust: 100%;">
+<!--<![endif]-->
+    <table class=3D"wrapper" style=3D"border-collapse: collapse;table-lay=
+out: fixed;min-width: 320px;width: 100%;background-color: #fff;" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation"><tbody><tr><td>
+      <div role=3D"banner">
+        <div class=3D"preheader" style=3D"Margin: 0 auto;max-width: 560px=
+;min-width: 280px; width: 280px;width: calc(28000% - 167440px);">
+          <div style=3D"border-collapse: collapse;display: table;width: 1=
+00%;">
+          <!--[if (mso)|(IE)]><table align=3D"center" class=3D"preheader=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td style=
+=3D"width: 280px" valign=3D"top"><![endif]-->
+            <div class=3D"snippet" style=3D"display: table-cell;Float: le=
+ft;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 140px; w=
+idth: 140px;width: calc(14000% - 78120px);padding: 10px 0 5px 0;color: #b=
+9b9b9;font-family: Open Sans,sans-serif;">
+              <div style=3D"mso-hide:all;position:fixed;height:0;max-heig=
+ht:0;overflow:hidden;font-size:0;">Checking in on your trial, and a coupo=
+n code.</div>
+            </div>
+          <!--[if (mso)|(IE)]></td><td style=3D"width: 280px" valign=3D"=
+top"><![endif]-->
+            <div class=3D"webversion" style=3D"display: table-cell;Float:=
+ left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 139px=
+; width: 139px;width: calc(14100% - 78680px);padding: 10px 0 5px 0;text-a=
+lign: right;color: #b9b9b9;font-family: Open Sans,sans-serif;">
+             =20
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+          </div>
+        </div>
+        <div class=3D"header" style=3D"Margin: 0 auto;max-width: 600px;mi=
+n-width: 320px; width: 320px;width: calc(28000% - 167400px);" id=3D"emb-e=
+mail-header-container">
+        <!--[if (mso)|(IE)]><table align=3D"center" class=3D"header" cel=
+lpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td style=3D"w=
+idth: 600px"><![endif]-->
+          <div class=3D"logo emb-logo-margin-box" style=3D"font-size: 26p=
+x;line-height: 32px;Margin-top: 6px;Margin-bottom: 20px;color: #c3ced9;fo=
+nt-family: Roboto,Tahoma,sans-serif;Margin-left: 20px;Margin-right: 20px;=
+" align=3D"center">
+            <div class=3D"logo-center" align=3D"center" id=3D"emb-email-h=
+eader"><img style=3D"display: block;height: auto;width: 100%;border: 0;ma=
+x-width: 250px;" src=3D"http://i1.cmail19.com/ei/r/25/EAF/221/015345/temp=
+_import/csfinal/blesta-logo-color.png" alt=3D"Blesta" width=3D"250"></div=
+>
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+      <div>
+      <div style=3D"background-color: #fafafa;">
+        <div class=3D"layout one-col" style=3D"Margin: 0 auto;max-width: =
+600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overf=
+low-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse=
+;display: table;width: 100%;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"><tr class=3D"layout-full-width" sty=
+le=3D"background-color: #fafafa;"><td class=3D"layout__edges">&nbsp;</td>=
+<td style=3D"width: 600px" class=3D"w560"><![endif]-->
+            <div class=3D"column" style=3D"max-width: 600px;min-width: 32=
+0px; width: 320px;width: calc(28000% - 167400px);text-align: left;color: =
+#757575;font-size: 14px;line-height: 21px;font-family: Open Sans,sans-ser=
+if;">
+           =20
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 24px;Margin-bottom: 24px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 4px;">
+        <h1 class=3D"size-30" style=3D"Margin-top: 0;Margin-bottom: 0;fon=
+t-style: normal;font-weight: normal;color: #1f242f;font-size: 26px;line-h=
+eight: 34px;font-family: Roboto,Tahoma,sans-serif;text-align: center;" la=
+ng=3D"x-size-30">Let's be friends :)</h1>
+      </div>
+    </div>
+           =20
+            </div>
+          <!--[if (mso)|(IE)]></td><td class=3D"layout__edges">&nbsp;</t=
+d></tr></table><![endif]-->
+          </div>
+        </div>
+      </div>
+ =20
+      <div style=3D"line-height:20px;font-size:20px;">&nbsp;</div>
+ =20
+      <div style=3D"background-color: #ffffff;" emb-background-style>
+        <div class=3D"layout one-col" style=3D"Margin: 0 auto;max-width: =
+600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overf=
+low-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse=
+;display: table;width: 100%;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"><tr class=3D"layout-full-width" emb=
+-background-style><td class=3D"layout__edges">&nbsp;</td><td style=3D"wid=
+th: 600px" class=3D"w560"><![endif]-->
+            <div class=3D"column" style=3D"max-width: 600px;min-width: 32=
+0px; width: 320px;width: calc(28000% - 167400px);text-align: left;color: =
+#757575;font-size: 14px;line-height: 21px;font-family: Open Sans,sans-ser=
+if;">
+           =20
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 24px;Margin-bottom: 24px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 4px;">
+        <p style=3D"Margin-top: 0;Margin-bottom: 0;">Hey&nbsp;=
+=
+Kira=
+=
+,</p><p style=3D"Margin-top: 20px;Margin-bottom: 0;">Touching base!&nbsp;=
+Your trial&nbsp;=
+trial-wcbcz8vzzatq5xab=
+=
+ =
+is good until =
+September 2, 2023=
+=
+, and we thought you might appreciate a discount. Stay up and running uni=
+nterrupted.</p><p style=3D"Margin-top: 20px;Margin-bottom: 0;">If there i=
+s anything holding you back from making a purchase, or you need any help =
+or have any questions, we would love to chat.</p>
+      </div>
+    </div>
+           =20
+            </div>
+          <!--[if (mso)|(IE)]></td><td class=3D"layout__edges">&nbsp;</t=
+d></tr></table><![endif]-->
+          </div>
+        </div>
+      </div>
+ =20
+      <div style=3D"line-height:20px;font-size:20px;">&nbsp;</div>
+ =20
+      <div class=3D"layout one-col fixed-width has-border" style=3D"Margi=
+n: 0 auto;max-width: 602px;min-width: 322px; width: 322px;width: calc(280=
+00% - 167398px);overflow-wrap: break-word;word-wrap: break-word;word-brea=
+k: break-word;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;d=
+isplay: table;width: 100%;background-color: #ffffff;border-top: 1px solid=
+ #ccc;border-right: 1px solid #ccc;border-bottom: 1px solid #ccc;border-l=
+eft: 1px solid #ccc;" emb-background-style>
+        <!--[if (mso)|(IE)]><table class=3D"layout-has-border" align=3D"=
+center" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr cla=
+ss=3D"layout-fixed-width" emb-background-style><td class=3D"border" style=
+=3D"width: 1px;">&#8203;</td><td style=3D"width: 600px" class=3D"w560"><!=
+[endif]-->
+          <div class=3D"column" style=3D"text-align: left;color: #757575;=
+font-size: 14px;line-height: 21px;font-family: Open Sans,sans-serif;max-w=
+idth: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px)=
+;">
+         =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top=
+: 24px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 4px;">
+        <p style=3D"Margin-top: 0;Margin-bottom: 20px;text-align: center;=
+">Use the following coupon code for 10% off monthly or owned license opti=
+ons:</p>
+      </div>
+    </div>
+         =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-bot=
+tom: 24px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 4px;">
+        <p class=3D"size-26" style=3D"Margin-top: 0;Margin-bottom: 0;font=
+-size: 22px;line-height: 31px;text-align: center;" lang=3D"x-size-26"><st=
+rong>trialupgrade</strong></p>
+      </div>
+    </div>
+         =20
+          </div>
+        <!--[if (mso)|(IE)]></td><td class=3D"border" style=3D"width: 1p=
+x;">&#8203;</td></tr></table><![endif]-->
+        </div>
+      </div>
+ =20
+      <div style=3D"line-height:20px;font-size:20px;">&nbsp;</div>
+ =20
+      <div style=3D"background-color: #fafafa;">
+        <div class=3D"layout one-col" style=3D"Margin: 0 auto;max-width: =
+600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overf=
+low-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse=
+;display: table;width: 100%;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"><tr class=3D"layout-full-width" sty=
+le=3D"background-color: #fafafa;"><td class=3D"layout__edges">&nbsp;</td>=
+<td style=3D"width: 600px" class=3D"w560"><![endif]-->
+            <div class=3D"column" style=3D"max-width: 600px;min-width: 32=
+0px; width: 320px;width: calc(28000% - 167400px);text-align: left;color: =
+#757575;font-size: 14px;line-height: 21px;font-family: Open Sans,sans-ser=
+if;">
+           =20
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 24px;Margin-bottom: 24px;">
+      <div class=3D"btn btn--flat fullwidth btn--large" style=3D"text-ali=
+gn: center;">
+        <![if !mso]><a style=3D"border-radius: 4px;display: block;font-s=
+ize: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-ali=
+gn: center;text-decoration: none !important;transition: opacity 0.1s ease=
+-in;color: #ffffff !important;background-color: #0675b2;font-family: Open=
+ Sans, sans-serif;" href=3D"https://campaign.phillipsdata.com/t/r-l-ehllj=
+j-nxyuhiutd-hj/">Use the coupon code above and click here to sav=
+e 10%.</a><![endif]>
+      <!--[if mso]><p style=3D"line-height:0;margin:0;">&nbsp;</p><v:rou=
+ndrect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"https://campaign=
+=2Ephillipsdata.com/t/r-l-ehlljj-nxyuhiutd-hj/" style=3D"width:560=
+px" arcsize=3D"9%" fillcolor=3D"#0675B2" stroke=3D"f"><v:textbox style=3D=
+"mso-fit-shape-to-text:t" inset=3D"0px,11px,0px,11px"><center style=3D"fo=
+nt-size:14px;line-height:24px;color:#FFFFFF;font-family:Open Sans,sans-se=
+rif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Use=
+ the coupon code above and click here to save 10%.</center></v:textbox></=
+v:roundrect><![endif]--></div>
+    </div>
+           =20
+            </div>
+          <!--[if (mso)|(IE)]></td><td class=3D"layout__edges">&nbsp;</t=
+d></tr></table><![endif]-->
+          </div>
+        </div>
+      </div>
+ =20
+      <div style=3D"line-height:20px;font-size:20px;">&nbsp;</div>
+ =20
+      <div style=3D"background-color: #ffffff;">
+        <div class=3D"layout one-col" style=3D"Margin: 0 auto;max-width: =
+600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overf=
+low-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse=
+;display: table;width: 100%;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"><tr class=3D"layout-full-width" sty=
+le=3D"background-color: #ffffff;"><td class=3D"layout__edges">&nbsp;</td>=
+<td style=3D"width: 600px" class=3D"w560"><![endif]-->
+            <div class=3D"column" style=3D"max-width: 600px;min-width: 32=
+0px; width: 320px;width: calc(28000% - 167400px);text-align: left;color: =
+#757575;font-size: 14px;line-height: 21px;font-family: Open Sans,sans-ser=
+if;">
+           =20
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 24px;Margin-bottom: 24px;">
+      <div style=3D"mso-line-height-rule: exactly;mso-text-raise: 4px;">
+        <h2 style=3D"Margin-top: 0;Margin-bottom: 0;font-style: normal;fo=
+nt-weight: normal;color: #1f242f;font-size: 17px;line-height: 26px;font-f=
+amily: Roboto,Tahoma,sans-serif;text-align: left;">Common Resources Avail=
+able</h2><ul style=3D"Margin-top: 16px;Margin-bottom: 0;Margin-left: 24px=
+;padding: 0;list-style-type: disc;"><li style=3D"Margin-top: 16px;Margin-=
+bottom: 0;Margin-left: 0;"><a style=3D"text-decoration: underline;transit=
+ion: opacity 0.1s ease-in;color: #0675b2;" href=3D"https://campaign.phill=
+ipsdata.com/t/r-l-ehlljj-nxyuhiutd-ht/">Documentation</a></li><l=
+i style=3D"Margin-top: 0;Margin-bottom: 0;Margin-left: 0;"><a style=3D"te=
+xt-decoration: underline;transition: opacity 0.1s ease-in;color: #0675b2;=
+" href=3D"https://campaign.phillipsdata.com/t/r-l-ehlljj-=
+nxyuhiutd-hi/">Community Forums</a></li><li style=3D"Margin-top: 0;Margin-bottom=
+:=20
+0;Margin-left: 0;"><a style=3D"text-decoration: underline;transition: opa=
+city 0.1s ease-in;color: #0675b2;" href=3D"https://campaign.phillipsdata.=
+com/t/r-l-ehlljj-nxyuhiutd-hd/">Discord Chat</a></li></ul>
+      </div>
+    </div>
+           =20
+            </div>
+          <!--[if (mso)|(IE)]></td><td class=3D"layout__edges">&nbsp;</t=
+d></tr></table><![endif]-->
+          </div>
+        </div>
+      </div>
+ =20
+     =20
+      <div role=3D"contentinfo">
+        <div class=3D"layout email-footer" style=3D"Margin: 0 auto;max-wi=
+dth: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);=
+overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">=
+
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse=
+;display: table;width: 100%;">
+          <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation"><tr class=3D"layout-email-footer"=
+><td style=3D"width: 400px;" valign=3D"top" class=3D"w360"><![endif]-->
+            <div class=3D"column wide" style=3D"text-align: left;font-siz=
+e: 12px;line-height: 19px;color: #b9b9b9;font-family: Open Sans,sans-seri=
+f;Float: left;max-width: 400px;min-width: 320px; width: 320px;width: calc=
+(8000% - 47600px);">
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 10px;Margin-bottom: 10px;">
+                <table class=3D"email-footer__links emb-web-links" style=3D=
+"border-collapse: collapse;table-layout: fixed;" role=3D"presentation"><t=
+body><tr role=3D"navigation">
+                <td class=3D"emb-web-links" style=3D"padding: 0;width: 26=
+px;"><a style=3D"text-decoration: underline;transition: opacity 0.1s ease=
+-in;color: #b9b9b9;" href=3D"https://campaign.phillipsdata.com/t/r-l-ehll=
+jj-nxyuhiutd-hh/"><img style=3D"border: 0;" src=3D"http://i2.cma=
+il19.com/static/eb/master/13-the-blueprint-3/images/facebook.png" width=3D=
+"26" height=3D"26" alt=3D"Facebook"></a></td><td class=3D"emb-web-links" =
+style=3D"padding: 0 0 0 3px;width: 26px;"><a style=3D"text-decoration: un=
+derline;transition: opacity 0.1s ease-in;color: #b9b9b9;" href=3D"https:/=
+/campaign.phillipsdata.com/t/r-l-ehlljj-nxyuhiutd-hk/"><img styl=
+e=3D"border: 0;" src=3D"http://i3.cmail19.com/static/eb/master/13-the-blu=
+eprint-3/images/twitter.png" width=3D"26" height=3D"26" alt=3D"Twitter"><=
+/a></td><td class=3D"emb-web-links" style=3D"padding: 0 0 0 3px;width:=20=
+
+26px;"><a style=3D"text-decoration: underline;transition: opacity 0.1s ea=
+se-in;color: #b9b9b9;" href=3D"https://campaign.phillipsdata.com/t/r-l-eh=
+lljj-nxyuhiutd-hu/"><img style=3D"border: 0;" src=3D"http://i5.c=
+mail19.com/static/eb/master/13-the-blueprint-3/images/instagram.png" widt=
+h=3D"26" height=3D"26" alt=3D"Instagram"></a></td><td class=3D"emb-web-li=
+nks" style=3D"padding: 0 0 0 3px;width: 26px;"><a style=3D"text-decoratio=
+n: underline;transition: opacity 0.1s ease-in;color: #b9b9b9;" href=3D"ht=
+tps://campaign.phillipsdata.com/t/r-l-ehlljj-nxyuhiutd-kl/"><img=
+ style=3D"border: 0;" src=3D"http://i7.cmail19.com/static/eb/master/13-th=
+e-blueprint-3/images/website.png" width=3D"26" height=3D"26" alt=3D"Websi=
+te"></a></td>
+                </tr></tbody></table>
+                <div style=3D"font-size: 12px;line-height: 19px;Margin-to=
+p: 20px;">
+                  <div>Blesta is a product of Phillips Data, Inc.&nbsp;&#=
+169; 2019</div>
+                </div>
+                <div style=3D"font-size: 12px;line-height: 19px;Margin-to=
+p: 18px;">
+                  <div>You received this email because you installed a fr=
+ee trial of Blesta.</div>
+                </div>
+                <!--[if mso]>&nbsp;<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td><td style=3D"width: 200px;" valign=3D=
+"top" class=3D"w160"><![endif]-->
+            <div class=3D"column narrow" style=3D"text-align: left;font-s=
+ize: 12px;line-height: 19px;color: #b9b9b9;font-family: Open Sans,sans-se=
+rif;Float: left;max-width: 320px;min-width: 200px; width: 320px;width: ca=
+lc(72200px - 12000%);">
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 10px;Margin-bottom: 10px;">
+                <div class=3D"footer__share-button">
+                  <div style=3D"Margin-bottom: 6px;mso-line-height-rule: =
+exactly;">
+                    <a style=3D"text-decoration: none;transition: opacity=
+ 0.1s ease-in;color: #ffffff;border-radius: 2px;display: inline-block;fon=
+t-size: 11px;font-weight: bold;line-height: 19px;text-align: left;border-=
+style: solid;border-width: 4px 7px 3px 4px;mso-border-width-alt: 4px 8px =
+8px 8px;background-color: gray;border-color: gray;mso-border-color-alt: g=
+ray;" href=3D"https://campaign.phillipsdata.com/t/r-fb-ehlljj-=
+nxyuhiutd-kr/" likeurl=3D"https://www.blesta.com/" rel=3D"cs_facebox">
+                      &nbsp;<img style=3D"border: 0;display: inline-block=
+;margin-right: 2px;vertical-align: -3px;" src=3D"http://i9.cmail19.com/st=
+atic/eb/master/13-the-blueprint-3/images/fblike-icon@2x.png" width=3D"16"=
+ height=3D"16" border=3D"0" alt=3D"">
+                      <span style=3D"font-size: 11px;mso-text-raise: 3px;=
+">Like&nbsp;</span>
+                    </a>
+                  </div>
+                  <div style=3D"Margin-bottom: 6px;mso-line-height-rule: =
+exactly;">
+                    <a style=3D"text-decoration: none;transition: opacity=
+ 0.1s ease-in;color: #ffffff;border-radius: 2px;display: inline-block;fon=
+t-size: 11px;font-weight: bold;line-height: 19px;text-align: left;border-=
+style: solid;border-width: 4px 7px 3px 4px;mso-border-width-alt: 4px 8px =
+8px 8px;background-color: gray;border-color: gray;mso-border-color-alt: g=
+ray;" href=3D"https://campaign.phillipsdata.com/t/r-tw-ehlljj-=
+nxyuhiutd-ky/">
+                      &nbsp;<img style=3D"border: 0;display: inline-block=
+;margin-right: 2px;vertical-align: -3px;" src=3D"http://i10.cmail19.com/s=
+tatic/eb/master/13-the-blueprint-3/images/tweet-icon@2x.png" width=3D"16"=
+ height=3D"16" border=3D"0" alt=3D"">
+                      <span style=3D"font-size: 11px;mso-text-raise: 3px;=
+">Tweet&nbsp;</span>
+                    </a>
+                  </div>
+                  <div style=3D"Margin-bottom: 6px;mso-line-height-rule: =
+exactly;">
+                    <a style=3D"text-decoration: none;transition: opacity=
+ 0.1s ease-in;color: #ffffff;border-radius: 2px;display: inline-block;fon=
+t-size: 11px;font-weight: bold;line-height: 19px;text-align: left;border-=
+style: solid;border-width: 4px 7px 3px 4px;mso-border-width-alt: 4px 8px =
+8px 8px;background-color: gray;border-color: gray;mso-border-color-alt: g=
+ray;" href=3D"https://campaign.phillipsdata.com/t/r-li-ehlljj-=
+nxyuhiutd-kj/">
+                      &nbsp;<img style=3D"border: 0;display: inline-block=
+;margin-right: 2px;vertical-align: -3px;" src=3D"http://i1.cmail19.com/st=
+atic/eb/master/13-the-blueprint-3/images/lishare-icon@2x.png" width=3D"16=
+" height=3D"16" border=3D"0" alt=3D"">
+                      <span style=3D"font-size: 11px;mso-text-raise: 3px;=
+">Share&nbsp;</span>
+                    </a>
+                  </div>
+                 =20
+                </div>
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+          </div>
+        </div>
+        <div class=3D"layout one-col email-footer" style=3D"Margin: 0 aut=
+o;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 16=
+7400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break=
+-word;">
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse=
+;display: table;width: 100%;">
+          <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation"><tr class=3D"layout-email-footer"=
+><td style=3D"width: 600px;" class=3D"w560"><![endif]-->
+            <div class=3D"column" style=3D"text-align: left;font-size: 12=
+px;line-height: 19px;color: #b9b9b9;font-family: Open Sans,sans-serif;max=
+-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400p=
+x);">
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 10px;Margin-bottom: 10px;">
+                <div style=3D"font-size: 12px;line-height: 19px;">
+                  <span><a style=3D"text-decoration: underline;transition=
+: opacity 0.1s ease-in;color: #b9b9b9;" href=3D"https://phillipsdatainc.u=
+pdatemyprofile.com/r-ehlljj-23BA918B-nxyuhiutd-kt" la=
+ng=3D"en">Preferences</a>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a style=3D"text=
+-decoration: underline;transition: opacity 0.1s ease-in;color: #b9b9b9;" =
+href=3D"https://campaign.phillipsdata.com/t/r-u-ehlljj-nxyuhiutd=
+-ki/">Unsubscribe</a>
+                </div>
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+          </div>
+        </div>
+      </div>
+      <div style=3D"line-height:40px;font-size:40px;">&nbsp;</div>
+    </div></td></tr></tbody></table>
+  <img style=3D"overflow: hidden;position: fixed;visibility: hidden !impo=
+rtant;display: block !important;height: 1px !important;width: 1px !import=
+ant;border: 0 !important;margin: 0 !important;padding: 0 !important;" src=
+=3D"https://phillipsdatainc.cmail19.com/t/r-o-ehlljj-nxyuhiutd/o=
+=2Egif" width=3D"1" height=3D"1" border=3D"0" alt=3D"">
+</body></html>=
+
+
+
+
+--_993f245a-ae43-4393-a9b4-95f8aadd7616_--

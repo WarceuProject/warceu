@@ -1,0 +1,863 @@
+Return-Path: <bounces_1fb43bd_41fff5b6625e700+895a2775afb3f800@clientexec-dful0s.on.crisp.email>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id ZhI9IC9ezGRlpgAAz1WdsA
+	(envelope-from <bounces_1fb43bd_41fff5b6625e700+895a2775afb3f800@clientexec-dful0s.on.crisp.email>)
+	for <center@warceuproject.dev>; Thu, 03 Aug 2023 19:10:55 -0700
+Return-path: <bounces_1fb43bd_41fff5b6625e700+895a2775afb3f800@clientexec-dful0s.on.crisp.email>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Thu, 03 Aug 2023 19:10:55 -0700
+Received: from mailer-1g.outbound.crisp.email ([93.177.84.57]:49385)
+	by server.gruponani.net with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bounces_1fb43bd_41fff5b6625e700+895a2775afb3f800@clientexec-dful0s.on.crisp.email>)
+	id 1qRkHG-000B4b-0s
+	for center@warceuproject.dev;
+	Thu, 03 Aug 2023 19:10:55 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+	d=clientexec-dful0s.on.crisp.email; s=crisp; t=1691115009;
+	bh=+hndVfZRe7ikut2s3ZUbKGcIbTdFFDJNbJh7HAGY/Qg=;
+	h=From:To:Reply-To:Subject:Date:From;
+	b=T6LPVDijE12XMtFnoXpAdDX8DVJ4qHx/Nrt07keRWNUZQOttNRjqy0sc7oa5uJyYO
+	 VHURcpRFilhf4IlIkPXu/LBoaOw3ArEMEADt/pylnATS05piMFTazv7A1Wzo1AcARK
+	 IDDyiXIPwvsQ020oK0wEbQ6fwfBgfmhee/WsMlmSDCSb1M3e4PHLNStsBk4/7ddYWX
+	 EYtCKnCSQTnXwXdePUvnKxdfMWiODnL29Z8Lk6zLulCe32o89lCoUbOv3ergSlbp44
+	 KSAu+ofHVxDeprMHtim+JlOdPcrSW/a9eUBzCO6oGxtWs9KzjFosv20tuR8zgDVgL2
+	 +YrhmRYObhwOQ==
+Content-Type: multipart/alternative;
+ boundary="--_NmP-f99353f6a1650315-Part_1"
+X-Universally-Unique-Identifier: e9ad4b87-912a-4bc9-8c5c-9e8019c3cadd
+MIME-Version: 1.0 (Crisp Mailer)
+X-Auto-Response-Suppress: All
+X-Crisp-Shard-Type: notifications
+X-Crisp-Website-ID: 00db6bb6-ac1c-439e-a17c-159d5afce01d
+Feedback-ID:
+ session_653751cd-a5a3-44d2-a6b5-9a2d114be45b:00db6bb6-ac1c-439e-a17c-159d5afce01d:message_transcript:CrispIM
+From: "Clientexec Inc." <transcripts@clientexec-dful0s.on.crisp.email>
+To: center@warceuproject.dev
+Reply-To: "Clientexec Inc."
+ <s.1f56ffbc5453db00.i@clientexec-dful0s.on.crisp.email>
+Subject: Chat transcript (#93e)
+Message-ID:
+ <7e666024-9e67-025f-648f-f11123def13c@clientexec-dful0s.on.crisp.email>
+Date: Fri, 04 Aug 2023 02:10:09 +0000
+X-Spam-Status: No, score=1.9
+X-Spam-Score: 19
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  This is your chat history with Clientexec Inc. - keep it for
+    your archives. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+    ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ [...] 
+ Content analysis details:   (1.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: clientexec.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+X-Spam-Flag: NO
+
+----_NmP-f99353f6a1650315-Part_1
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+This is your chat history with Clientexec Inc. - keep it for your archives.=
+ =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+
+[https://clientexec-dful=
+0s.on.crisp.email/image/avatar/website/00db6bb6-ac1c-439e-a17c-159d5afce01d=
+/88/?default]
+Clientexec Inc.Chat transcriptThanks for chatting with us!=
+This is your chat
+history with Clientexec Inc. - keep it for your archives.=
+How did we do?1/5
+[https://clientexec-dful0s.on.crisp.=
+email/mail/images/content/message_transcript/star.png]
+[https://clientexec-dful0s.on.crisp.email/go/en/website/rating/?=
+website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&session_id=3Dsession_6537=
+51cd-a5a3-44d2-a6b5-9a2d114be45b&choice=3D1]
+2/5 [https://clientexec-dful0s=
+.on.crisp.email/mail/images/content/message_transcript/star.png]
+[https://clientexec-dful0s.on.crisp.email/go/en/website/rating/?=
+website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&session_id=3Dsession_6537=
+51cd-a5a3-44d2-a6b5-9a2d114be45b&choice=3D2]
+3/5 [https://clientexec-dful0s=
+.on.crisp.email/mail/images/content/message_transcript/star.png]
+[https://clientexec-dful0s.on.crisp.email/go/en/website/rating/?=
+website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&session_id=3Dsession_6537=
+51cd-a5a3-44d2-a6b5-9a2d114be45b&choice=3D3]
+4/5 [https://clientexec-dful0s=
+.on.crisp.email/mail/images/content/message_transcript/star.png]
+[https://clientexec-dful0s.on.crisp.email/go/en/website/rating/?=
+website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&session_id=3Dsession_6537=
+51cd-a5a3-44d2-a6b5-9a2d114be45b&choice=3D4]
+5/5 [https://clientexec-dful0s=
+.on.crisp.email/mail/images/content/message_transcript/star.png]
+[https://clientexec-dful0s.on.crisp.email/go/en/website/rating/?=
+website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&session_id=3Dsession_6537=
+51cd-a5a3-44d2-a6b5-9a2d114be45b&choice=3D5]
+TerriblePoorlyOkayGoodGreattes=
+tesHello,
+
+Did you need any assistance?Paul sent thisYour conversation is =
+still available
+online.view conversation
+[https://clientexec-dful0s.on.=
+crisp.email/go/chat/resume/?target_url=3Dhttp%3A%2F%2Fclientexec.=
+com%2F&session_id=3Dsession_653751cd-a5a3-44d2-a6b5-9a2d114be45b]
+You received this email because we automatically send transcripts of chats =
+you
+(may have) finished. * =C2=A9 2023 Clientexec Inc., all rights reserved=
+.
+
+ * Visit Clientexec Inc. website [http://clientexec.com/]
+ * Unsubscribe from emails
+   [https://clientexec-dful0s.on.crisp.=
+email/go/email/unsubscribe/?email_hash=3D1fb43bd&key=3Dbf112026&website_id=
+=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&website_domain=3Dclientexec.=
+com]
+----_NmP-f99353f6a1650315-Part_1
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html =
+xmlns=3D"http://www.w3.org/1999/xhtml" lang=3D"en" dir=3D"ltr"><head>
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3DUTF-8"/><meta name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1"/><style type=3D"text/css">.c-1ycevy8,.c-sw7mom,=
+a{text-decoration:underline}a img,img,table,td,tr{border:0}.c-1m5huxf,.=
+c-1s5sbro,td{vertical-align:middle}.c-bd4pbp,body,ul{padding:0}.c-11rjz69,.=
+c-1dhsbqv,.c-1vlip5o,.c-1x3l0cz,.c-ohl6s9{text-align:center}.c-1vb00az,.=
+c-93awx{font-style:italic}body{margin:0;font-family:HelveticaNeueLight,=
+HelveticaNeue-Light,"Helvetica Neue Light",HelveticaNeue,"Helvetica Neue",=
+Helvetica,Arial,"Lucida Grande",sans-serif;font-weight:300;font-stretch:nor=
+mal;font-size:14px;letter-spacing:.35px}img{height:auto;line-height:100%;ou=
+tline:0;text-decoration:none}a{color:#000}table,td,tr{border-collapse:separ=
+ate}ul{list-style:none}.c-fwlick{font-family:HelveticaNeueThin,=
+HelveticaNeue-Thin,"Helvetica Neue Thin",HelveticaNeue,"Helvetica Neue",=
+Helvetica,Arial,"Lucida Grande",sans-serif;font-weight:200}.=
+c-zjwfhk{font-family:HelveticaNeueLight,HelveticaNeue-Light,"Helvetica Neue=
+ Light",HelveticaNeue,"Helvetica Neue",Helvetica,Arial,"Lucida Grande",=
+sans-serif;font-weight:300}.c-4w6eli{font-family:HelveticaNeue,"Helvetica =
+Neue",HelveticaNeueRoman,HelveticaNeue-Roman,"Helvetica Neue Roman",=
+HelveticaNeue-Regular,"Helvetica Neue Regular",Helvetica,Arial,"Lucida =
+Grande",sans-serif;font-weight:400}.c-16v5f34{font-family:HelveticaNeueMedi=
+um,HelveticaNeue-Medium,"Helvetica Neue Medium",HelveticaNeue,"Helvetica =
+Neue",sans-serif;font-weight:500}.c-1kaua1o{font-family:HelveticaNeueBold,=
+HelveticaNeue-Bold,"Helvetica Neue Bold",HelveticaNeue,"Helvetica Neue",=
+Helvetica,Arial,"Lucida Grande",sans-serif;font-weight:600}.c-1eb43lc,.=
+c-1sypu9p,.c-1v4o8f0,.c-bd4pbp,.c-u8lz2y{border-radius:2px;text-decoration:=
+none}.c-1eb43lc{font-size:13.64px;line-height:120%;display:inline-block;let=
+ter-spacing:.6px}.c-1lrbk8a,.c-r6aeiq,.c-rko8lt,.c-tmmz58{font-size:12.=
+73px}.c-bd4pbp{mso-padding-alt:12px 24px}.c-1sypu9p{padding:12px =
+24px;mso-padding-alt:0}.c-1sypu9p,.c-bd4pbp{background-color:#1972F5;displa=
+y:inline-table;text-decoration:none}.c-ckk37p{color:#fff}.=
+c-rko8lt{padding:0;mso-padding-alt:10px 18px 13px}.c-1lrbk8a{padding:10px =
+18px 13px;mso-padding-alt:0}.c-1h6ae2o,.c-1v4o8f0{background:0 =
+0;text-transform:lowercase}.c-1v4o8f0,.c-u8lz2y{line-height:12px;display:in=
+line-table}.c-u8lz2y{padding:0;mso-padding-alt:8px 14px}.=
+c-1v4o8f0{padding:8px 14px;mso-padding-alt:0}.c-1h6ae2o{font-size:10.=
+91px;line-height:10px;padding:3px 8px;mso-padding-alt:3px =
+8px;display:inline-table}.c-1vlip5o{font-size:13.64px;color:#979797;padding=
+:9px 0}.c-197pl91,.c-5qsfm7{display:block}.c-197pl91{line-height:.5em}.=
+c-5qsfm7{content:"";padding:.25em 0}body{background:#EFF3F6;color:#333}.=
+c-v84rpm{width:720px}.c-1syf3pb{height:114px}.c-1f4vbls{height:52px}.=
+c-hcwt1r{font-size:1px;line-height:1px;max-height:0;max-width:0;opacity:0;o=
+verflow:hidden;display:none}.c-1gii6kw,.c-9ete4l td,.c-9ete4l th,.=
+c-f26lmg{word-wrap:break-word;overflow-wrap:break-word}.c-1cd6n8l,.=
+c-975u3m{display:inline-block}.c-7bgiy1{box-shadow:0 3px 5px rgba(0,0,0,.=
+04)}.c-11rjz69,.c-ohl6s9,.c-rchyuu,.c-uvt8qr{border-color:#E3E3E3;border-st=
+yle:solid;width:100%}.c-11rjz69,.c-rchyuu,.c-uvt8qr{border-width:1px 1px 0}=
+.c-1x3l0cz,.c-rchyuu{padding:40px 54px 42px}.c-rchyuu{background:#FBFCFC}.=
+c-1x3l0cz{background:#0080FF}.c-uvt8qr{background:#FFF;padding:32px 54px =
+40px}.c-kjgl4z{color:#7F8FA4;font-size:20px;line-height:22px}.=
+c-1jd8yx{color:#000}.c-1izzcs5{font-size:13.64px;line-height:18px;padding:1=
+4px 0}.c-ohl6s9,.c-tl3c7x{font-size:11.82px}.c-1gcznrt{line-height:22px}.=
+c-188skwt{padding-top:16px}.c-11rjz69{background:#FBFCFC;padding:20px 40px =
+24px}.c-qcwuag{padding-bottom:16px}.c-ohl6s9{background:#FFF;border-width:1=
+px;padding:18px 40px 20px}.c-1663k9i{padding-top:60px}.=
+c-y3y5wk{width:719px;height:2px}.c-172hpk9{padding-top:15px;padding-bottom:=
+22px}.c-1td7ar{text-decoration:none}.c-r0h1s{color:#b3b6b8;font-size:12.=
+5px;text-transform:lowercase}.c-1fkvauz,.c-1h90ygg,.c-420km{font-size:18.=
+18px}.c-1os4zjm{padding-left:6px}.c-1mj8peq{padding-right:6px;padding-left:=
+0}.c-1280od{width:50px;height:16px;margin-bottom:-3px}.=
+c-222irh{padding:18px 0 20px}.c-1cd6n8l{width:48px;height:48px;border-radiu=
+s:3px}.c-pfh1z2{background-color:#EBEBEB;width:44px;height:44px;margin-top:=
+2px;margin-left:2px}.c-1mdor17{margin-right:2px;margin-left:0}.=
+c-1fkvauz{padding-left:20px}.c-10mdqey{padding-right:20px;padding-left:0}.=
+c-1uo1upu{line-height:23px}.c-1dg86tp{color:#979797;line-height:27px}.=
+c-1rnzgt5,.c-35l7ng{color:#7F8FA4}.c-gw9ys8{padding:28px 38px 30px}.=
+c-1rnzgt5,.c-9ofmv5{font-size:10.91px}.c-1rnzgt5{text-align:left}.c-15evwj7=
+,.c-9ofmv5{text-align:right}.c-dsc5no{text-align:left}.=
+c-975u3m{border-left:1px solid #EAEAEA;list-style-type:none;margin-left:9px=
+;padding-left:12px}.c-wqb12k{margin-right:9px;margin-left:0;padding-right:1=
+2px;padding-left:0}.c-12i0t46{border-left:0 none}.c-1lkzbgb+.c-197pl91,.=
+c-1v8hlyd+.c-197pl91,.c-dnp5i4+.c-197pl91{display:none}.=
+c-1v8hlyd{border-color:#ddd;border-width:0 0 0 2px;border-style:solid;margi=
+n:6px 4px;padding:1px 0 2px 8px;display:block}.c-1nolbs5{border-width:0 2px=
+ 0 0;padding-right:8px;padding-left:0}.c-9ete4l{border-collapse:collapse;ma=
+rgin:4px 0}.c-9ete4l thead{background-color:#fafbfc;letter-spacing:.1px}.=
+c-9ete4l td,.c-9ete4l th{border:1px solid #ddd;text-align:left;padding:6px =
+8px;hyphens:auto}.c-12uoidn,.c-18mv76y,.c-1ggd0jr,.c-1izzcs5,.c-1k233hr,.=
+c-1vz8jve,.c-2lh6oo,.c-jko317,.c-kjgl4z,.c-sh49r0{text-align:center}.=
+c-5j7azc{margin:0 1px;padding:3px 6px;border-radius:2px}.=
+c-6osxg7{display:inline}.c-dnp5i4{white-space:pre-wrap;display:block}.=
+c-1lkzbgb,.c-bqhlsz{display:inline-block}.c-bqhlsz{margin:.1em 0}.=
+c-yzxbv1{font-size:32.73px;line-height:32px}.c-1gcmhbv{font-size:29.=
+09px;line-height:28px}.c-1vu4gjx{font-size:25.45px;line-height:24px}.=
+c-1apez0d{font-size:21.82px;line-height:24px}.c-420km{line-height:20px}.=
+c-3kh65b{font-size:14.55px;line-height:16px}.c-1fchjtq{text-decoration:line=
+-through}.c-1v1nb0g,.c-1x3vbuy:hover .c-u5csru{text-decoration:underline}.=
+c-h3moj3{background-color:#FFF578;padding:2px 3px}.c-1lkzbgb{background:#dd=
+d;border:0;height:1px;width:100%;min-width:8px;margin:10px 0}.c-12uoidn,.=
+c-1k233hr,.c-1tp6llq .c-1gii6kw .c-9ete4l thead{background-color:rgba(255,=
+255,255,.15)}.c-12uoidn,.c-1k233hr,.c-jko317{min-width:140px;min-height:100=
+px;max-width:480px}.c-14uhxnq,.c-rdr4r{max-width:320px}.c-12uoidn,.=
+c-1k233hr,.c-1m5huxf,.c-1s5sbro{display:block;border-radius:4px;line-height=
+:100px}.c-1m5huxf,.c-1s5sbro{border:0;max-width:100%;margin:0 =
+auto;display:inline-block}.c-1k233hr{text-decoration:none}.=
+c-jko317{position:relative;display:block}.c-1i5qgp7{background-size:contain=
+;background-repeat:no-repeat;background-position:center;width:54px;height:5=
+4px;margin-top:-27px;margin-left:-27px;position:absolute;left:50%;top:50%;z=
+-index:1}.c-1buw0k4{margin:0 1px;display:block}.c-1buw0k4+.=
+c-197pl91{line-height:.1em}.c-1buw0k4+.c-197pl91 .c-5qsfm7{padding:.05em 0}=
+.c-19pyi45{margin-left:2px;margin-right:2px}.c-1pxry3q{vertical-align:text-=
+top;width:16px;height:16px;display:inline}.c-70jbay{width:40px;height:40px;=
+margin-bottom:-3px;display:block}.c-uvt8qr{padding-left:40px;padding-right:=
+40px}.c-1lot5yy,.c-u2ai7x{padding:14px 10px 16px}.c-r6aeiq,.=
+c-tmmz58{background:#FBFCFC;border:1px solid #DCD4D4;color:#333;line-height=
+:27px;padding:12px 20px;border-radius:1px}.c-1ggd0jr{font-size:15.=
+45px;line-height:17px;width:30%}.c-18mv76y{margin-top:16px;display:block}.=
+c-12h5h3g,.c-1gii6kw,.c-u2dvqa{display:inline-block}.c-1qwp8x6{padding:0 =
+12px}.c-u2dvqa{border:0}.c-2yjwh2{width:36px;height:34px}.=
+c-1vz8jve{color:#7F8FA4;font-size:12.73px;line-height:27px;padding-top:3px}=
+.c-5sgkw1{margin-left:auto;margin-right:auto}.c-1pgz11c{width:47.=
+5%;line-height:15px;padding:4px 0}.c-mo9j20{padding-right:12px}.=
+c-1iyyhz5{padding-left:12px;padding-right:0}.c-jfg5x9{color:#000;font-size:=
+14.55px}.c-h8n4e7{color:#7F8FA4;font-size:13.64px}.c-1tp6llq .c-1gii6kw .=
+c-sw7mom,.c-1tp6llq .c-1ycevy8{color:#fff}.c-f26lmg{-ms-word-break:break-al=
+l;word-break:break-all}.c-v5wec3{padding:10px 10px 16px}.=
+c-1qvvjjh{text-align:right}.c-1tp6llq{text-align:left}.c-1tp6llq .c-1gii6kw=
+ .c-1v8hlyd,.c-1tp6llq .c-1gii6kw .c-9ete4l td,.c-1tp6llq .c-1gii6kw .=
+c-9ete4l th{border-color:rgba(255,255,255,.25)}.c-1tp6llq .c-1gii6kw .=
+c-1lkzbgb,.c-1tp6llq .c-1gii6kw .c-5j7azc{background-color:rgba(255,255,255=
+,.25)}.c-1h90ygg,.c-1tp6llq .c-1gii6kw .c-h3moj3{color:#000}.=
+c-4cpist{color:#7F8FA4;font-size:10.91px;padding-top:4px;padding-left:16px}=
+.c-1tdhpc{padding-right:16px;padding-left:0}.c-1uzwm24{background:0 =
+0;padding:0}.c-1mesqah{padding-top:10px}.c-1098dhx{display:inline-table}.=
+c-1gii6kw{font-size:13.64px;-ms-word-break:break-all;word-break:break-all;t=
+ext-align:initial;padding:8px 16px 11px;border-radius:16px}.c-1gii6kw .=
+c-1v8hlyd,.c-1gii6kw .c-9ete4l td,.c-1gii6kw .c-9ete4l =
+th{border-color:rgba(0,0,0,.15)}.c-1gii6kw .c-9ete4l{width:100%;margin-left=
+:auto;margin-right:auto}.c-1gii6kw .c-9ete4l thead{background-color:rgba(0,=
+0,0,.02)}.c-1gii6kw .c-5j7azc{background-color:#fff}.c-1gii6kw .=
+c-1lkzbgb{background-color:rgba(0,0,0,.15)}.c-12h5h3g{text-align:center}.=
+c-1vb00az{font-size:12.73px;display:block}.c-1x3vbuy{line-height:28px;margi=
+n-top:8px;padding:0 16px 1px;display:inline-block;border-radius:50px}.=
+c-10l0jmq,.c-e8cypt,.c-loeoxe,.c-txa9r6{display:block}.c-e8cypt,.=
+c-txa9r6{background-color:#EBEBEB;object-fit:cover;object-position:center;h=
+eight:100px;border-radius:14px}.c-1x3vbuy,.c-qqk5is,.=
+c-u5csru{text-decoration:none}.c-u5csru{font-size:11.82px}.=
+c-loeoxe{margin-top:9px}.c-e8cypt{width:100%;min-width:180px;max-width:600p=
+x}.c-txa9r6{width:180px}.c-f7j72u{padding:32px 30px 6px}.=
+c-1ok6tr8{text-align:right}.c-19rdxs3,.c-hke9ld{text-align:left}.c-1u7w33t,=
+.c-ot1565{height:64px;width:64px}.c-19rdxs3{padding-left:16px}.=
+c-1qfjt9i{text-align:right;padding-right:16px;padding-left:0}.=
+c-1h90ygg{line-height:25px}.c-ymqccw{line-height:29px}.=
+c-qqk5is{color:#7F8FA4;font-size:16.36px}@media screen and =
+(max-width:720px){.c-v84rpm,.c-y3y5wk{width:100%!important}.=
+c-v84rpm{max-width:720px!important}.c-11rjz69,.c-rchyuu,.=
+c-uvt8qr{border-width:1px 0 0!important;padding-left:20px!=
+important;padding-right:20px!important}.c-ohl6s9{border-width:1px 0!=
+important}.c-gw9ys8{padding-bottom:10px!important}.c-975u3m{border-left:0 =
+none!important;padding-left:0!important}.c-wqb12k{padding-right:0!=
+important}.c-uvt8qr{padding-left:8px!important;padding-right:8px!important}=
+.c-r6aeiq,.c-tmmz58{padding-left:8px;padding-right:8px}.c-1qwp8x6{padding:0=
+ 10px}.c-2yjwh2{width:28px;height:27px}.c-5sgkw1{width:95%}.=
+c-1q7d853{width:100%;padding:6px 0;display:block}}</style><title>Chat =
+transcript (#93e)</title></head><body><p class=3D"c-hcwt1r">This is your =
+chat history with Clientexec Inc. - keep it for your archives. =
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0</p><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" align=3D"center" dir=3D"ltr" =
+class=3D"c-v84rpm"><tr class=3D"c-1syf3pb"><td><table align=3D"center" =
+role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+dir=3D"ltr" class=3D"c-f1bud4"><tr align=3D"center" =
+class=3D"c-222irh"><td><table role=3D"presentation" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" dir=3D"ltr"><tr><td =
+class=3D"c-1cd6n8l"><img alt=3D"" src=3D"https://clientexec-dful0s.on.crisp=
+.email/image/avatar/website/00db6bb6-ac1c-439e-a17c-159d5afce01d/88/?=
+default" class=3D"c-pfh1z2"/></td><td class=3D"c-1fkvauz"><table =
+role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" dir=3D"ltr"><tr class=3D"c-1uo1upu c-4w6eli"><td>Clientexec =
+Inc.</td></tr><tr class=3D"c-1dg86tp c-zjwfhk"><td>Chat =
+transcript</td></tr></table></td></tr></table></td></tr></table></td></tr><=
+tr class=3D"c-7bgiy1"><td><table align=3D"center" role=3D"presentation" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" dir=3D"ltr" =
+class=3D"c-f1bud4"><tr class=3D"c-1c9o9ex"><td><table role=3D"presentation"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+dir=3D"ltr" class=3D"c-uvt8qr"><tr><td class=3D"c-kjgl4z c-zjwfhk">Thanks =
+for chatting with us!</td></tr><tr><td class=3D"c-1izzcs5 c-zjwfhk">This is=
+ your chat history with Clientexec Inc. - keep it for your archives.=
+</td></tr><tr><td class=3D"c-u2ai7x"><table role=3D"presentation" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" dir=3D"ltr"=
+ class=3D"c-r6aeiq"><tr><td class=3D"c-1ggd0jr c-1kaua1o">How did we do?=
+</td></tr><tr><td class=3D"c-18mv76y"><table role=3D"presentation" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+dir=3D"ltr"><tr><td class=3D"c-1qwp8x6"><a href=3D"https://clientexec-dful0=
+s.on.crisp.email/go/en/website/rating/?website_id=3D00db6bb6-ac1c-439e-a17c=
+-159d5afce01d&amp;session_id=3Dsession_653751cd-a5a3-44d2-a6b5-9a2d114be45b=
+&amp;choice=3D1" target=3D"_blank" class=3D"c-u2dvqa"><img alt=3D"1/5" =
+width=3D"36" height=3D"34" src=3D"https://clientexec-dful0s.on.crisp.=
+email/mail/images/content/message_transcript/star.png" =
+class=3D"c-2yjwh2"/></a></td><td class=3D"c-1qwp8x6"><a =
+href=3D"https://clientexec-dful0s.on.crisp.email/go/en/website/rating/?=
+website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&amp;session_id=3Dsession_=
+653751cd-a5a3-44d2-a6b5-9a2d114be45b&amp;choice=3D2" target=3D"_blank" =
+class=3D"c-u2dvqa"><img alt=3D"2/5" width=3D"36" height=3D"34" =
+src=3D"https://clientexec-dful0s.on.crisp.email/mail/images/content/message=
+_transcript/star.png" class=3D"c-2yjwh2"/></a></td><td =
+class=3D"c-1qwp8x6"><a href=3D"https://clientexec-dful0s.on.crisp.=
+email/go/en/website/rating/?website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce0=
+1d&amp;session_id=3Dsession_653751cd-a5a3-44d2-a6b5-9a2d114be45b&amp;choice=
+=3D3" target=3D"_blank" class=3D"c-u2dvqa"><img alt=3D"3/5" width=3D"36" =
+height=3D"34" src=3D"https://clientexec-dful0s.on.crisp.=
+email/mail/images/content/message_transcript/star.png" =
+class=3D"c-2yjwh2"/></a></td><td class=3D"c-1qwp8x6"><a =
+href=3D"https://clientexec-dful0s.on.crisp.email/go/en/website/rating/?=
+website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&amp;session_id=3Dsession_=
+653751cd-a5a3-44d2-a6b5-9a2d114be45b&amp;choice=3D4" target=3D"_blank" =
+class=3D"c-u2dvqa"><img alt=3D"4/5" width=3D"36" height=3D"34" =
+src=3D"https://clientexec-dful0s.on.crisp.email/mail/images/content/message=
+_transcript/star.png" class=3D"c-2yjwh2"/></a></td><td =
+class=3D"c-1qwp8x6"><a href=3D"https://clientexec-dful0s.on.crisp.=
+email/go/en/website/rating/?website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce0=
+1d&amp;session_id=3Dsession_653751cd-a5a3-44d2-a6b5-9a2d114be45b&amp;choice=
+=3D5" target=3D"_blank" class=3D"c-u2dvqa"><img alt=3D"5/5" width=3D"36" =
+height=3D"34" src=3D"https://clientexec-dful0s.on.crisp.=
+email/mail/images/content/message_transcript/star.png" =
+class=3D"c-2yjwh2"/></a></td></tr><tr><td class=3D"c-1vz8jve =
+c-4w6eli">Terrible</td><td class=3D"c-1vz8jve c-4w6eli">Poorly</td><td =
+class=3D"c-1vz8jve c-4w6eli">Okay</td><td class=3D"c-1vz8jve =
+c-4w6eli">Good</td><td class=3D"c-1vz8jve c-4w6eli">Great</td></tr></table>=
+</td></tr></table></td></tr><tr><td><table role=3D"presentation" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" dir=3D"ltr"=
+ class=3D"c-v5wec3"><tr><td><table style=3D"text-align: right" =
+role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" dir=3D"ltr" class=3D"c-1axfuj5 c-13siqri"><tr =
+style=3D"text-align: right" dir=3D"auto" class=3D"c-1qvvjjh"><td =
+class=3D"c-1mesqah"><table role=3D"presentation" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" dir=3D"auto" class=3D"c-1098dhx"><tr><t=
+d style=3D"background: #F1F1F1; color: #191919" class=3D"c-1gii6kw =
+c-m18ivb">tes</td></tr></table></td></tr></table><table =
+style=3D"text-align: right" role=3D"presentation" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" dir=3D"ltr" =
+class=3D"c-1axfuj5 c-13siqri"><tr style=3D"text-align: right" dir=3D"auto" =
+class=3D"c-1qvvjjh"><td class=3D"c-1mesqah"><table role=3D"presentation" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" dir=3D"auto" =
+class=3D"c-1098dhx"><tr><td style=3D"background: #F1F1F1; color: #191919" =
+class=3D"c-1gii6kw c-m18ivb">tes</td></tr></table></td></tr></table><table =
+style=3D"text-align: left" role=3D"presentation" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" dir=3D"ltr" =
+class=3D"c-1axfuj5 c-13siqri"><tr style=3D"text-align: left" dir=3D"auto" =
+class=3D"c-1tp6llq"><td class=3D"c-1mesqah"><table role=3D"presentation" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" dir=3D"auto" =
+class=3D"c-1098dhx"><tr><td style=3D"background: #009FDE; color: #FFFFFF" =
+class=3D"c-1gii6kw c-m18ivb">Hello,<span class=3D"c-197pl91"><br =
+class=3D"c-5qsfm7"/></span><span class=3D"c-197pl91"><br =
+class=3D"c-5qsfm7"/></span>Did you need any assistance?=
+</td></tr></table></td></tr><tr><td class=3D"c-4cpist c-zjwfhk">Paul sent =
+this</td></tr></table></td></tr></table></td></tr></table></td></tr><tr =
+class=3D"c-90qmnj"><td><table role=3D"presentation" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" dir=3D"ltr" =
+class=3D"c-11rjz69"><tr class=3D"c-tl3c7x"><td class=3D"c-qcwuag =
+c-16v5f34">Your conversation is still available online.=
+</td></tr><tr><td><table role=3D"presentation" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" class=3D"c-1eb43lc"><tr><td =
+style=3D"border: 1px solid #009FDE;" class=3D"c-u8lz2y"><a =
+href=3D"https://clientexec-dful0s.on.crisp.email/go/chat/resume/?=
+target_url=3Dhttp%3A%2F%2Fclientexec.com%2F&amp;session_id=3Dsession_653751=
+cd-a5a3-44d2-a6b5-9a2d114be45b" target=3D"_blank" style=3D"color: #009FDE;"=
+ class=3D"c-1v4o8f0 c-4w6eli">view conversation</a></td></tr></table></td><=
+/tr></table></td></tr><tr class=3D"c-183lp8j"><td><table =
+role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" dir=3D"ltr" class=3D"c-ohl6s9"><tr><td><span =
+class=3D"c-zjwfhk">You received this email because we automatically send =
+transcripts of chats you (may have) finished.</span></td></tr></table></td>=
+</tr></table></td></tr><tr class=3D"c-ry4gth"><td><table =
+role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" dir=3D"ltr" class=3D"c-gw9ys8"><tr><td><table =
+role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" dir=3D"ltr" class=3D"c-rjouzo"><tr><td =
+class=3D"c-1rnzgt5"><ul><li class=3D"c-zjwfhk">=C2=A9 2023 Clientexec Inc.,=
+ all rights reserved.</li></ul></td><td class=3D"c-9ofmv5"><ul><li =
+class=3D"c-975u3m c-12i0t46 c-4w6eli"><a href=3D"http://clientexec.com/" =
+target=3D"_blank" class=3D"c-35l7ng">Visit Clientexec Inc. =
+website</a></li><li class=3D"c-975u3m c-4w6eli"><a href=3D"https://clientex=
+ec-dful0s.on.crisp.email/go/email/unsubscribe/?email_hash=3D1fb43bd&amp;key=
+=3Dbf112026&amp;website_id=3D00db6bb6-ac1c-439e-a17c-159d5afce01d&amp;websi=
+te_domain=3Dclientexec.com" target=3D"_blank" class=3D"c-35l7ng">Unsubscrib=
+e from emails</a></li></ul></td></tr></table></td></tr></table>
+
+</td></tr></table></body></html>
+----_NmP-f99353f6a1650315-Part_1--

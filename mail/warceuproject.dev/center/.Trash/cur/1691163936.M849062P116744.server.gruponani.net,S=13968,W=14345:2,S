@@ -1,0 +1,377 @@
+Return-Path: <center@warceuproject.dev>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id /H1UMiAdzWQIyAEAz1WdsA
+	(envelope-from <center@warceuproject.dev>)
+	for <center@warceuproject.dev>; Fri, 04 Aug 2023 22:45:36 +0700
+Return-path: <center@warceuproject.dev>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Fri, 04 Aug 2023 08:45:36 -0700
+Received: from [154.53.61.106] (port=59602 helo=panel.warceuproject.dev)
+	by server.gruponani.net with esmtpsa  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <center@warceuproject.dev>)
+	id 1qRwzi-000UMs-28
+	for center@warceuproject.dev;
+	Fri, 04 Aug 2023 08:45:36 -0700
+From: WarceuNel <center@warceuproject.dev>
+To: center@warceuproject.dev
+Subject: Pterodactyl Test Message
+Message-ID: <b5c55b591a6acb4e655e37e2e2b457c5@warceuproject.dev>
+MIME-Version: 1.0
+Date: Fri, 04 Aug 2023 15:45:36 +0000
+Content-Type: multipart/alternative; boundary=55PftBQC
+
+--55PftBQC
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name=3D"viewport" content=
+=3D"width=3Ddevice-width, initial-scale=3D1.0" />
+    <meta http-equiv=3D=
+"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+
+    <style ty=
+pe=3D"text/css" rel=3D"stylesheet" media=3D"all">
+        /* Media Querie=
+s */
+        @media only screen and (max-width: 500px) {
+            .b=
+utton {
+                width: 100% !important;
+            }
+       =
+ }
+    </style>
+</head>
+
+<body style=3D"margin: 0; padding: 0; widt=
+h: 100%; background-color: #F2F4F6;">
+    <table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+        <tr>
+            <td style=3D"width=
+: 100%; margin: 0; padding: 0; background-color: #F2F4F6;" align=3D"center"=
+>
+                <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0">
+                    <!-- Logo -->
+                    <tr>
+      =
+                  <td style=3D"padding: 25px 0; text-align: center;">
+   =
+                         <a style=3D"font-family: Arial, 'Helvetica Neue', =
+Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #2F3133; =
+text-decoration: none; text-shadow: 0 1px 0 white;" href=3D"https://panel.w=
+arceuproject.dev" target=3D"_blank">
+                                Warc=
+euNel
+                            </a>
+                        </td>
+=
+                    </tr>
+
+                    <!-- Email Body -->
+  =
+                  <tr>
+                        <td style=3D"width: 100%; =
+margin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px so=
+lid #EDEFF2; background-color: #FFF;" width=3D"100%">
+                   =
+         <table style=3D"width: auto; max-width: 570px; margin: 0 auto; pad=
+ding: 0;" align=3D"center" width=3D"570" cellpadding=3D"0" cellspacing=3D"0=
+">
+                                <tr>
+                               =
+     <td style=3D"font-family: Arial, 'Helvetica Neue', Helvetica, sans-ser=
+if; padding: 35px;">
+                                        <!-- Greetin=
+g -->
+                                        <h1 style=3D"margin-top: 0;=
+ color: #2F3133; font-size: 19px; font-weight: bold; text-align: left;">
+=
+                                                                           =
+                 Hello center warceu!
+                                   =
+                                                 </h1>
+
+               =
+                         <!-- Intro -->
+                                 =
+                                                   <p style=3D"margin-top: =
+0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+               =
+                                 This is a test of the Pterodactyl mail sys=
+tem. You're good to go!
+                                            </p>=
+
+                                       =20
+                             =
+           <!-- Action Button -->
+                                       =
+=20
+                                        <!-- Outro -->
+              =
+                         =20
+                                        <!-- S=
+alutation -->
+                                        <p style=3D"margin-=
+top: 0; color: #74787E; font-size: 16px; line-height: 1.5em;">
+          =
+                                  Regards,<br>WarceuNel
+                 =
+                       </p>
+
+                                        <!=
+-- Sub Copy -->
+                                                         =
+                   </td>
+                                </tr>
+        =
+                    </table>
+                        </td>
+            =
+        </tr>
+
+                    <!-- Footer -->
+                  =
+  <tr>
+                        <td>
+                            <table =
+style=3D"width: auto; max-width: 570px; margin: 0 auto; padding: 0; text-al=
+ign: center;" align=3D"center" width=3D"570" cellpadding=3D"0" cellspacing=
+=3D"0">
+                                <tr>
+                          =
+          <td style=3D"font-family: Arial, 'Helvetica Neue', Helvetica, san=
+s-serif; color: #AEAEAE; padding: 35px; text-align: center;">
+           =
+                             <p style=3D"margin-top: 0; color: #74787E; fon=
+t-size: 12px; line-height: 1.5em;">
+                                     =
+       =C2=A9 2023
+                                            <a style=
+=3D"color: #3869D4;" href=3D"https://panel.warceuproject.dev" target=3D"_bl=
+ank">WarceuNel</a>.
+                                            All right=
+s reserved.
+                                        </p>
+              =
+                      </td>
+                                </tr>
+     =
+                       </table>
+                        </td>
+         =
+           </tr>
+                </table>
+            </td>
+        <=
+/tr>
+    </table>
+</body>
+</html>
+
+--55PftBQC
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+
+<head>
+    <meta name=3D"viewport" content=
+=3D"width=3Ddevice-width, initial-scale=3D1.0">
+    <meta http-equiv=3D"C=
+ontent-Type" content=3D"text/html; charset=3DUTF-8">
+
+    <style type=
+=3D"text/css" rel=3D"stylesheet" media=3D"all">
+        /* Media Queries =
+*/
+        @media only screen and (max-width: 500px) {
+            .but=
+ton {
+                width: 100% !important;
+            }
+        }=
+
+    </style>
+</head>
+
+
+
+<body style=3D"box-sizing: border-box;=
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvet=
+ica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Sy=
+mbol'; position: relative; -webkit-text-size-adjust: none; color: #718096; =
+height: 100%; line-height: 1.4; margin: 0; padding: 0; width: 100%; backgro=
+und-color: #F2F4F6;">
+    <table width=3D"100%" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"box-sizing: border-box; font-family: -apple-system, Bli=
+nkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple C=
+olor Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative;">
+ =
+       <tr>
+            <td style=3D"box-sizing: border-box; font-family:=
+ -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, s=
+ans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; positi=
+on: relative; width: 100%; margin: 0; padding: 0; background-color: #F2F4F6=
+;" align=3D"center">
+                <table width=3D"100%" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"box-sizing: border-box; font-family: -apple-=
+system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-seri=
+f, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: rela=
+tive;">
+                    <!-- Logo -->
+                    <tr>
+  =
+                      <td style=3D"box-sizing: border-box; font-family: -ap=
+ple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-=
+serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: =
+relative; padding: 25px 0; text-align: center;">
+                        =
+    <a style=3D"box-sizing: border-box; position: relative; font-family: Ar=
+ial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px; font-weight:=
+ bold; color: #2F3133; text-decoration: none; text-shadow: 0 1px 0 white;" =
+href=3D"https://panel.warceuproject.dev" target=3D"_blank">
+             =
+                   WarceuNel
+                            </a>
+         =
+               </td>
+                    </tr>
+
+                    <=
+!-- Email Body -->
+                    <tr>
+                        <td=
+ style=3D"box-sizing: border-box; font-family: -apple-system, BlinkMacSyste=
+mFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji=
+', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; width: 100%; ma=
+rgin: 0; padding: 0; border-top: 1px solid #EDEFF2; border-bottom: 1px soli=
+d #EDEFF2; background-color: #FFF;" width=3D"100%">
+                     =
+       <table style=3D"box-sizing: border-box; font-family: -apple-system, =
+BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Appl=
+e Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; wi=
+dth: auto; max-width: 570px; margin: 0 auto; padding: 0;" align=3D"center" =
+width=3D"570" cellpadding=3D"0" cellspacing=3D"0">
+                      =
+          <tr>
+                                    <td style=3D"box-sizin=
+g: border-box; position: relative; font-family: Arial, 'Helvetica Neue', He=
+lvetica, sans-serif; padding: 35px;">
+                                   =
+     <!-- Greeting -->
+                                        <h1 style=
+=3D"box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont,=
+ 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Se=
+goe UI Emoji', 'Segoe UI Symbol'; position: relative; margin-top: 0; color:=
+ #2F3133; font-size: 19px; font-weight: bold; text-align: left;">
+       =
+                                                                           =
+          Hello center warceu!
+                                          =
+                                          </h1>
+
+                      =
+                  <!-- Intro -->
+                                        =
+                                            <p style=3D"box-sizing: border-=
+box; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, He=
+lvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe U=
+I Symbol'; position: relative; text-align: left; margin-top: 0; color: #747=
+87E; font-size: 16px; line-height: 1.5em;">
+                             =
+                   This is a test of the Pterodactyl mail system. You're go=
+od to go!
+                                            </p>
+            =
+                           =20
+                                        <!--=
+ Action Button -->
+                                       =20
+           =
+                             <!-- Outro -->
+                             =
+          =20
+                                        <!-- Salutation -->=
+
+                                        <p style=3D"box-sizing: border-b=
+ox; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Hel=
+vetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI=
+ Symbol'; position: relative; text-align: left; margin-top: 0; color: #7478=
+7E; font-size: 16px; line-height: 1.5em;">
+                              =
+              Regards,<br>WarceuNel
+                                     =
+   </p>
+
+                                        <!-- Sub Copy -->
+  =
+                                                                          <=
+/td>
+                                </tr>
+                            =
+</table>
+                        </td>
+                    </tr>
+
+ =
+                   <!-- Footer -->
+                    <tr>
+           =
+             <td style=3D"box-sizing: border-box; font-family: -apple-syste=
+m, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'A=
+pple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative;=
+">
+                            <table style=3D"box-sizing: border-box; fo=
+nt-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica=
+, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbo=
+l'; position: relative; width: auto; max-width: 570px; margin: 0 auto; padd=
+ing: 0; text-align: center;" align=3D"center" width=3D"570" cellpadding=3D"=
+0" cellspacing=3D"0">
+                                <tr>
+            =
+                        <td style=3D"box-sizing: border-box; position: rela=
+tive; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #=
+AEAEAE; padding: 35px; text-align: center;">
+                            =
+            <p style=3D"box-sizing: border-box; font-family: -apple-system,=
+ BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'App=
+le Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; position: relative; t=
+ext-align: left; margin-top: 0; color: #74787E; font-size: 12px; line-heigh=
+t: 1.5em;">
+                                            =C2=A9 2023
+   =
+                                         <a style=3D"box-sizing: border-box=
+; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helve=
+tica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI S=
+ymbol'; position: relative; color: #3869D4;" href=3D"https://panel.warceupr=
+oject.dev" target=3D"_blank">WarceuNel</a>.
+                             =
+               All rights reserved.
+                                     =
+   </p>
+                                    </td>
+                     =
+           </tr>
+                            </table>
+                 =
+       </td>
+                    </tr>
+                </table>
+     =
+       </td>
+        </tr>
+    </table>
+</body>
+</html>
+--55PftBQC--
+

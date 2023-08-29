@@ -1,0 +1,86 @@
+Return-Path: <>
+Delivered-To: center@warceuproject.dev
+Received: from vps.warceuproject.dev
+	by vps.warceuproject.dev with LMTP
+	id YLM/OepRy2RVFgEA0wEIKA
+	(envelope-from <>)
+	for <center@warceuproject.dev>; Thu, 03 Aug 2023 00:06:18 -0700
+Return-path: <>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Thu, 03 Aug 2023 00:06:18 -0700
+Received: from mailnull by vps.warceuproject.dev with local (Exim 4.96)
+	id 1qRSPa-000IYc-2o
+	for center@warceuproject.dev;
+	Thu, 03 Aug 2023 00:06:18 -0700
+X-Failed-Recipients: kaelxonhosting@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@vps.warceuproject.dev>
+To: center@warceuproject.dev
+References: <d13b4b440a45ba9495b8b0784d130920@warceuproject.dev>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1691046378-eximdsn-1819990297
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qRSPa-000IYc-2o@vps.warceuproject.dev>
+Date: Thu, 03 Aug 2023 00:06:18 -0700
+
+--1691046378-eximdsn-1819990297
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  kaelxonhosting@gmail.com
+    host gmail-smtp-in.l.google.com [74.125.195.26]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 This mail is unauthenticated, which poses a security risk to the
+    550-5.7.26 sender and Gmail users, and has been blocked. The sender must
+    550-5.7.26 authenticate with at least one of SPF or DKIM. For this message,
+    550-5.7.26 DKIM checks did not pass and SPF check for [warceuproject.dev] did
+    550-5.7.26 not pass with ip: [154.53.61.106]. The sender should visit
+    550-5.7.26  https://support.google.com/mail/answer/81126#authentication for
+    550 5.7.26 instructions on setting up authentication. q20-20020a170902e31400b001b9d180fd9asi11934093plc.121 - gsmtp
+
+--1691046378-eximdsn-1819990297
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; vps.warceuproject.dev
+
+Action: failed
+Final-Recipient: rfc822;kaelxonhosting@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 This mail is unauthenticated, which poses a security risk to the
+ 550-5.7.26 sender and Gmail users, and has been blocked. The sender must
+ 550-5.7.26 authenticate with at least one of SPF or DKIM. For this message,
+ 550-5.7.26 DKIM checks did not pass and SPF check for [warceuproject.dev] did
+ 550-5.7.26 not pass with ip: [154.53.61.106]. The sender should visit
+ 550-5.7.26  https://support.google.com/mail/answer/81126#authentication for
+ 550 5.7.26 instructions on setting up authentication. q20-20020a170902e31400b001b9d180fd9asi11934093plc.121 - gsmtp
+
+--1691046378-eximdsn-1819990297
+Content-type: message/rfc822
+
+Return-path: <center@warceuproject.dev>
+Received: from localhost ([127.0.0.1]:53154 helo=vps.warceuproject.dev)
+	by vps.warceuproject.dev with esmtpa (Exim 4.96)
+	(envelope-from <center@warceuproject.dev>)
+	id 1qRSPa-000IYU-0H
+	for kaelxonhosting@gmail.com;
+	Thu, 03 Aug 2023 00:06:18 -0700
+MIME-Version: 1.0
+Date: Thu, 03 Aug 2023 00:06:18 -0700
+From: center@warceuproject.dev
+To: kaelxonhosting@gmail.com
+Subject: Tes
+User-Agent: Roundcube Webmail/1.6.0
+Message-ID: <d13b4b440a45ba9495b8b0784d130920@warceuproject.dev>
+X-Sender: center@warceuproject.dev
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+Masuk
+
+--1691046378-eximdsn-1819990297--

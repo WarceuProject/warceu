@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id fw1HC6lLzWTRWgAAz1WdsA
+	(envelope-from <>)
+	for <center@warceuproject.dev>; Sat, 05 Aug 2023 02:04:09 +0700
+Return-path: <>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Fri, 04 Aug 2023 12:04:09 -0700
+Received: from mailnull by server.gruponani.net with local (Exim 4.96)
+	id 1qS05p-00062m-0B
+	for center@warceuproject.dev;
+	Fri, 04 Aug 2023 12:04:09 -0700
+X-Failed-Recipients: tes2@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.gruponani.net>
+To: center@warceuproject.dev
+References: <dEYbn7aDxCPyPH1XsmAKmgqqRPQDkV5lxRfVgfYcA@webhost.warceuproject.dev>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1691175849-eximdsn-597387897
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qS05p-00062m-0B@server.gruponani.net>
+Date: Fri, 04 Aug 2023 12:04:09 -0700
+
+--1691175849-eximdsn-597387897
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  tes2@gmail.com
+    host gmail-smtp-in.l.google.com [74.125.197.27]
+    SMTP error from remote mail server after RCPT TO:<tes2@gmail.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser b75-20020a63344e000000b005634fdd0979si2173967pga.496 - gsmtp
+
+--1691175849-eximdsn-597387897
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.gruponani.net
+
+Action: failed
+Final-Recipient: rfc822;tes2@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser b75-20020a63344e000000b005634fdd0979si2173967pga.496 - gsmtp
+
+--1691175849-eximdsn-597387897
+Content-type: message/rfc822
+
+Return-path: <center@warceuproject.dev>
+Received: from warceu by server.gruponani.net with local (Exim 4.96)
+	(envelope-from <center@warceuproject.dev>)
+	id 1qS05o-00062J-1r
+	for tes2@gmail.com;
+	Fri, 04 Aug 2023 12:04:08 -0700
+To: tes2 cuy - tesss <tes2@gmail.com>
+Subject: [CE-1003] New Response to Ticket #1003
+X-PHP-Script: webhost.warceuproject.dev/admin/index.php for 180.245.138.245, 172.70.147.77
+ X-PHP-Originating-Script: 1001:PHPMailer.php
+Date: Fri, 4 Aug 2023 19:04:08 +0000
+From: Webhosting Warceu Project <center@warceuproject.dev>
+Reply-To: center@warceuproject.dev
+Message-ID: <dEYbn7aDxCPyPH1XsmAKmgqqRPQDkV5lxRfVgfYcA@webhost.warceuproject.dev>
+X-Priority: 3
+X-Mailer: PHPMailer 6.7.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<p><span>Dear tes2 cuy - tesss,<br></span><span
+style="background-color: initial;"><br>An update has been made to your
+ticket, which you can view below:<br></span><span
+style="background-color: initial;"><br>Ticket
+Response:<br></span><span style="background-color: initial;">Yth
+Tess<br />
+Basic Hosting<br />
+<br />
+Harap melakukan pembayaran sebesar $2.97USD/ Rp.45.000IDR <br />
+segera melalui detail berikut:<br />
+Paypal: lightid180@gmail.com<br />
+Dana e-Wallet: 085759669252<br />
+Kirimkan bukti pembayran maka stap kami akan memperosen pesanan anda
+jida dalam 1-5 jam kerja belum menerima pesanan harap hubungi kami di
+WhatsApp: 085759669252<br />
+<br></span><span style="background-color: initial;"><br>If you would
+like to view this ticket’s full history, click here:
+https://webhost.warceuproject.dev/index.php?fuse=support&controller=ticket&id=1003&view=ticket.
+You may need to log in to the client area with your email address
+(username) and password to access the ticket.<br></span><span
+style="background-color: initial;"><br>If you would like to respond to
+the ticket, you can do so by replying to this email or through the
+client area detailed above.<br></span><span style="background-color:
+initial;"><br>Thank you,<br></span><span style="background-color:
+initial;"><br>Webhosting Warceu Project</span></p>
+
+
+--1691175849-eximdsn-597387897--

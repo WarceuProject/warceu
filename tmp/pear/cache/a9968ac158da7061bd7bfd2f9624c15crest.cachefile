@@ -1,0 +1,5 @@
+a:8:{s:7:"attribs";a:4:{s:5:"xmlns";s:36:"http://pear.php.net/dtd/rest.package";s:9:"xmlns:xsi";s:41:"http://www.w3.org/2001/XMLSchema-instance";s:11:"xmlns:xlink";s:28:"http://www.w3.org/1999/xlink";s:18:"xsi:schemaLocation";s:80:"http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd";}s:1:"n";s:19:"Payment_PayPal_SOAP";s:1:"c";s:12:"pear.php.net";s:2:"ca";a:2:{s:7:"attribs";a:1:{s:10:"xlink:href";s:15:"/rest/c/Payment";}s:8:"_content";s:7:"Payment";}s:1:"l";s:3:"MIT";s:1:"s";s:22:"PayPal SOAP API client";s:1:"d";s:274:"This package provides an easy-to-use wrapper of PHP 5's SOAP client for use with the PayPal SOAP API.
+
+This package requires PHP 5.1.0 or greater, built with the SOAP extension enabled.
+
+Note: Due to a PHP bug, PHP versions 5.2.2 to 5.2.6 are incompatible with this package.";s:1:"r";a:1:{s:7:"attribs";a:1:{s:10:"xlink:href";s:27:"/rest/r/payment_paypal_soap";}}}

@@ -1,0 +1,221 @@
+Return-Path: <>
+Delivered-To: warceu@vps.warceuproject.dev
+Received: from vps.warceuproject.dev
+	by vps.warceuproject.dev with LMTP
+	id lAksJs1qymSrCwAA0wEIKA
+	(envelope-from <>)
+	for <warceu@vps.warceuproject.dev>; Wed, 02 Aug 2023 07:40:13 -0700
+Return-path: <>
+Envelope-to: noreply@webhost.warceuproject.dev
+Delivery-date: Wed, 02 Aug 2023 07:40:13 -0700
+Received: from mailnull by vps.warceuproject.dev with local (Exim 4.96)
+	id 1qRD1J-0000m5-1f
+	for noreply@webhost.warceuproject.dev;
+	Wed, 02 Aug 2023 07:40:13 -0700
+X-Failed-Recipients: lightid180@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@vps.warceuproject.dev>
+To: noreply@webhost.warceuproject.dev
+References: <73Btz7ZFyDhHsY7R3Ph2Pz750zJPhvuK5aVyEhwUvqY@webhost.warceuproject.dev>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1690987213-eximdsn-1680365270
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qRD1J-0000m5-1f@vps.warceuproject.dev>
+Date: Wed, 02 Aug 2023 07:40:13 -0700
+
+--1690987213-eximdsn-1680365270
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  lightid180@gmail.com
+    host gmail-smtp-in.l.google.com [74.125.142.27]
+    SMTP error from remote mail server after end of data:
+    550-5.7.26 This mail is unauthenticated, which poses a security risk to the
+    550-5.7.26 sender and Gmail users, and has been blocked. The sender must
+    550-5.7.26 authenticate with at least one of SPF or DKIM. For this message,
+    550-5.7.26 DKIM checks did not pass and SPF check for [webhost.warceuproject.de
+    550-5.7.26 v] did not pass with ip: [154.53.61.106]. The sender should visit
+    550-5.7.26  https://support.google.com/mail/answer/81126#authentication for
+    550 5.7.26 instructions on setting up authentication. f10-20020a63de0a000000b00563e0ec8fa4si10966739pgg.730 - gsmtp
+
+--1690987213-eximdsn-1680365270
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; vps.warceuproject.dev
+
+Action: failed
+Final-Recipient: rfc822;lightid180@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 This mail is unauthenticated, which poses a security risk to the
+ 550-5.7.26 sender and Gmail users, and has been blocked. The sender must
+ 550-5.7.26 authenticate with at least one of SPF or DKIM. For this message,
+ 550-5.7.26 DKIM checks did not pass and SPF check for [webhost.warceuproject.de
+ 550-5.7.26 v] did not pass with ip: [154.53.61.106]. The sender should visit
+ 550-5.7.26  https://support.google.com/mail/answer/81126#authentication for
+ 550 5.7.26 instructions on setting up authentication. f10-20020a63de0a000000b00563e0ec8fa4si10966739pgg.730 - gsmtp
+
+--1690987213-eximdsn-1680365270
+Content-type: message/rfc822
+
+Return-path: <noreply@webhost.warceuproject.dev>
+Received: from warceu by vps.warceuproject.dev with local (Exim 4.96)
+	(envelope-from <noreply@webhost.warceuproject.dev>)
+	id 1qRD1I-0000lz-0w
+	for lightid180@gmail.com;
+	Wed, 02 Aug 2023 07:40:12 -0700
+To: Kira Dev <lightid180@gmail.com>
+Subject: WHMCS Admin Failed Login Attempt
+X-PHP-Script: webhost.warceuproject.dev/admin/dologin.php for 36.72.216.10, 162.158.106.174
+ X-PHP-Originating-Script: 1001:PHPMailer.php
+Date: Wed, 2 Aug 2023 14:40:12 +0000
+From: WHMCompleteSolution <noreply@webhost.warceuproject.dev>
+Reply-To: WHMCompleteSolution <noreply@webhost.warceuproject.dev>
+Message-ID: <73Btz7ZFyDhHsY7R3Ph2Pz750zJPhvuK5aVyEhwUvqY@webhost.warceuproject.dev>
+X-Mailer: Webhosting Warceu Project
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_73Btz7ZFyDhHsY7R3Ph2Pz750zJPhvuK5aVyEhwUvqY"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+
+--b1_73Btz7ZFyDhHsY7R3Ph2Pz750zJPhvuK5aVyEhwUvqY
+Content-Type: text/plain; charset=us-ascii
+
+A recent login attempt failed.  Details of the attempt are below.
+
+Date/Time: 02/08/2023 14:40:12
+Username: kira
+IP Address: 162.158.106.174
+Hostname: 162.158.106.174
+
+
+
+
+http://webhost.warceuproject.dev/admin/
+
+--b1_73Btz7ZFyDhHsY7R3Ph2Pz750zJPhvuK5aVyEhwUvqY
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A    <head>=0A        <meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dutf-8" />=0A        <meta name=3D"viewpor=
+t" content=3D"width=3Ddevice-width, initial-scale=3D1, maximum-scale=3D1, u=
+ser-scalable=3Dno">=0A        <title>WHMCS Admin Failed Login Attempt</titl=
+e>=0A        <style type=3D"text/css">=0A            .ExternalClass,.Extern=
+alClass div,.ExternalClass font,.ExternalClass p,.ExternalClass span,.Exter=
+nalClass td,h1,img{line-height:100%}h1,h2{display:block;font-family:Helveti=
+ca;font-style:normal;font-weight:700}#outlook a{padding:0}.ExternalClass,.R=
+eadMsgBody{width:100%}a,blockquote,body,li,p,table,td{-webkit-text-size-adj=
+ust:100%;-ms-text-size-adjust:100%}table,td{mso-table-lspace:0;mso-table-rs=
+pace:0}img{-ms-interpolation-mode:bicubic;border:0;height:auto;outline:0;te=
+xt-decoration:none}table{border-collapse:collapse!important}#bodyCell,#body=
+Table,body{height:100%!important;margin:0;padding:0;width:100%!important}#b=
+odyCell{padding:20px;}#templateContainer{width:600px;border:1px solid #ddd;=
+background-color:#fff}#bodyTable,body{background-color:#FAFAFA}h1{color:#20=
+2020!important;font-size:26px;letter-spacing:normal;text-align:left;margin:=
+0 0 10px}h2{color:#404040!important;font-size:20px;line-height:100%;letter-=
+spacing:normal;text-align:left;margin:0 0 10px}h3,h4{display:block;font-sty=
+le:italic;font-weight:400;letter-spacing:normal;text-align:left;margin:0 0 =
+10px;font-family:Helvetica;line-height:100%}h3{color:#606060!important;font=
+-size:16px}h4{color:grey!important;font-size:14px}.headerContent{color:#505=
+050;font-family:Helvetica;font-size:20px;font-weight:700;line-height:100%;t=
+ext-align:left;vertical-align:middle;padding:0}.bodyContent,.footerContent{=
+font-family:Helvetica;line-height:150%;text-align:left;}.bodyContent pre{pa=
+dding:15px;background-color:#444;color:#f8f8f8;border:0}.bodyContent pre co=
+de{white-space:pre;word-break:normal;word-wrap:normal}.bodyContent table{ma=
+rgin:10px 0;background-color:#fff;border:1px solid #ddd}.bodyContent table =
+th{padding:4px 10px;background-color:#f8f8f8;border:1px solid #ddd;font-fam=
+ily:Helvetica;font-size:14px;font-weight:700;text-align:center}.bodyContent=
+ table td{padding:3px 8px;border:1px solid #ddd;font-family:Helvetica;font-=
+size:14px}.quoted-content {margin:15px 0;padding:15px;background-color:#f9f=
+9f9;border-radius:4px}.bodyContent table.keyvalue-table{border:0}.bodyConte=
+nt table.keyvalue-table td{border:0}.table-responsive{border:0}.bodyContent=
+ a{word-break:break-all}.headerContent a .yshortcuts,.headerContent a:link,=
+.headerContent a:visited{color:#1f5d8c;font-weight:400;text-decoration:unde=
+rline}#headerImage{height:auto;max-width:600px;padding:20px 20px 0 20px}#fo=
+oterImage{float:right;padding:0 0 0 15px}#templateBody{background-color:#ff=
+f}.bodyContent{color:#505050;font-size:14px;padding:20px}.bodyContent a .ys=
+hortcuts,.bodyContent a:link,.bodyContent a:visited{color:#1f5d8c;font-weig=
+ht:400;text-decoration:underline}.bodyContent a:hover{text-decoration:none}=
+.bodyContent img{display:inline;height:auto;max-width:560px}.footerContent{=
+background-color:#f8f8f8;color:grey;font-size:10px;padding:20px}.footerCont=
+ent a .yshortcuts,.footerContent a span,.footerContent a:link,.footerConten=
+t a:visited{color:#606060;font-weight:400;text-decoration:underline}@media =
+only screen and (max-width:640px){h1,h2,h3,h4{line-height:100%!important}#t=
+emplateContainer{max-width:600px!important;width:100%!important}#templateCo=
+ntainer,body{width:100%!important}a,blockquote,body,li,p,table,td{-webkit-t=
+ext-size-adjust:none!important}body{min-width:100%!important}#bodyCell{padd=
+ing:10px!important}h1{font-size:24px!important}h2{font-size:20px!important}=
+h3{font-size:18px!important}h4{font-size:16px!important}#templatePreheader{=
+display:none!important}.headerContent{font-size:20px!important;line-height:=
+125%!important}.footerContent{font-size:14px!important;line-height:115%!imp=
+ortant}.footerContent a{display:block!important}#footerImage{float:none;pad=
+ding:0 0 20px 0}.hide-mobile{display:none;}}table.grid-block,table.grid-blo=
+ck table,table.grid-block td{margin:0;padding:0;border:0;background-color:i=
+nherit}table.grid-block-inner{background-color:#efefef;}@media only screen =
+and (max-width: 640px){td[class=3D"grid-block"] table{width:100%}td[class=
+=3D"grid-block"] .spacer{display:none}td[class=3D"grid-block"] .row-nopaddi=
+ng{padding:0!important}td[class=3D"grid-block"] .section{display:block;floa=
+t:left;height:auto;padding:10px 20px;margin-bottom:8px;-moz-box-sizing:bord=
+er-box;-webkit-box-sizing:border-box;box-sizing:border-box;width:100%}}=0A =
+       </style>=0A    </head>=0A    <body leftmargin=3D"0" marginwidth=3D"0=
+" topmargin=3D"0" marginheight=3D"0" offset=3D"0">=0A        <center>=0A   =
+         <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable">=0A                <=
+tr>=0A                    <td align=3D"center" valign=3D"top" id=3D"bodyCel=
+l">=0A                        <table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" id=3D"templateContainer">=0A                            <tr>=0A =
+                               <td align=3D"center" valign=3D"top">=0A     =
+                               <table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" id=3D"templateHeader">=0A                       =
+                 <tr>=0A                                            <td val=
+ign=3D"top" class=3D"headerContent">=0A                                    =
+            <div style=3D"max-width:600px;padding:20px 20px 0 20px">Webhost=
+ing Warceu Project</div>=0A                                            </td=
+>=0A                                        </tr>=0A                       =
+             </table>=0A                                </td>=0A           =
+                 </tr>=0A                            <tr>=0A               =
+                 <td align=3D"center" valign=3D"top">=0A                   =
+                 <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"templateBody">=0A                                       =
+ <tr>=0A                                            <td valign=3D"top" clas=
+s=3D"bodyContent">=0A                                                <p><p>=
+A recent login attempt failed.  Details of the attempt are below.</p><p>Dat=
+e/Time: 02/08/2023 14:40:12<br>Username: kira<br>IP Address: 162.158.106.17=
+4<br>Hostname: 162.158.106.174</p></p>=0A<p><a href=3D"http://webhost.warce=
+uproject.dev/admin/">http://webhost.warceuproject.dev/admin/</a></p>=0A    =
+                                        </td>=0A                           =
+             </tr>=0A                                    </table>=0A       =
+                         </td>=0A                            </tr>=0A      =
+                      <tr>=0A                                <td align=3D"c=
+enter" valign=3D"top">=0A                                    <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=3D"templateFoo=
+ter">=0A                                        <tr>=0A                    =
+                        <td valign=3D"top" class=3D"footerContent">=0A     =
+                                           <a href=3D"https://www.whmcs.com=
+/"><img src=3D"https://cdn.whmcs.com/images/whmcs_email_footer.png" id=3D"f=
+ooterImage" alt=3D"WHMCS" /></a>=0A                                        =
+        This notification was automatically generated by WHMCS<br />=0A    =
+                                            &nbsp;<a href=3D"http://webhost=
+.warceuproject.dev/">http://webhost.warceuproject.dev/</a>=0A              =
+                                  <span class=3D"hide-mobile"> | </span>=0A=
+                                                <a href=3D"http://webhost.w=
+arceuproject.dev/admin/">log in to the admin area</a>&nbsp;=0A             =
+                               </td>=0A                                    =
+    </tr>=0A                                    </table>=0A                =
+                </td>=0A                            </tr>=0A               =
+         </table>=0A                    </td>=0A                </tr>=0A   =
+         </table>=0A        </center>=0A    </body>=0A</html>
+
+--b1_73Btz7ZFyDhHsY7R3Ph2Pz750zJPhvuK5aVyEhwUvqY--
+
+
+--1690987213-eximdsn-1680365270--

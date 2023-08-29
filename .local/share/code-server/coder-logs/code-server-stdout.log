@@ -1,0 +1,91 @@
+[2023-08-15T18:10:43.031Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:10:43.032Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:10:44.277Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:10:44.278Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:10:45.491Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:10:45.492Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:10:46.459Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:10:46.460Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:10:47.571Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:10:47.572Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:12:12.051Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:12:12.053Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:12:13.215Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:12:13.216Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:12:14.197Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:12:14.198Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:12:15.256Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:12:15.257Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:12:16.261Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:12:16.262Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:13:31.145Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:13:31.146Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:13:32.271Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:13:32.272Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:13:33.470Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:13:33.471Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:13:34.503Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:13:34.504Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T18:13:35.568Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T18:13:35.569Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T19:04:35.350Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T19:04:35.351Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T19:07:00.908Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2023-08-15T19:07:00.910Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-15T19:07:00.962Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-15T19:07:00.962Z] info  HTTP server listening on http://154.53.61.106:9000/
+[2023-08-15T19:07:00.962Z] info    - Authentication is enabled
+[2023-08-15T19:07:00.962Z] info      - Using password from ~/.config/code-server/config.yaml
+[2023-08-15T19:07:00.962Z] info    - Not serving HTTPS
+[2023-08-15T19:07:00.962Z] info  Session server listening on /home/warceu/.local/share/code-server/code-server-ipc.sock
+[02:07:14] 
+
+
+
+
+[02:07:15] Extension host agent started.
+[02:07:15] Started initializing default profile extensions in extensions installation folder. file:///home/warceu/.local/share/code-server/extensions
+[02:07:15] Completed initializing default profile extensions in extensions installation folder. file:///home/warceu/.local/share/code-server/extensions
+[02:07:18] [36.72.217.33][10ad1f2f][ManagementConnection] New connection established.
+[02:07:23] [36.72.217.33][5cde3917][ExtensionHostConnection] New connection established.
+[02:07:23] [36.72.217.33][5cde3917][ExtensionHostConnection] <1123880> Launched Extension Host Process.
+[02:09:07] [36.72.217.33][d1e5003d][ManagementConnection] New connection established.
+[IPC Library: Pty Host]  INFO Expanding terminal instance, old id 1 -> new id undefined
+[02:09:10] [36.72.217.33][8e69e718][ExtensionHostConnection] New connection established.
+[02:09:10] [36.72.217.33][8e69e718][ExtensionHostConnection] <1124804> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 19 chars and 1 size events
+[02:10:44] [222.124.123.69][0af420a7][ManagementConnection] New connection established.
+[IPC Library: Pty Host]  INFO Expanding terminal instance, old id 1 -> new id undefined
+[02:10:47] [222.124.123.69][8a485f78][ExtensionHostConnection] New connection established.
+[02:10:47] [222.124.123.69][8a485f78][ExtensionHostConnection] <1126050> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 19 chars and 1 size events
+[02:14:07] [36.72.217.33][5cde3917][ExtensionHostConnection] <1123880> Extension Host Process exited with code: 0, signal: null.
+[02:14:22] [36.72.217.33][d1e5003d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:14:22] [36.72.217.33][8e69e718][ExtensionHostConnection] <1124804> Extension Host Process exited with code: 0, signal: null.
+[02:16:09] [222.124.123.69][0af420a7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:16:09] [222.124.123.69][8a485f78][ExtensionHostConnection] <1126050> Extension Host Process exited with code: 0, signal: null.
+[02:16:14] [222.124.123.69][f0266b69][ManagementConnection] New connection established.
+[02:16:37] [222.124.123.69][f0266b69][ManagementConnection] The client has reconnected.
+[02:19:05] [36.72.217.33][eb7fc519][ManagementConnection] New connection established.
+[IPC Library: Pty Host]  INFO Expanding terminal instance, old id 4 -> new id undefined
+[02:19:12] [36.72.217.33][adfe1798][ExtensionHostConnection] New connection established.
+[02:19:12] [36.72.217.33][adfe1798][ExtensionHostConnection] <1131255> Launched Extension Host Process.
+[02:27:58] [222.124.123.69][f0266b69][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:28:03] [222.124.123.69][43fc0eb9][ManagementConnection] New connection established.
+[02:28:05] [222.124.123.69][e9f2bcd7][ExtensionHostConnection] New connection established.
+[02:28:05] [222.124.123.69][e9f2bcd7][ExtensionHostConnection] <1136327> Launched Extension Host Process.
+[02:28:43] [36.72.217.33][adfe1798][ExtensionHostConnection] <1131255> Extension Host Process exited with code: 0, signal: null.
+[02:28:53] [36.72.217.33][1b251d9a][ManagementConnection] New connection established.
+[IPC Library: Pty Host]  INFO Expanding terminal instance, old id 5 -> new id undefined
+[02:28:57] [36.72.217.33][4b163ca5][ExtensionHostConnection] New connection established.
+[02:28:57] [36.72.217.33][4b163ca5][ExtensionHostConnection] <1137175> Launched Extension Host Process.
+[02:29:05] [36.72.217.33][eb7fc519][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[IPC Library: Pty Host]  WARN Persistent process "5": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "5"
+[IPC Library: Pty Host]  INFO Persistent process "5": Replaying 9143 chars and 1 size events
+[02:36:43] [36.72.217.33][1b251d9a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:36:43] [36.72.217.33][4b163ca5][ExtensionHostConnection] <1137175> Extension Host Process exited with code: 0, signal: null.

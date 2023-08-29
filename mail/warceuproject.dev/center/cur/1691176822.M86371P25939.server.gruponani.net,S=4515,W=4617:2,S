@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id yBXSBHZPzWRTZQAAz1WdsA
+	(envelope-from <>)
+	for <center@warceuproject.dev>; Sat, 05 Aug 2023 02:20:22 +0700
+Return-path: <>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Fri, 04 Aug 2023 12:20:22 -0700
+Received: from mailnull by server.gruponani.net with local (Exim 4.96)
+	id 1qS0LV-0006mw-3D
+	for center@warceuproject.dev;
+	Fri, 04 Aug 2023 12:20:22 -0700
+X-Failed-Recipients: tes2@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.gruponani.net>
+To: center@warceuproject.dev
+References: <teWQzaxjtO3gMvudOr2iUWhnUo7B5KMPK4pv7ago@webhost.warceuproject.dev>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1691176821-eximdsn-1859591445
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qS0LV-0006mw-3D@server.gruponani.net>
+Date: Fri, 04 Aug 2023 12:20:21 -0700
+
+--1691176821-eximdsn-1859591445
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  tes2@gmail.com
+    host gmail-smtp-in.l.google.com [74.125.199.26]
+    SMTP error from remote mail server after RCPT TO:<tes2@gmail.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser 16-20020a630a10000000b0055c8f4a56d5si2070027pgk.600 - gsmtp
+
+--1691176821-eximdsn-1859591445
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.gruponani.net
+
+Action: failed
+Final-Recipient: rfc822;tes2@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser 16-20020a630a10000000b0055c8f4a56d5si2070027pgk.600 - gsmtp
+
+--1691176821-eximdsn-1859591445
+Content-type: message/rfc822
+
+Return-path: <center@warceuproject.dev>
+Received: from warceu by server.gruponani.net with local (Exim 4.96)
+	(envelope-from <center@warceuproject.dev>)
+	id 1qS0LV-0006mp-2V
+	for tes2@gmail.com;
+	Fri, 04 Aug 2023 12:20:21 -0700
+To: tes2 cuy - tesss <tes2@gmail.com>
+Subject: Your Web Hosting Account Details
+X-PHP-Script: webhost.warceuproject.dev/admin/index.php for 180.245.138.245, 172.70.147.77
+ X-PHP-Originating-Script: 1001:PHPMailer.php
+Date: Fri, 4 Aug 2023 19:20:21 +0000
+From: Webhosting Warceu Project <center@warceuproject.dev>
+Reply-To: center@warceuproject.dev
+Message-ID: <teWQzaxjtO3gMvudOr2iUWhnUo7B5KMPK4pv7ago@webhost.warceuproject.dev>
+X-Priority: 3
+X-Mailer: PHPMailer 6.7.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<p></p><p>Dear tes2 cuy - tesss,</p><p>Thank you for choosing
+Webhosting Warceu Project to be your web hosting provider. This email
+contains the details and credentials you need to make use of your
+hosting account.</p><p>Note: If you have purchased a domain name
+during the signup process, it may not be visible for up to 48 hours
+while the DNS propagation completes.</p><p><b>New Account
+Information:</b></p><p>Domain Name: tes.com<br><span
+style="background-color: initial;">Control Panel Login:
+https://server.warceuproject.dev:2083<br></span><span
+style="background-color: initial;">Control Panel Username:
+tescomxp<br></span><span style="background-color: initial;">Control
+Panel Password: lvJ27JXhV3!-G8m:;</span></p><p><b>DNS / Nameserver
+Information:</b></p><p>For your website to resolve to our servers, you
+will need to update your domain name's DNS / nameservers to those
+listed below:</p><p></p><p><b>FTP Access:</b></p><p>FTP Hostname:
+server.warceuproject.dev<br><span style="background-color:
+initial;">FTP Username: tescomxp<br></span><span
+style="background-color: initial;">FTP Password:
+lvJ27JXhV3!-G8m:;&nbsp;</span></p><p>If you have any questions, please
+don't hesitate to let us know by emailing
+center@warceuproject.dev.</p><p>Thank you,</p><p>Webhosting Warceu
+Project</p><p></p>
+
+
+--1691176821-eximdsn-1859591445--

@@ -1,0 +1,127 @@
+Return-Path: <support@support.whatsapp.com>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id UAFPFJiy3WRpbxUAz1WdsA
+	(envelope-from <support@support.whatsapp.com>)
+	for <center@warceuproject.dev>; Thu, 17 Aug 2023 12:39:36 +0700
+Return-path: <support@support.whatsapp.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Wed, 16 Aug 2023 22:39:36 -0700
+Received: from 66-220-155-157.mail-mail.facebook.com ([66.220.155.157]:49988)
+	by server.gruponani.net with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <support@support.whatsapp.com>)
+	id 1qWVjM-005tQz-1a
+	for center@warceuproject.dev;
+	Wed, 16 Aug 2023 22:39:36 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=support.whatsapp.com;
+	s=s2048-2018-q2; t=1692250722;
+	bh=4CQRzG0HY3T+lb6d37+Yg+g6czQ47zYpvqzRwj+Fdw8=;
+	h=Content-Type:MIME-Version:Subject:From:To:Date;
+	b=I/SozW2bZGFeB+oxUKXPhSxwvVU2iJujh2EUghD/YETj16xlnm4TEEtGEvY9miNpK
+	 zCTVyNbBevz/2M2I3Q5UHi4Nf6raViNHsAHGeWff1H0D7QCYwSCIahc5ed5detEnUA
+	 yqN7P1N9wtIhAeKuT8HvnG0RD2wIFfl8DLdio/ohiDnnXqmD8DcogMglKNUcNm7AVv
+	 2rLV+IH0kvQbRvZ2Mg0EuGzhOAYSxShr/zzc6AhBDpkZ3lsQUwXwF3CbLPzphnc6n3
+	 XBO25FH3f41nizpYFaTxBWpmyn2kxCBqRH+itr8aE2QrqY24EL3W96l7pPOYUYT7Cf
+	 U7xZMGhTfglCw==
+Content-Type: multipart/alternative; boundary="===============0708369844168432314=="
+MIME-Version: 1.0
+Subject: Dukungan WhatsApp Messenger
+From: support@support.whatsapp.com
+To: center@warceuproject.dev
+Reply-To: WhatsApp Support <1014984396184188@support.whatsapp.com>
+Date: Wed, 16 Aug 2023 22:38:42 -0700
+Message-ID: <53a15e4c-3cc0-11ee-b6b3-5522cecb2cd4@support.whatsapp.com>
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Halo, Kami ingin mendengar pendapat Anda. Silakan bagikan
+   pengalaman Anda dengan tim Dukungan WhatsApp dengan melengkapi survei ini
+   yang terdiri dari empat pertanyaan. Untuk memulai, silakan ketuk [di sini]
+    [...] 
+ Content analysis details:   (0.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: whatsapp.com]
+  0.0 TVD_RCVD_IP            Message was received from an IP address
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 HTML_IMAGE_ONLY_20     BODY: HTML: images with 1600-2000 bytes of
+                             words
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+  0.0 NO_FM_NAME_IP_HOSTN    No From name + hostname using IP address
+X-Spam-Flag: NO
+
+--===============0708369844168432314==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+SGFsbywgIAoKS2FtaSBpbmdpbiBtZW5kZW5nYXIgcGVuZGFwYXQgQW5kYS4gU2lsYWthbiBiYWdp
+a2FuIHBlbmdhbGFtYW4gQW5kYSBkZW5nYW4gdGltIER1a3VuZ2FuIFdoYXRzQXBwIGRlbmdhbiBt
+ZWxlbmdrYXBpIHN1cnZlaSBpbmkgeWFuZyB0ZXJkaXJpIGRhcmkgZW1wYXQgcGVydGFueWFhbi4g
+VW50dWsgbWVtdWxhaSwgc2lsYWthbiBrZXR1ayBbZGkgc2luaV0oaHR0cHM6Ly93d3cud2hhdHNh
+cHAuY29tL3N1cnZleS8wLzEwMTQ5ODQzOTYxODQxODg/KS4gICAKClNpbGFrYW4gaHVidW5naSBr
+YW1pIGppa2EgQW5kYSBtZW1pbGlraSBwZXJ0YW55YWFuIGF0YXUgbWFzYWxhaCBsYWluLiBLYW1p
+IGRlbmdhbiBzZW5hbmcgaGF0aSBha2FuIG1lbWJhbnR1LiAgCgotLQpUaW0gRHVrdW5nYW4gV2hh
+dHNBcHAgIAoKU2lsYWthbiBrdW5qdW5naSBbUHVzYXQgQmFudHVhbl0oaHR0cHM6Ly9mYXEud2hh
+dHNhcHAuY29tLykga2FtaS4gIAoK
+
+--===============0708369844168432314==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGh0bWw+CiAgICA8aGVhZD4KICAgICAgICA8L2hlYWQ+CiAgICA8Ym9keT4KICAgICAgICAKICAg
+ICAgICAgIDxpbWcgc3JjPSJodHRwczovL3N0YXRpYy53aGF0c2FwcC5uZXQvbG9nL3dhcmNldXBy
+b2plY3QuZGV2LzEwMTQ5ODQzOTYxODQxODgvcGl4ZWwucG5nIj4KICAgICAgICAKICAgICAgICA8
+ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICA8cCBzdHlsZT0iY29sb3I6I2U3ZTZl
+NjsgZm9udC1mYW1pbHk6R2VvcmdpYSwgVGltZXMsIFRpbWVzIE5ldyBSb21hbiwgc2VyaWYiPiMj
+LSBXaGF0c0FwcCBTdXBwb3J0IC0jIzwvcD4KICAgICAgICAgICAgPHAgc3R5bGU9ImNvbG9yOiM3
+MTcxNzE7IGZvbnQtZmFtaWx5Okdlb3JnaWEsIFRpbWVzLCBUaW1lcyBOZXcgUm9tYW4sIHNlcmlm
+Ij5IYWxvLCAgPC9wPgo8cCBzdHlsZT0iY29sb3I6IzcxNzE3MTsgZm9udC1mYW1pbHk6R2Vvcmdp
+YSwgVGltZXMsIFRpbWVzIE5ldyBSb21hbiwgc2VyaWYiPkthbWkgaW5naW4gbWVuZGVuZ2FyIHBl
+bmRhcGF0IEFuZGEuIFNpbGFrYW4gYmFnaWthbiBwZW5nYWxhbWFuIEFuZGEgZGVuZ2FuIHRpbSBE
+dWt1bmdhbiBXaGF0c0FwcCBkZW5nYW4gbWVsZW5na2FwaSBzdXJ2ZWkgaW5pIHlhbmcgdGVyZGly
+aSBkYXJpIGVtcGF0IHBlcnRhbnlhYW4uIFVudHVrIG1lbXVsYWksIHNpbGFrYW4ga2V0dWsgPGEg
+aHJlZj0iaHR0cHM6Ly93d3cud2hhdHNhcHAuY29tL3N1cnZleS8wLzEwMTQ5ODQzOTYxODQxODg/
+Ij5kaSBzaW5pPC9hPi4gICA8L3A+CjxwIHN0eWxlPSJjb2xvcjojNzE3MTcxOyBmb250LWZhbWls
+eTpHZW9yZ2lhLCBUaW1lcywgVGltZXMgTmV3IFJvbWFuLCBzZXJpZiI+U2lsYWthbiBodWJ1bmdp
+IGthbWkgamlrYSBBbmRhIG1lbWlsaWtpIHBlcnRhbnlhYW4gYXRhdSBtYXNhbGFoIGxhaW4uIEth
+bWkgZGVuZ2FuIHNlbmFuZyBoYXRpIGFrYW4gbWVtYmFudHUuICA8L3A+CjxwIHN0eWxlPSJjb2xv
+cjojNzE3MTcxOyBmb250LWZhbWlseTpHZW9yZ2lhLCBUaW1lcywgVGltZXMgTmV3IFJvbWFuLCBz
+ZXJpZiI+LS0gPGJyPgpUaW0gRHVrdW5nYW4gV2hhdHNBcHAgIDwvcD4KPHAgc3R5bGU9ImNvbG9y
+OiM3MTcxNzE7IGZvbnQtZmFtaWx5Okdlb3JnaWEsIFRpbWVzLCBUaW1lcyBOZXcgUm9tYW4sIHNl
+cmlmIj5TaWxha2FuIGt1bmp1bmdpIDxhIGhyZWY9Imh0dHBzOi8vZmFxLndoYXRzYXBwLmNvbS8i
+PlB1c2F0IEJhbnR1YW48L2E+IGthbWkuICA8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICAgCiAg
+ICAgICAgICAgIDxocj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icXVvdGVkLXRleHQiIHN0eWxl
+PSJtYXJnaW4tbGVmdDo0MHB4Ij4KICAgICAgICAgICAgICAgIDxwIHN0eWxlPSJjb2xvcjojNzE3
+MTcxOyBmb250LWZhbWlseTpHZW9yZ2lhLCBUaW1lcywgVGltZXMgTmV3IFJvbWFuLCBzZXJpZiI+
+SGlsYW5nL2RpY3VyaTogcGVyYW5na2F0IHNheWEgaGlsYW5nIHNhYXQgc2F5YSBtZW5ndW5qdW5n
+aSBrYXJuaXZhbCBwZXJhbmdrYXQgaXR1IGRpdGFzIGRhbiBtdW5na2luIGRpY3VyaSBvcmFuZyBz
+YXlhIGJlcmhhcmFwIGFnYXIgYWt1biBzYXlhIHRlcnNlYnV0IGRpbm9uYWt0aWZrYW4gYWdhciB0
+YWsgZGlzYWxhaGd1bmFrYW4ga2FyZW5hIGp1Z2EgcGVyYW5na2F0IHNheWEgdGFrIGRpYWt0aWZr
+YW4ga3VuY2kgbGF5YXJueWEgc2V0aWRha255YSBzYW1wYWkgcGVyYW5na2F0IHNheWEgZGl0ZW11
+a2FuIGRhbiBzYXlhIGFrYW4ga2VtYmFsaSBtZWxhcG9yIHVudHVrIGtsYXJpZmlrYXNpPGJyPjxi
+cj5Ib3JtYXQ8YnI+WXV0YW1hOyArNjI4ODE4MjA5NzY5PC9wPgogICAgICAgICAgICAgICAgPHBy
+ZT5yZXF1ZXN0ICMxMDE0OTg0Mzk2MTg0MTg4PC9wcmU+CiAgICAgICAgICAgIDwvZGl2PgogICAg
+ICAgIAogICAgPC9ib2R5Pgo8L2h0bWw+Cg==
+
+--===============0708369844168432314==--

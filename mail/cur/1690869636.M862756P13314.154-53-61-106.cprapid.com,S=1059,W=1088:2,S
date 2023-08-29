@@ -1,0 +1,29 @@
+Return-Path: <center@warceuproject.dev>
+Delivered-To: warceu@154-53-61-106.cprapid.com
+Received: from 154-53-61-106.cprapid.com
+	by 154-53-61-106.cprapid.com with LMTP
+	id GQXjMoSfyGQCNAAANuvnvw
+	(envelope-from <center@warceuproject.dev>)
+	for <warceu@154-53-61-106.cprapid.com>; Mon, 31 Jul 2023 23:00:36 -0700
+Return-path: <center@warceuproject.dev>
+Envelope-to: warceu@warceuproject.dev
+Delivery-date: Mon, 31 Jul 2023 23:00:36 -0700
+Received: from localhost ([127.0.0.1]:33880 helo=154-53-61-106.cprapid.com)
+	by 154-53-61-106.cprapid.com with esmtpa (Exim 4.96)
+	(envelope-from <center@warceuproject.dev>)
+	id 1qQozM-0003Sa-0L
+	for warceu@warceuproject.dev;
+	Mon, 31 Jul 2023 23:00:36 -0700
+MIME-Version: 1.0
+Date: Mon, 31 Jul 2023 23:00:36 -0700
+From: center@warceuproject.dev
+To: warceu@warceuproject.dev
+Subject: test
+User-Agent: Roundcube Webmail/1.6.0
+Message-ID: <da86032c06935939f5bcac4569ef3bf3@warceuproject.dev>
+X-Sender: center@warceuproject.dev
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+
+test

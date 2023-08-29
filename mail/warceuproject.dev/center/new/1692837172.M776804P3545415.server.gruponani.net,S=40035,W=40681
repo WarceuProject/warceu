@@ -1,0 +1,646 @@
+Return-Path: <birthdays@facebookmail.com>
+Delivered-To: center@warceuproject.dev
+Received: from server.gruponani.net
+	by server.gruponani.net with LMTP
+	id mGphLTSl5mRHGTYAz1WdsA
+	(envelope-from <birthdays@facebookmail.com>)
+	for <center@warceuproject.dev>; Thu, 24 Aug 2023 07:32:52 +0700
+Return-path: <birthdays@facebookmail.com>
+Envelope-to: center@warceuproject.dev
+Delivery-date: Wed, 23 Aug 2023 17:32:52 -0700
+Received: from 69-171-232-133.mail-mail.facebook.com ([69.171.232.133]:55790)
+	by server.gruponani.net with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <birthdays@facebookmail.com>)
+	id 1qYyHN-00EsJP-0U
+	for center@warceuproject.dev;
+	Wed, 23 Aug 2023 17:32:52 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1692837118;
+	bh=Eofn0unb0pT7AEPIYGn2XkpvmcDIQ48sE8y7ORxUizM=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=hmJQ4suK0VWB/XwypN7UC99L90MlvZycz/Nhl9NnwwovX8kFUdLHhAUvExYysQDCD
+	 FOnDoN/slZcTNduOwTSCINecmBDooFZDgO5+5Hqbahfcm0jMF5CkHfsQ3V3uvUxI9x
+	 W8BNFsuVlzPGseuRZpVoqXunIjbfAjH99/93+B34=
+X-Facebook: from 2401:db00:3120:4110:face:0:24:0 ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTPS (ZuckMail);
+Date: Wed, 23 Aug 2023 17:31:58 -0700
+To: Kira Sinigami <center@warceuproject.dev>
+Subject: =?UTF-8?B?8J+OgiBGdWdjY2hndiBYZ3Zq?=
+ =?UTF-8?B?Z3ZpaHYsIFpoaSBDaGFz?=
+ =?UTF-8?B?dGEsIGRhbiAzIGxhaW5u?=
+ =?UTF-8?B?eWEgYmVydWxhbmcgdGFo?=
+ =?UTF-8?B?dW4gaGFyaSBpbmk=?=
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Facebook Birthdays" <birthdays@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Errors-To: birthdays@facebookmail.com
+X-Facebook-Notify: birthday_reminder; mailid=U1U603a01167152fG5b05a0d4423fG603a05afd1801G1a
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS2FraHbJogWk6w72cg&u=100079731229247&mid=603a01167152fG5b05a0d4423fG60350259d9c39G1a&ee=AY2ofGubbwMN-QsKXxfcV9SIoZ-uLpBQso9bK_XifMxHSYnJ9XGT0YOa7o_mOHZZZjagU5RqakRRMinHfNJEhlFW>
+Feedback-ID: 12:birthday_reminder:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_d1eecdea35668b67ee5315734c5ce1cf"
+Message-ID: <a2874f62-4215-11ee-b8e4-8354fa0bcec5@facebookmail.com>
+X-Spam-Status: No, score=-15.2
+X-Spam-Score: -151
+X-Spam-Bar: ---------------
+X-Ham-Report: Spam detection software, running on the system "server.gruponani.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  ======================================== Lihat Ulang Tahun
+    https://www.facebook.com/n/?events%2Fbirthdays%2F&aref=1692492623617081&medium=email&mid=603a01167152fG5b05a0d4423fG60350259d9c39G1a&bcode=2.
+    [...] 
+ Content analysis details:   (-15.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: facebookmail.com]
+  0.0 TVD_RCVD_IP            Message was received from an IP address
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             welcome-list
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             welcome-list
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.5 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+ -0.0 T_SCC_BODY_TEXT_LINE   No description available.
+ -0.0 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+
+
+--b1_d1eecdea35668b67ee5315734c5ce1cf
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Lihat Ulang Tahun
+https://www.facebook.com/n/?events%2Fbirthdays%2F&aref=3D1692492623617081&=
+medium=3Demail&mid=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&bcode=3D2=
+.1692837118.AbyiodLlOVSDNqZVCZY&n_m=3Dcenter%40warceuproject.dev&lloc=3Dse=
+e_birthdays_text&rms=3Dv2&irms=3Dtrue
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Halo Kira,
+
+Hari ini Fugcchgv Xgvjgvihv, Zhi Chasta, dan 3 lainnya berulang tahun!
+
+Terima kasih,
+Tim Facebook
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Pesan ini dikirim ke center@warceuproject.dev. Jika Anda tidak ingin =
+menerima email dari Meta ini di masa mendatang, ikuti tautan di bawah ini =
+untuk berhenti berlangganan.
+https://www.facebook.com/o.php?k=3DAS2FraHbJogWk6w72cg&u=3D100079731229247=
+&mid=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&ee=3DAY1wNS0UUh1OTtftUF=
+T_PqLW5QBQrlEKf5TElaNXOlc9sgAqYxX0iyI9BwUei60PhYjFyQdO_MmvUVOCOdUVPk4o
+Meta Platforms, Inc., Attention: Community Support, 1 Facebook Way, Menlo =
+Park, CA 94025
+Untuk membantu menjaga akun Anda tetap aman, jangan teruskan email ini. =
+Ikuti tautan di bawah untuk mempelajari selengkapnya.
+https://www.facebook.com/email_forward_notice/?mid=3D603a01167152fG5b05a0d=
+4423fG60350259d9c39G1a
+
+
+--b1_d1eecdea35668b67ee5315734c5ce1cf
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style nonce=3D"MThBEwXa">@media =
+all and (max-width: 480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline =
+!important}*[class].d_mb_flex{display:block =
+!important}}.d_mb_show{display:none}.d_mb_flex{display:flex}@media only =
+screen and (max-device-width: 480px){.d_mb_hide{display:none =
+!important}.d_mb_show{display:block !important}.d_mb_flex{display:block =
+!important}}.mb_text h1,.mb_text h2,.mb_text h3,.mb_text h4,.mb_text =
+h5,.mb_text h6{line-height:normal}.mb_work_text =
+h1{font-size:18px;line-height:normal;margin-top:4px}.mb_work_text =
+h2,.mb_work_text =
+h3{font-size:16px;line-height:normal;margin-top:4px}.mb_work_text =
+h4,.mb_work_text h5,.mb_work_text =
+h6{font-size:14px;line-height:normal}.mb_work_text =
+a{color:#1270e9}.mb_work_text p{margin-top:4px}@font-face{font-family:'Rob=
+oto-Regular';font-style:normal;font-weight:400;src:local('Roboto'), =
+local('Roboto-Regular'), =
+url(https://static.xx.fbcdn.net/rsrc.php/yH/r/c_1vdG88uNh.woff2) =
+format('woff2'), =
+url(https://static.xx.fbcdn.net/rsrc.php/yN/r/KKlOyJQcRfr.woff) =
+format('woff')}@font-face{font-family:'Roboto-Medium';font-style:normal;fo=
+nt-weight:500;src:local('Roboto Medium'), local('Roboto-Medium'), =
+url(https://static.xx.fbcdn.net/rsrc.php/yR/r/RuiWHQ9HuZ-.woff2) =
+format('woff2'), =
+url(https://static.xx.fbcdn.net/rsrc.php/ya/r/5vZjyJccuEw.woff) =
+format('woff')}@font-face{font-family:'Roboto-Bold';font-style:normal;font=
+-weight:700;src:local('Roboto Bold'), local('Roboto-Bold'), =
+url(https://static.xx.fbcdn.net/rsrc.php/yU/r/zSaFQ46AO2w.woff2) =
+format('woff2'), =
+url(https://static.xx.fbcdn.net/rsrc.php/yR/r/_gCoI-iROin.woff) =
+format('woff')}</style></head><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"100%" =
+align=3D"center" style=3D""><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"840" align=3D"center" =
+style=3D""><body style=3D"max-width:420px;margin:0 auto;" dir=3D"ltr" =
+bgcolor=3D"#ffffff"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" id=3D"email_table" =
+style=3D"border-collapse:collapse;max-width:420px;margin:0 auto;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;font-size:1px;opacity:0;">Kira, bantu Fugcchgv, =
+Zhi, dan 3 lainnya merayakan ulang tahun mereka.</span></td></tr><tr><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr style=3D""><td =
+height=3D"15" style=3D"line-height:15px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td width=3D"32" align=3D"left" =
+valign=3D"middle" style=3D"height:32;line-height:0px;"><a =
+href=3D"https://www.facebook.com/n/?profile.php&amp;id=3D100079731229247&a=
+mp;ref=3Dbrem&amp;aref=3D1692492623617081&amp;medium=3Demail&amp;mid=3D603=
+a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.1692837118.AbyiodLl=
+OVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;lloc=3Dheader&amp;rms=
+=3Dv2&amp;irms=3Dtrue" style=3D"color:#1b74e4;text-decoration:none;"><img =
+width=3D"32" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/yc/r/I92GqZOkKcu.png" =
+height=3D"32" style=3D"border:0;" /></a></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><a href=3D"https://www.facebook.com/n/?profile.p=
+hp&amp;id=3D100079731229247&amp;ref=3Dbrem&amp;aref=3D1692492623617081&amp=
+;medium=3Demail&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;=
+bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.=
+dev&amp;lloc=3Dheader&amp;rms=3Dv2&amp;irms=3Dtrue" =
+style=3D"color:#1877f2;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:19p=
+x;line-height:32px;"></a></td></tr><tr style=3D"border-bottom:solid 1px =
+#e5e5e5;"><td height=3D"15" style=3D"line-height:15px;" =
+colspan=3D"3">&nbsp;</td></tr></table></td><td width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr style=3D""><td =
+height=3D"20" style=3D"line-height:20px;">&nbsp;</td></tr><tr><td =
+style=3D""><span class=3D"mb_text" style=3D"color:#050505;font-size:16px;l=
+ine-height:20px;font-weight:400;font-family:Roboto-Regular,Roboto,-apple-s=
+ystem,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-serif;">Hari =
+ini Fugcchgv Xgvjgvihv, Zhi Chasta, dan 3 lainnya berulang =
+tahun!</span></td></tr><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;">&nbsp;</td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;"><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"padding:0;color:#6567=
+6B;text-align:left;width:100%;font-size:15px;font-weight:400;font-family:R=
+oboto-Regular,Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;">Kamis, 24 Agustus =
+2023</td></tr><tr><td><tr style=3D""><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;background:#FFFFFF;border:solid 1px =
+#E4E6EB;border-radius:6px;padding:16px;display:block;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"top" style=3D""><a =
+href=3D"https://www.facebook.com/n/?fugcchgv.xgvjgvihv&amp;composeropen=3D=
+1&amp;aref=3D1692492623617081&amp;medium=3Demail&amp;mid=3D603a01167152fG5=
+b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&=
+amp;n_m=3Dcenter%40warceuproject.dev&amp;rms=3Dv2&amp;irms=3Dtrue&amp;lloc=
+=3Dprofile_pic" style=3D"color:#1b74e4;text-decoration:none;"><img =
+width=3D"90" src=3D"https://scontent.xx.fbcdn.net/v/t39.30808-1/368221712_=
+660235599541010_5672700725012537873_n.jpg?stp=3Dc0.0.100.100a_dst-jpg_p100=
+x100&amp;_nc_cat=3D101&amp;ccb=3D1-7&amp;_nc_sid=3D013ee9&amp;_nc_ohc=3DtX=
+TjkxwptvkAX_2r_1r&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dscontent.x=
+x&amp;oh=3D00_AfDKdWNKqb-6Z0hzBJ0FQxpwdUWw2GNSiIVHSJkMmEP9lw&amp;oe=3D64EB=
+64D9" height=3D"90" style=3D"border:solid 1px =
+rgba(0,0,0,0.15);border-radius:50%;" /></a></td><td width=3D"12" =
+style=3D"display:block;width:12px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"color:#050505;font-size:17px;l=
+ine-height:20px;font-weight:500;font-family:Roboto-Medium,Roboto,-apple-sy=
+stem,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;">Fugcchgv Xgvjgvihv</span></td></tr><tr =
+style=3D""><td height=3D"2" =
+style=3D"line-height:2px;">&nbsp;</td></tr><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"font-family:Roboto-Regular,Rob=
+oto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-s=
+erif;font-size:13px;line-height:16px;color:#65676B;font-weight:400;">23 =
+tahun</span></td></tr><tr style=3D""><td height=3D"8" =
+style=3D"line-height:8px;">&nbsp;</td></tr><tr><td height=3D"36" =
+align=3D"center" style=3D""><a href=3D"https://www.facebook.com/n/?fugcchg=
+v.xgvjgvihv&amp;composeropen=3D1&amp;aref=3D1692492623617081&amp;medium=3D=
+email&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.=
+1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;rm=
+s=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:6px;text-align:center;display:block;background:#1877f2;p=
+adding:8px 16px 10px 16px;"><a href=3D"https://www.facebook.com/n/?fugcchg=
+v.xgvjgvihv&amp;composeropen=3D1&amp;aref=3D1692492623617081&amp;medium=3D=
+email&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.=
+1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;rm=
+s=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#FFFFFF;text-shadow:none;font-weight:500;font=
+-family:Roboto-Medium,Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;font-size:14px;line-height:14px;">Bantu&nb=
+sp;Dia&nbsp;Merayakan</span></font></center></a></td></tr></table></a></td=
+></tr></table></td></tr></table></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;background:#FFFFFF;border:solid 1px =
+#E4E6EB;border-radius:6px;padding:16px;display:block;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"top" style=3D""><a =
+href=3D"https://www.facebook.com/n/?zhi.chasta&amp;composeropen=3D1&amp;ar=
+ef=3D1692492623617081&amp;medium=3Demail&amp;mid=3D603a01167152fG5b05a0d44=
+23fG60350259d9c39G1a&amp;bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=
+=3Dcenter%40warceuproject.dev&amp;rms=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dprof=
+ile_pic" style=3D"color:#1b74e4;text-decoration:none;"><img width=3D"90" =
+src=3D"https://scontent.xx.fbcdn.net/v/t39.30808-1/361861596_2940179130087=
+05_5349640933940856298_n.jpg?stp=3Dc0.0.100.100a_dst-jpg_p100x100&amp;_nc_=
+cat=3D100&amp;ccb=3D1-7&amp;_nc_sid=3D013ee9&amp;_nc_ohc=3DG61-xOEHsjAAX89=
+oT4z&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dscontent.xx&amp;oh=3D00=
+_AfBtOYJG0-sDjKFjPSshfQgy13UyZf1HNXW44lCX99MB0g&amp;oe=3D64EC3787" =
+height=3D"90" style=3D"border:solid 1px =
+rgba(0,0,0,0.15);border-radius:50%;" /></a></td><td width=3D"12" =
+style=3D"display:block;width:12px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"color:#050505;font-size:17px;l=
+ine-height:20px;font-weight:500;font-family:Roboto-Medium,Roboto,-apple-sy=
+stem,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-serif;">Zhi =
+Chasta</span></td></tr><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;">&nbsp;</td></tr><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"font-family:Roboto-Regular,Rob=
+oto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-s=
+erif;font-size:13px;line-height:16px;color:#65676B;font-weight:400;">19 =
+tahun</span></td></tr><tr style=3D""><td height=3D"8" =
+style=3D"line-height:8px;">&nbsp;</td></tr><tr><td height=3D"36" =
+align=3D"center" style=3D""><a href=3D"https://www.facebook.com/n/?zhi.cha=
+sta&amp;composeropen=3D1&amp;aref=3D1692492623617081&amp;medium=3Demail&am=
+p;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.16928371=
+18.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;rms=3Dv2&a=
+mp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:6px;text-align:center;display:block;background:#1877f2;p=
+adding:8px 16px 10px 16px;"><a href=3D"https://www.facebook.com/n/?zhi.cha=
+sta&amp;composeropen=3D1&amp;aref=3D1692492623617081&amp;medium=3Demail&am=
+p;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.16928371=
+18.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;rms=3Dv2&a=
+mp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#FFFFFF;text-shadow:none;font-weight:500;font=
+-family:Roboto-Medium,Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;font-size:14px;line-height:14px;">Bantu&nb=
+sp;Dia&nbsp;Merayakan</span></font></center></a></td></tr></table></a></td=
+></tr></table></td></tr></table></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;background:#FFFFFF;border:solid 1px =
+#E4E6EB;border-radius:6px;padding:16px;display:block;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"top" style=3D""><a =
+href=3D"https://www.facebook.com/n/?profile.php&amp;id=3D100080520886766&a=
+mp;composeropen=3D1&amp;aref=3D1692492623617081&amp;medium=3Demail&amp;mid=
+=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.1692837118.Ab=
+yiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;rms=3Dv2&amp;ir=
+ms=3Dtrue&amp;lloc=3Dprofile_pic" =
+style=3D"color:#1b74e4;text-decoration:none;"><img width=3D"90" =
+src=3D"https://scontent.xx.fbcdn.net/v/t39.30808-1/279902632_1187077241565=
+90_717023277282066552_n.jpg?stp=3Dc0.3.100.100a_dst-jpg_p100x100&amp;_nc_c=
+at=3D101&amp;ccb=3D1-7&amp;_nc_sid=3D013ee9&amp;_nc_ohc=3DLqhU6w9xSDQAX8Hh=
+YYk&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dscontent.xx&amp;oh=3D00_=
+AfDyxFd4Ll_G04K9gffYoO1wQQcjAWV4Hfs0EqI4ksSLBQ&amp;oe=3D64EAE7E1" =
+height=3D"90" style=3D"border:solid 1px =
+rgba(0,0,0,0.15);border-radius:50%;" /></a></td><td width=3D"12" =
+style=3D"display:block;width:12px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"color:#050505;font-size:17px;l=
+ine-height:20px;font-weight:500;font-family:Roboto-Medium,Roboto,-apple-sy=
+stem,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-serif;">Angga =
+SyahputraYoo</span></td></tr><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;">&nbsp;</td></tr><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"font-family:Roboto-Regular,Rob=
+oto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-s=
+erif;font-size:13px;line-height:16px;color:#65676B;font-weight:400;">18 =
+tahun</span></td></tr><tr style=3D""><td height=3D"8" =
+style=3D"line-height:8px;">&nbsp;</td></tr><tr><td height=3D"36" =
+align=3D"center" style=3D""><a href=3D"https://www.facebook.com/n/?profile=
+.php&amp;id=3D100080520886766&amp;composeropen=3D1&amp;aref=3D169249262361=
+7081&amp;medium=3Demail&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39=
+G1a&amp;bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceu=
+project.dev&amp;rms=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:6px;text-align:center;display:block;background:#1877f2;p=
+adding:8px 16px 10px 16px;"><a href=3D"https://www.facebook.com/n/?profile=
+.php&amp;id=3D100080520886766&amp;composeropen=3D1&amp;aref=3D169249262361=
+7081&amp;medium=3Demail&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39=
+G1a&amp;bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceu=
+project.dev&amp;rms=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#FFFFFF;text-shadow:none;font-weight:500;font=
+-family:Roboto-Medium,Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;font-size:14px;line-height:14px;">Bantu&nb=
+sp;Dia&nbsp;Merayakan</span></font></center></a></td></tr></table></a></td=
+></tr></table></td></tr></table></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;background:#FFFFFF;border:solid 1px =
+#E4E6EB;border-radius:6px;padding:16px;display:block;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"top" style=3D""><a =
+href=3D"https://www.facebook.com/n/?profile.php&amp;id=3D100081061802044&a=
+mp;composeropen=3D1&amp;aref=3D1692492623617081&amp;medium=3Demail&amp;mid=
+=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.1692837118.Ab=
+yiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;rms=3Dv2&amp;ir=
+ms=3Dtrue&amp;lloc=3Dprofile_pic" =
+style=3D"color:#1b74e4;text-decoration:none;"><img width=3D"90" =
+src=3D"https://scontent.xx.fbcdn.net/v/t1.30497-1/143086968_28563689046221=
+92_1959732218791162458_n.png?stp=3Ddst-png_p100x100&amp;_nc_cat=3D1&amp;cc=
+b=3D1-7&amp;_nc_sid=3D013ee9&amp;_nc_ohc=3D5u62LPpCL0kAX-oTiY9&amp;_nc_ad=
+=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dscontent.xx&amp;oh=3D00_AfDQnQFXyWLJw1=
+4-cpDKEinXEshASX_VmEmpjUemNo2iBw&amp;oe=3D650E1B78" height=3D"90" =
+style=3D"border:solid 1px rgba(0,0,0,0.15);border-radius:50%;" =
+/></a></td><td width=3D"12" =
+style=3D"display:block;width:12px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"color:#050505;font-size:17px;l=
+ine-height:20px;font-weight:500;font-family:Roboto-Medium,Roboto,-apple-sy=
+stem,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-serif;">Salim =
+Nur</span></td></tr><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;">&nbsp;</td></tr><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"font-family:Roboto-Regular,Rob=
+oto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-s=
+erif;font-size:13px;line-height:16px;color:#65676B;font-weight:400;">19 =
+tahun</span></td></tr><tr style=3D""><td height=3D"8" =
+style=3D"line-height:8px;">&nbsp;</td></tr><tr><td height=3D"36" =
+align=3D"center" style=3D""><a href=3D"https://www.facebook.com/n/?profile=
+.php&amp;id=3D100081061802044&amp;composeropen=3D1&amp;aref=3D169249262361=
+7081&amp;medium=3Demail&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39=
+G1a&amp;bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceu=
+project.dev&amp;rms=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:6px;text-align:center;display:block;background:#1877f2;p=
+adding:8px 16px 10px 16px;"><a href=3D"https://www.facebook.com/n/?profile=
+.php&amp;id=3D100081061802044&amp;composeropen=3D1&amp;aref=3D169249262361=
+7081&amp;medium=3Demail&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39=
+G1a&amp;bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceu=
+project.dev&amp;rms=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#FFFFFF;text-shadow:none;font-weight:500;font=
+-family:Roboto-Medium,Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;font-size:14px;line-height:14px;">Bantu&nb=
+sp;Dia&nbsp;Merayakan</span></font></center></a></td></tr></table></a></td=
+></tr></table></td></tr></table></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;background:#FFFFFF;border:solid 1px =
+#E4E6EB;border-radius:6px;padding:16px;display:block;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"top" style=3D""><a =
+href=3D"https://www.facebook.com/n/?profile.php&amp;id=3D100072236761234&a=
+mp;composeropen=3D1&amp;aref=3D1692492623617081&amp;medium=3Demail&amp;mid=
+=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.1692837118.Ab=
+yiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;rms=3Dv2&amp;ir=
+ms=3Dtrue&amp;lloc=3Dprofile_pic" =
+style=3D"color:#1b74e4;text-decoration:none;"><img width=3D"90" =
+src=3D"https://scontent.xx.fbcdn.net/v/t39.30808-1/339808087_7457974671412=
+42_6214625512776755273_n.jpg?stp=3Dc4.0.100.100a_dst-jpg_p100x100&amp;_nc_=
+cat=3D110&amp;ccb=3D1-7&amp;_nc_sid=3D013ee9&amp;_nc_ohc=3DIMW9DMNV2PEAX-A=
+VEuf&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dscontent.xx&amp;oh=3D00=
+_AfD741_NQElXI-vshmgisDFas-lvTioB1MWpRqOKHOAbqw&amp;oe=3D64EC4F2E" =
+height=3D"90" style=3D"border:solid 1px =
+rgba(0,0,0,0.15);border-radius:50%;" /></a></td><td width=3D"12" =
+style=3D"display:block;width:12px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><table border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"color:#050505;font-size:17px;l=
+ine-height:20px;font-weight:500;font-family:Roboto-Medium,Roboto,-apple-sy=
+stem,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-serif;">M =
+Saepudin</span></td></tr><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;">&nbsp;</td></tr><tr><td align=3D"left" =
+style=3D""><span class=3D"mb_text" style=3D"font-family:Roboto-Regular,Rob=
+oto,-apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,sans-s=
+erif;font-size:13px;line-height:16px;color:#65676B;font-weight:400;">19 =
+tahun</span></td></tr><tr style=3D""><td height=3D"8" =
+style=3D"line-height:8px;">&nbsp;</td></tr><tr><td height=3D"36" =
+align=3D"center" style=3D""><a href=3D"https://www.facebook.com/n/?profile=
+.php&amp;id=3D100072236761234&amp;composeropen=3D1&amp;aref=3D169249262361=
+7081&amp;medium=3Demail&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39=
+G1a&amp;bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceu=
+project.dev&amp;rms=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:6px;text-align:center;display:block;background:#1877f2;p=
+adding:8px 16px 10px 16px;"><a href=3D"https://www.facebook.com/n/?profile=
+.php&amp;id=3D100072236761234&amp;composeropen=3D1&amp;aref=3D169249262361=
+7081&amp;medium=3Demail&amp;mid=3D603a01167152fG5b05a0d4423fG60350259d9c39=
+G1a&amp;bcode=3D2.1692837118.AbyiodLlOVSDNqZVCZY&amp;n_m=3Dcenter%40warceu=
+project.dev&amp;rms=3Dv2&amp;irms=3Dtrue&amp;lloc=3Dtimeline" =
+style=3D"color:#1b74e4;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#FFFFFF;text-shadow:none;font-weight:500;font=
+-family:Roboto-Medium,Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;font-size:14px;line-height:14px;">Bantu&nb=
+sp;Dia&nbsp;Merayakan</span></font></center></a></td></tr></table></a></td=
+></tr></table></td></tr></table></td></tr></table></td></tr></td></tr></ta=
+ble></td></tr></table></td></tr><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;">&nbsp;</td></tr></table></td><td width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr style=3D""><td =
+height=3D"0" style=3D"line-height:0px;">&nbsp;</td></tr><tr><td =
+align=3D"middle" style=3D""><a href=3D"https://www.facebook.com/n/?events%=
+2Fbirthdays%2F&amp;aref=3D1692492623617081&amp;medium=3Demail&amp;mid=3D60=
+3a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.1692837118.AbyiodL=
+lOVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;lloc=3Dsee_birthdays=
+&amp;rms=3Dv2&amp;irms=3Dtrue" =
+style=3D"color:#1b74e4;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:6px;text-align:center;display:block;background:#e4e6eb;p=
+adding:6px 20px 7px 20px;"><a href=3D"https://www.facebook.com/n/?events%2=
+Fbirthdays%2F&amp;aref=3D1692492623617081&amp;medium=3Demail&amp;mid=3D603=
+a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;bcode=3D2.1692837118.AbyiodLl=
+OVSDNqZVCZY&amp;n_m=3Dcenter%40warceuproject.dev&amp;lloc=3Dsee_birthdays&=
+amp;rms=3Dv2&amp;irms=3Dtrue" =
+style=3D"color:#1b74e4;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#050505;font-size:17px;text-shadow:none;font-=
+weight:500;font-family:Roboto-Medium,Roboto,-apple-system,BlinkMacSystemFo=
+nt,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:15px;">Lihat&nbsp;U=
+lang&nbsp;Tahun</span></font></center></a></td></tr></table></a></td></tr>=
+<tr style=3D""><td height=3D"8" =
+style=3D"line-height:8px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"40" style=3D"line-height:40px;">&nbsp;</td></tr></table></td><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"left" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:14px;color:#65676B;"><span =
+style=3D"padding-right:12px;font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;">Apakah email ini:</span><span =
+style=3D"color:#141823;font-size:14px;font-weight:normal;line-height:24px;=
+font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;"><a =
+style=3D"color:#1b74e4;text-decoration:none;" href=3D"https://www.facebook=
+.com/email_notification_feedback/?is_useful=3D1&amp;next_href=3Dhttps%3A%2=
+F%2Fwww.facebook.com%2Fn%2F%3Fevents%252Fbirthdays%252F%26extra_data%255Bs=
+tart_date%255D%3D2023%252F08%252F24%26extra_data%255Bnotif_id%255D%3D16924=
+92623617081%26extra_data%255Bnotif_type%255D%3Dbirthday_reminder%26aref%3D=
+1692492623617081%26medium%3Demail%26mid%3D603a01167152fG5b05a0d4423fG60350=
+259d9c39G1a%26bcode%3D2.1692837118.AbyiodLlOVSDNqZVCZY%26n_m%3Dcenter%2540=
+warceuproject.dev&amp;ndid=3D603a01167152fG5b05a0d4423fG60350259d9c39G1a">=
+Bermanfaat</a></span><span style=3D"padding:0 =
+12px;color:#C9CCD1;font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;"> | </span><span =
+style=3D"color:#141823;font-size:14px;font-weight:normal;line-height:24px;=
+font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;"><a =
+style=3D"color:#1b74e4;text-decoration:none;" href=3D"https://www.facebook=
+.com/email_notification_feedback/?is_useful=3D0&amp;next_href=3Dhttps%3A%2=
+F%2Fwww.facebook.com%2Fn%2F%3Fhome.php%26aref%3D1692492623617081%26medium%=
+3Demail%26mid%3D603a01167152fG5b05a0d4423fG60350259d9c39G1a%26bcode%3D2.16=
+92837118.AbyiodLlOVSDNqZVCZY%26n_m%3Dcenter%2540warceuproject.dev%26lloc%3=
+D2nd_cta%26rms%3Dv2%26irms%3Dtrue&amp;ndid=3D603a01167152fG5b05a0d4423fG60=
+350259d9c39G1a">Tidak Bermanfaat</a></span></td></tr><tr style=3D""><td =
+height=3D"15" style=3D"line-height:15px;">&nbsp;</td></tr></table></td><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"left" style=3D"border-collapse:collapse;"><tr =
+style=3D"border-top:solid 1px #e5e5e5;"><td height=3D"19" =
+style=3D"line-height:19px;">&nbsp;</td></tr><tr><td style=3D"font-family:R=
+oboto-Regular,Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;font-size:11px;color:#8A8D91;line-height:1=
+6px;font-weight:400;">Pesan ini dikirim ke <a =
+href=3D"mailto:center&#064;warceuproject.dev" style=3D"color:#1b74e4;text-=
+decoration:none;">center&#064;warceuproject.dev</a>. Jika Anda tidak ingin =
+menerima email dari Meta ini di masa mendatang, <a href=3D"https://www.fac=
+ebook.com/o.php?k=3DAS2FraHbJogWk6w72cg&amp;u=3D100079731229247&amp;mid=3D=
+603a01167152fG5b05a0d4423fG60350259d9c39G1a&amp;ee=3DAY0AOL9fDNTFvccMKL61d=
+M65TiTZkQnwnKR7LaAIk9x2tOBw3gwLapUM2faVKhyvWTyey3hFGabi5JaIqJc3fXOZ" =
+style=3D"color:#1b74e4;text-decoration:none;">berhenti =
+berlangganan</a>.<br />Meta Platforms, Inc., Attention: Community Support, =
+1 Facebook Way, Menlo Park, CA 94025</td></tr></table></td><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-family:Roboto-Regular,Roboto,-apple-system,BlinkMacSystemFon=
+t,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:11px;color:#8A8D91;l=
+ine-height:16px;font-weight:400;"><span class=3D"mb_text" =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;;font-fami=
+ly:Roboto-Regular,Roboto,-apple-system,BlinkMacSystemFont,Helvetica =
+Neue,Helvetica,Arial,sans-serif;font-size:11px;color:#8A8D91;line-height:1=
+6px;font-weight:400;">Untuk membantu menjaga akun Anda tetap aman, jangan =
+teruskan email ini. <a style=3D"color:#1b74e4;text-decoration:none;" =
+href=3D"https://www.facebook.com/email_forward_notice/?mid=3D603a01167152f=
+G5b05a0d4423fG60350259d9c39G1a">Pelajari =
+selengkapnya</a></span></td></tr></table></td><td width=3D"16" =
+style=3D"display:block;width:16px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3D603a01167152f=
+G5b05a0d4423fG60350259d9c39G1a" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></td></tr></table></td></tr></table></ht=
+ml>
+
+
+
+--b1_d1eecdea35668b67ee5315734c5ce1cf--
+
